@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1 Tiny//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-tiny.dtd">
-<svg version="1.1" baseProfile="tiny"
-	 id="svg2" inkscape:export-ydpi="90" inkscape:export-xdpi="90" inkscape:export-filename="/home/kivutar/Bureau/lakka-menu/resume.png" sodipodi:docname="resume.svg" inkscape:version="0.48.4 r9939" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:cc="http://creativecommons.org/ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/"
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" inkscape:export-filename="/home/kivutar/Bureau/lakka-menu/reload.png" inkscape:export-xdpi="90" inkscape:version="0.48.4 r9939" inkscape:export-ydpi="90" sodipodi:docname="reload.svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px" height="64px"
-	 viewBox="0 0 64 64" xml:space="preserve">
-<sodipodi:namedview  id="base" inkscape:document-units="px" inkscape:window-height="838" inkscape:window-y="27" inkscape:pageopacity="0.0" inkscape:window-width="1440" inkscape:pageshadow="2" inkscape:window-maximized="1" inkscape:window-x="0" inkscape:current-layer="layer1" borderopacity="1.0" showgrid="true" inkscape:cy="89.282194" inkscape:zoom="7.9195959" bordercolor="#666666" inkscape:cx="108.88133" pagecolor="#ffffff">
-	<inkscape:grid  id="grid2985" type="xygrid" snapvisiblegridlinesonly="true" visible="true" enabled="true" empspacing="4">
-		</inkscape:grid>
-</sodipodi:namedview>
-<g id="layer1" transform="translate(0,-860.36218)" inkscape:label="Calque 1" inkscape:groupmode="layer">
-	<path id="path2998" inkscape:connector-curvature="0" fill="#ECF0F1" d="M40,892.362l-12-8v16L40,892.362z"/>
-	<path id="rect3002" sodipodi:nodetypes="ccccc" inkscape:connector-curvature="0" fill="#ECF0F1" d="M24,884.362h2v16h-2V884.362z"
-		/>
-</g>
+	 viewBox="0 128 64 64" enable-background="new 0 128 64 64" xml:space="preserve">
+<path id="Resume" fill="#F2F2F2" d="M28,152v16l12-8L28,152z M26,168h-2v-16h2V168z"/>
 </svg>

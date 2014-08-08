@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1 Tiny//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-tiny.dtd">
-<svg version="1.1" baseProfile="tiny" id="Calque_1"
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" inkscape:export-filename="/home/kivutar/Bureau/lakka-menu/reload.png" inkscape:export-xdpi="90" inkscape:version="0.48.4 r9939" inkscape:export-ydpi="90" sodipodi:docname="reload.svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px" height="64px"
-	 viewBox="0 0 64 64" xml:space="preserve">
-<path id="Megadrive_3_" fill="#F2F2F2" d="M57,14H7c-0.462,0-1,0.538-1,1v34c0,0.464,0.538,1,1,1h50c0.463,0,1-0.536,1-1V15
-	C58,14.538,57.463,14,57,14z M50,43c0,0.925-1.075,2-2,2H16c-0.925,0-2-1.075-2-2V18c0-0.924,1.075-2,2-2h32c0.925,0,2,1.076,2,2V43
-	z M48,42c0,0.553-0.447,1-1,1H17c-0.553,0-1-0.447-1-1V19c0-0.553,0.447-1,1-1h30c0.553,0,1,0.447,1,1V42z"/>
+	 viewBox="0 128 64 64" enable-background="new 0 128 64 64" xml:space="preserve">
+<path id="Master_System" fill="#F2F2F2" d="M58,152v-8c0-1,0-1-1-1H7c-1,0-1,0-1,1v8h1v1H6v1h1v1H6v1h1v1H6v19c0,1,0,1,1,1h50
+	c1,0,1,0,1-1v-19h-1v-1h1v-1h-1v-1h1v-1h-1v-1H58z M57,150c0,0.553-0.447,1-1,1H8c-0.553,0-1-0.447-1-1v-5c0-0.553,0.447-1,1-1h48
+	c0.553,0,1,0.447,1,1V150z M55,148c0,0.553-0.447,1-1,1H10c-0.553,0-1-0.447-1-1v-1c0-0.553,0.447-1,1-1h44c0.553,0,1,0.447,1,1V148
+	z"/>
 </svg>
