@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1"
-	 id="svg2" inkscape:export-filename="/home/kivutar/Bureau/lakka-menu/reload.png" inkscape:export-xdpi="90" inkscape:version="0.48.4 r9939" inkscape:export-ydpi="90" sodipodi:docname="reload.svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px" height="64px"
-	 viewBox="0 128 64 64" enable-background="new 0 128 64 64" xml:space="preserve">
-<path id="SG-1000" fill="#F2F2F2" d="M57,148H7c-2.209,0-4,1.791-4,4v16c0,2.209,1.791,4,4,4h50c2.209,0,4-1.791,4-4v-16
-	C61,149.791,59.209,148,57,148z M17,168c-4.418,0-8-3.582-8-8s3.582-8,8-8s8,3.582,8,8S21.418,168,17,168z M44,164
-	c0,1.657-1.343,3-3,3s-3-1.343-3-3v-3c0-1.657,1.343-3,3-3s3,1.343,3,3V164z M55,164c0,1.657-1.343,3-3,3s-3-1.343-3-3v-3
-	c0-1.657,1.343-3,3-3s3,1.343,3,3V164z M19,160c0,1.104-0.896,2-2,2s-2-0.896-2-2s0.896-2,2-2S19,158.896,19,160z M18,156
-	c0,0.553-0.447,1-1,1l0,0c-0.553,0-1-0.447-1-1v-2c0-0.553,0.447-1,1-1l0,0c0.553,0,1,0.447,1,1V156z M18,166c0,0.553-0.447,1-1,1
-	l0,0c-0.553,0-1-0.447-1-1v-2c0-0.553,0.447-1,1-1l0,0c0.553,0,1,0.447,1,1V166z M13,159c0.553,0,1,0.447,1,1l0,0
-	c0,0.553-0.447,1-1,1h-2c-0.553,0-1-0.447-1-1l0,0c0-0.553,0.447-1,1-1H13z M23,159c0.553,0,1,0.447,1,1l0,0c0,0.553-0.447,1-1,1h-2
-	c-0.553,0-1-0.447-1-1l0,0c0-0.553,0.447-1,1-1H23z M55,154H38v-3h17V154z"/>
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<path id="SG-1000" fill="#F2F2F2" d="M57,20H7c-2.209,0-4,1.791-4,4v16c0,2.209,1.791,4,4,4h50c2.209,0,4-1.791,4-4V24
+	C61,21.791,59.209,20,57,20z M17,40c-4.418,0-8-3.582-8-8s3.582-8,8-8s8,3.582,8,8S21.418,40,17,40z M44,36c0,1.657-1.343,3-3,3
+	s-3-1.343-3-3v-3c0-1.657,1.343-3,3-3s3,1.343,3,3V36z M55,36c0,1.657-1.343,3-3,3s-3-1.343-3-3v-3c0-1.657,1.343-3,3-3s3,1.343,3,3
+	V36z M19,32c0,1.104-0.896,2-2,2s-2-0.896-2-2s0.896-2,2-2S19,30.896,19,32z M18,28c0,0.553-0.447,1-1,1l0,0c-0.553,0-1-0.447-1-1
+	v-2c0-0.553,0.447-1,1-1l0,0c0.553,0,1,0.447,1,1V28z M18,38c0,0.553-0.447,1-1,1l0,0c-0.553,0-1-0.447-1-1v-2c0-0.553,0.447-1,1-1
+	l0,0c0.553,0,1,0.447,1,1V38z M13,31c0.553,0,1,0.447,1,1l0,0c0,0.553-0.447,1-1,1h-2c-0.553,0-1-0.447-1-1l0,0c0-0.553,0.447-1,1-1
+	H13z M23,31c0.553,0,1,0.447,1,1l0,0c0,0.553-0.447,1-1,1h-2c-0.553,0-1-0.447-1-1l0,0c0-0.553,0.447-1,1-1H23z M55,25
+	c0,0.553-0.447,1-1,1H39c-0.553,0-1-0.447-1-1v-1c0-0.553,0.447-1,1-1h15c0.553,0,1,0.447,1,1V25z"/>
 </svg>
