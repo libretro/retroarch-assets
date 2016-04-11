@@ -14,11 +14,11 @@
    height="64"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    inkscape:export-filename="/home/kivutar/Bureau/RetroArch/media/lakka/dinothawr.png"
    inkscape:export-xdpi="270"
    inkscape:export-ydpi="270"
-   sodipodi:docname="Nouveau document 1">
+   sodipodi:docname="Game.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -58,15 +58,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284271"
-     inkscape:cx="-31.829052"
-     inkscape:cy="5.1906571"
+     inkscape:cx="-99.004197"
+     inkscape:cy="4.4835503"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="svg2"
      showgrid="true"
      inkscape:snap-bbox="false"
      inkscape:snap-global="false"
      inkscape:window-width="1440"
-     inkscape:window-height="838"
+     inkscape:window-height="836"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1">
@@ -86,15 +86,10 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="fond"
-     style="opacity:0.5;display:inline" />
   <g
      inkscape:label="contours"
      inkscape:groupmode="layer"
@@ -282,7 +277,7 @@
        sodipodi:cy="12.5"
        sodipodi:rx="0.5"
        sodipodi:ry="0.5"
-       d="m 31,12.5 a 0.5,0.5 0 1 1 -1,0 0.5,0.5 0 1 1 1,0 z"
+       d="M 31,12.5 A 0.5,0.5 0 0 1 30.5,13 0.5,0.5 0 0 1 30,12.5 0.5,0.5 0 0 1 30.5,12 0.5,0.5 0 0 1 31,12.5 Z"
        transform="translate(0,988.36218)" />
     <path
        style="fill:#ecf0f1;fill-opacity:1;stroke:#2c3e50;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -300,7 +295,7 @@
        sodipodi:cy="12.5"
        sodipodi:rx="0.5"
        sodipodi:ry="0.5"
-       d="m 31,12.5 a 0.5,0.5 0 1 1 -1,0 0.5,0.5 0 1 1 1,0 z" />
+       d="M 31,12.5 A 0.5,0.5 0 0 1 30.5,13 0.5,0.5 0 0 1 30,12.5 0.5,0.5 0 0 1 30.5,12 0.5,0.5 0 0 1 31,12.5 Z" />
     <path
        style="fill:#27ae60;fill-opacity:1;stroke:#2c3e50;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        d="m 10,20 c 1.994109,-1.456763 1.408048,-2.847781 2,-4"

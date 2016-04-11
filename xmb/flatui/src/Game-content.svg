@@ -13,11 +13,11 @@
    height="64"
    id="svg4048"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    inkscape:export-filename="/home/kivutar/Bureau/RetroArch/media/lakka/dinothawr-content.png"
    inkscape:export-xdpi="270"
    inkscape:export-ydpi="270"
-   sodipodi:docname="Nouveau document 16">
+   sodipodi:docname="Game-content.svg">
   <defs
      id="defs4050" />
   <sodipodi:namedview
@@ -28,15 +28,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.959798"
-     inkscape:cx="-36.577733"
-     inkscape:cy="31.40098"
+     inkscape:cx="-69.358552"
+     inkscape:cy="30.895904"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="svg4048"
      showgrid="true"
      inkscape:snap-bbox="false"
      inkscape:snap-global="false"
      inkscape:window-width="1440"
-     inkscape:window-height="838"
+     inkscape:window-height="836"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1">
@@ -56,15 +56,10 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     inkscape:groupmode="layer"
-     id="layer4"
-     inkscape:label="fond"
-     style="opacity:1" />
   <g
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
