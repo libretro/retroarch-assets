@@ -1,9 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="198" height="248" viewBox="0 0 198 248">
+<svg id="png_Atari_-_7800-content.png_src_Atari_-_7800-content.svg" data-name="png/Atari - 7800-content.png, src/Atari - 7800-content.svg" xmlns="http://www.w3.org/2000/svg" width="198" height="248" viewBox="0 0 198 248">
   <defs>
     <style>
       .cls-1 {
         fill: #2b3e51;
-        fill-rule: evenodd;
       }
 
       .cls-2 {
@@ -15,10 +14,8 @@
       }
     </style>
   </defs>
-  <g>
-    <path d="M12.000,-0.000 L186.000,-0.000 C192.627,-0.000 198.000,5.373 198.000,12.000 L198.000,242.000 C198.000,245.314 195.314,248.000 192.000,248.000 L6.000,248.000 C2.686,248.000 -0.000,245.314 -0.000,242.000 L-0.000,12.000 C-0.000,5.373 5.373,-0.000 12.000,-0.000 Z" class="cls-1"/>
-    <path d="M9.000,4.000 L189.000,4.000 C193.971,4.000 198.000,8.029 198.000,13.000 C198.000,17.971 193.971,22.000 189.000,22.000 L9.000,22.000 C4.029,22.000 -0.000,17.971 -0.000,13.000 C-0.000,8.029 4.029,4.000 9.000,4.000 Z" class="cls-1"/>
-    <rect width="198" height="14" rx="6" ry="6" class="cls-2"/>
-    <rect x="15" y="46" width="167" height="188" rx="12" ry="12" class="cls-3"/>
-  </g>
+  <path id="Rounded_Rectangle_5" data-name="Rounded Rectangle 5" class="cls-1" d="M12,0H186a12,12,0,0,1,12,12V242a6,6,0,0,1-6,6H6a6,6,0,0,1-6-6V12A12,12,0,0,1,12,0Z"/>
+  <rect id="Rounded_Rectangle_5-2" data-name="Rounded Rectangle 5" class="cls-1" y="4" width="198" height="18" rx="9" ry="9"/>
+  <rect id="Rounded_Rectangle_5-3" data-name="Rounded Rectangle 5" class="cls-2" width="198" height="14" rx="6" ry="6"/>
+  <rect id="Rounded_Rectangle_5-4" data-name="Rounded Rectangle 5" class="cls-3" x="15" y="46" width="167" height="188" rx="12" ry="12"/>
 </svg>
