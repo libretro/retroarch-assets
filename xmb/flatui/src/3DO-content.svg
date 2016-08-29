@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="243.812" height="243.812" viewBox="0 0 243.812 243.812">
+<svg id="png_3DO-content.png_src_3DO-content.svg" data-name="png/3DO-content.png, src/3DO-content.svg" xmlns="http://www.w3.org/2000/svg" width="243.812" height="243.812" viewBox="0 0 243.812 243.812">
   <defs>
     <style>
+      .cls-1, .cls-2, .cls-4, .cls-5 {
+        fill: none;
+      }
+
       .cls-1 {
         stroke: #227fbb;
         stroke-width: 87px;
-      }
-
-      .cls-1, .cls-2, .cls-4, .cls-5 {
-        fill: none;
       }
 
       .cls-2 {
@@ -31,13 +31,11 @@
       }
     </style>
   </defs>
-  <g>
-    <circle cx="121.906" cy="121.906" r="73" class="cls-1"/>
-    <circle cx="121.906" cy="121.906" r="26.531" class="cls-2"/>
-    <path d="M154.888,100.844 C151.730,95.433 147.301,90.858 142.007,87.526 L182.365,20.574 C198.578,30.330 212.260,43.869 222.196,59.972 L154.888,100.844 ZM102.538,154.234 L61.887,224.252 C45.560,214.672 31.735,201.285 21.627,185.303 L89.162,141.911 C92.574,147.003 97.163,151.237 102.538,154.234 Z" class="cls-3"/>
-    <circle cx="121.375" cy="121.375" r="43.844" class="cls-4"/>
-    <circle cx="121.906" cy="121.906" r="38.875" class="cls-5"/>
-    <circle cx="121.906" cy="121.906" r="13.719" class="cls-5"/>
-    <circle cx="121.906" cy="121.906" r="118.906" class="cls-4"/>
-  </g>
+  <circle id="Fond" class="cls-1" cx="121.906" cy="121.906" r="73"/>
+  <circle id="Intérieur" class="cls-2" cx="121.906" cy="121.906" r="26.531"/>
+  <path id="Mid" class="cls-3" d="M228.289,66.066a118.866,118.866,0,0,0-39.831-39.4L128,126.966ZM27.721,191.4a118.857,118.857,0,0,0,40.26,38.948L128,126.966ZM127.483,87.678a38.771,38.771,0,1,1-38.771,38.771A38.771,38.771,0,0,1,127.483,87.678Z" transform="translate(-6.094 -6.094)"/>
+  <circle id="Outline_extérieur" data-name="Outline extérieur" class="cls-4" cx="121.375" cy="121.375" r="43.844"/>
+  <circle id="Stroke_in_out" data-name="Stroke in, out" class="cls-5" cx="121.906" cy="121.906" r="38.875"/>
+  <circle id="Stroke_in_in" data-name="Stroke in, in" class="cls-5" cx="121.906" cy="121.906" r="13.719"/>
+  <circle id="Outline_extérieur-2" data-name="Outline extérieur" class="cls-4" cx="121.906" cy="121.906" r="118.906"/>
 </svg>

@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="248" height="112" viewBox="0 0 248 112">
+<svg id="png_3DO.png_src_3DO.svg" data-name="png/3DO.png, src/3DO.svg" xmlns="http://www.w3.org/2000/svg" width="248" height="112" viewBox="0 0 248 112">
   <defs>
     <style>
       .cls-1, .cls-3 {
         fill: #33485f;
       }
 
-      .cls-1, .cls-2, .cls-7, .cls-8 {
+      .cls-1, .cls-2, .cls-7 {
         fill-rule: evenodd;
       }
 
@@ -34,25 +34,23 @@
       }
     </style>
   </defs>
-  <g>
-    <g>
-      <path d="M81.000,4.000 C80.766,1.692 80.196,0.365 76.000,-0.000 C71.037,-0.432 40.678,7.539 39.000,8.000 C37.322,8.461 37.000,16.000 37.000,16.000 C37.000,16.000 65.643,14.754 81.000,4.000 Z" class="cls-1"/>
-      <path d="M167.000,4.000 C167.234,1.692 167.804,0.365 172.000,-0.000 C176.963,-0.432 207.322,7.539 209.000,8.000 C210.678,8.461 211.000,16.000 211.000,16.000 C211.000,16.000 182.357,14.754 167.000,4.000 Z" class="cls-1"/>
-    </g>
-    <path d="M200.000,112.000 C172.063,112.000 159.244,96.000 124.000,96.000 C88.756,96.000 75.937,112.000 48.000,112.000 C29.464,112.000 -0.000,96.478 -0.000,64.000 C-0.000,13.064 72.897,-0.000 124.000,-0.000 C175.103,-0.000 248.000,13.064 248.000,64.000 C248.000,96.478 218.536,112.000 200.000,112.000 Z" class="cls-2"/>
-    <g>
-      <circle cx="199.5" cy="64.5" r="42.5" class="cls-3"/>
-      <circle cx="178" cy="76" r="10" class="cls-4"/>
-      <circle cx="194" cy="56" r="10" class="cls-4"/>
-      <circle cx="218" cy="48" r="10" class="cls-4"/>
-    </g>
-    <g>
-      <circle cx="47.5" cy="64.5" r="42.5" class="cls-3"/>
-      <circle cx="54" cy="61" r="31" class="cls-5"/>
-      <circle cx="54" cy="61" r="23" class="cls-6"/>
-      <path d="M72.000,67.000 L59.992,67.000 L59.992,78.000 C59.992,80.209 58.201,82.000 55.992,82.000 L52.008,82.000 C49.799,82.000 48.008,80.209 48.008,78.000 L48.008,67.000 L36.000,67.000 C34.343,67.000 33.000,65.657 33.000,64.000 L33.000,58.000 C33.000,56.343 34.343,55.000 36.000,55.000 L48.008,55.000 L48.008,44.000 C48.008,41.791 49.799,40.000 52.008,40.000 L55.992,40.000 C58.201,40.000 59.992,41.791 59.992,44.000 L59.992,55.000 L72.000,55.000 C73.657,55.000 75.000,56.343 75.000,58.000 L75.000,64.000 C75.000,65.657 73.657,67.000 72.000,67.000 Z" class="cls-7"/>
-    </g>
-    <path d="M104.000,62.000 L112.000,62.000 C113.105,62.000 114.000,62.895 114.000,64.000 C114.000,65.105 113.105,66.000 112.000,66.000 L104.000,66.000 C102.895,66.000 102.000,65.105 102.000,64.000 C102.000,62.895 102.895,62.000 104.000,62.000 Z" class="cls-8"/>
-    <path d="M136.000,62.000 L144.000,62.000 C145.105,62.000 146.000,62.895 146.000,64.000 C146.000,65.105 145.105,66.000 144.000,66.000 L136.000,66.000 C134.895,66.000 134.000,65.105 134.000,64.000 C134.000,62.895 134.895,62.000 136.000,62.000 Z" class="cls-8"/>
+  <g id="Shoulder_pads" data-name="Shoulder pads">
+    <path id="L_shoulder_pad" data-name="L shoulder pad" class="cls-1" d="M85,76c-0.234-2.308-.8-3.635-5-4-4.963-.432-35.322,7.539-37,8s-2,8-2,8S69.643,86.754,85,76Z" transform="translate(-4 -72)"/>
+    <path id="R_shoulder_pad" data-name="R shoulder pad" class="cls-1" d="M171,76c0.234-2.308.8-3.635,5-4,4.963-.432,35.322,7.539,37,8s2,8,2,8S186.357,86.754,171,76Z" transform="translate(-4 -72)"/>
   </g>
+  <path id="bg" class="cls-2" d="M128,72c51.1,0,124,13.064,124,64,0,32.478-29.464,48-48,48-27.938,0-40.756-16-76-16m0-96C76.9,72,4,85.064,4,136c0,32.478,29.464,48,48,48,27.938,0,40.756-16,76-16" transform="translate(-4 -72)"/>
+  <g id="Right_components" data-name="Right components">
+    <circle id="Raised_circle" data-name="Raised circle" class="cls-3" cx="199.5" cy="64.5" r="42.5"/>
+    <circle id="BTN" class="cls-4" cx="178" cy="76" r="10"/>
+    <circle id="BTN-2" data-name="BTN" class="cls-4" cx="194" cy="56" r="10"/>
+    <circle id="BTN-3" data-name="BTN" class="cls-4" cx="218" cy="48" r="10"/>
+  </g>
+  <g id="Left_components" data-name="Left components">
+    <circle id="Raised_circle-2" data-name="Raised circle" class="cls-3" cx="47.5" cy="64.5" r="42.5"/>
+    <circle id="Pad_bevel" data-name="Pad bevel" class="cls-5" cx="54" cy="61" r="31"/>
+    <circle id="Pad_area" data-name="Pad area" class="cls-6" cx="54" cy="61" r="23"/>
+    <path id="Directional_pad" data-name="Directional pad" class="cls-7" d="M56.008,112h3.984a4,4,0,0,1,4,4v34a4,4,0,0,1-4,4H56.008a4,4,0,0,1-4-4V116A4,4,0,0,1,56.008,112ZM79,130v6a3,3,0,0,1-3,3H40a3,3,0,0,1-3-3v-6a3,3,0,0,1,3-3H76A3,3,0,0,1,79,130Z" transform="translate(-4 -72)"/>
+  </g>
+  <rect id="Center_btn" data-name="Center btn" class="cls-8" x="102" y="62" width="12" height="4" rx="2" ry="2"/>
+  <rect id="Center_btn-2" data-name="Center btn" class="cls-8" x="134" y="62" width="12" height="4" rx="2" ry="2"/>
 </svg>
