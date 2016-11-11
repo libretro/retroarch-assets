@@ -4,7 +4,9 @@ NeoActive Theme for RetroArch & Lakka
 About NeoActive
 -----------------
 
-Building on the work from the RetroActive theme, NeoActive applies a subtle grayscale gradient toward the white end of the spectrum.  It is meant to blend the strengths of the Monochrome and RetroActive themes 
+Building on the work from the RetroActive theme, NeoActive applies a subtle grayscale gradient toward the white end of the spectrum.  It is meant to blend the strengths of the Monochrome and RetroActive themes.
+
+Source files for development of this theme can be found at https://github.com/baxysquare/baxy-retroarch-themes
 
 
 Guidelines
@@ -27,4 +29,4 @@ Guidelines
  * The level of detail is expanded beyond the scope of the monochrome theme, but favors gradients instead of a flat design.
 
 ### Export
-The SVG and PNG files can be created using the ImageMagick Mogrify command and Kivutar’s convert.sh script.
+ * The original source files were created with Adobe Illustrator and saved as PDF files. The SVG and PNG files can be created using the ImageMagick Mogrify command.
