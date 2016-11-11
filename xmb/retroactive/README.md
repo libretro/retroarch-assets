@@ -8,6 +8,7 @@ The initial motivation was to complete the flatui icons by coloring those in the
 
 RetroActive icons minimize the use of logos of any type and best embody the spirit of the original flatui and monochrome themes. In some cases, media label styles have been left in place to increase recognizability. An effort was also made to color-coordinate the label with the system when possible. In order to complete the theme, ported game and system-level icons still have branding.  
 
+Source files for development of this theme can be found at https://github.com/baxysquare/baxy-retroarch-themes
 
 Guidelines
 ----------
@@ -30,4 +31,4 @@ Guidelines
  * The level of detail is expanded beyond the scope of the monochrome set, but favors flat design and recognizability over absolute realism.
 
 ### Export
-The SVG and PNG files can be created using the ImageMagick Mogrify command and Kivutar’s convert.sh script.
+ * The original source files were created with Adobe Illustrator and saved as PDF files. The SVG and PNG files can be created using the ImageMagick Mogrify command.
