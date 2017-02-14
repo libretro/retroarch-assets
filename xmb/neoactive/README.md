@@ -30,3 +30,9 @@ Guidelines
 
 ### Export
  * The original source files were created with Adobe Illustrator and saved as PDF files. The SVG and PNG files can be created using the ImageMagick Mogrify command.
+
+Colophon
+----------
+
+### Theme Font
+ * This theme uses the [Metrophobic](https://fonts.google.com/specimen/Metrophobic) typeface by [Vernon Adams](http://sansoxygen.com/) coverered under the [Open Font License](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web).
