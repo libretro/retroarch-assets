@@ -29,13 +29,27 @@ Guidelines
  
 ### Style
 
- * The level of detail is expanded beyond the scope of the monochrome set, but favors flat design and recognizability over absolute realism.
+ * The level of detail is expanded beyond the scope of the monochrome set, but favors flat design and recognizability over absolute realism. The default icon is displayed horizontally with the front of the console facing downward.  The vertical system icon can also be included and is indicated by a “T” in the file name after the color code.
 
 ### Export
 The SVG and PNG files can be created using the ImageMagick Mogrify command and Kivutar’s convert.sh script.
+
+### File Names
+This theme follows the naming syntax demonstrated by the Monochromatic theme.  If there are system variations, refer to the model number where possible and and attach a color code where possible.
+ * A = Aqua
+ * B = Blue
+ * G = Green
+ * H = Gold
+ * K = Black
+ * P = Pink
+ * Q = Purple
+ * R = Red
+ * W = White
+Color Codes can be combined when the system has a two-tone design.
 
 Colophon
 ----------
 
 ### Theme Font
  * This theme uses the [Metrophobic](https://fonts.google.com/specimen/Metrophobic) typeface by [Vernon Adams](http://sansoxygen.com/) covered under the [Open Font License](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web).
+
