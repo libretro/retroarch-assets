@@ -7,3 +7,4 @@ install:
 	mkdir -p $(DESTDIR)
 	cp -ar * $(DESTDIR)
 	rm $(DESTDIR)/Makefile
+	rm $(DESTDIR)/configure
