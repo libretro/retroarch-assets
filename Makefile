@@ -6,5 +6,4 @@ all:
 install:
 	mkdir -p $(DESTDIR)
 	cp -ar * $(DESTDIR)
-	rm $(DESTDIR)/Makefile
-	rm -rf $(DESTDIR)/xmb/monochrome/src $(DESTDIR)/xmb/flatui/src $(DESTDIR)/xmb/dot-art/src
+	rm -rf $(DESTDIR)/Makefile $(DESTDIR)/configure $(DESTDIR)/xmb/monochrome/src $(DESTDIR)/xmb/flatui/src $(DESTDIR)/xmb/dot-art/src
