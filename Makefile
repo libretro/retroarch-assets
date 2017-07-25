@@ -1,4 +1,5 @@
-INSTALLDIR := /usr/share/libretro/assets
+PREFIX := /usr
+INSTALLDIR := $(PREFIX)/share/libretro/assets
 
 all:
 	@echo "Nothing to make for retroarch-assets."
