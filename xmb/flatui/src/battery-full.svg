@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: CorelDRAW X8 -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   width="256px"
+   height="256px"
+   version="1.1"
+   style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+   viewBox="0 0 256 256"
+   id="svg6131"
+   sodipodi:docname="battery-full.svg"
+   inkscape:version="0.92.1 r15371"><metadata
+     id="metadata6135"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="883"
+     inkscape:window-height="480"
+     id="namedview6133"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="201.9885"
+     inkscape:cy="174.9392"
+     inkscape:window-x="633"
+     inkscape:window-y="162"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6131" /><defs
+     id="defs6117"><style
+       type="text/css"
+       id="style6115"><![CDATA[
+    .str0 {stroke:white;stroke-width:4.99962}
+    .fil1 {fill:none}
+    .fil0 {fill:#E6E6E6}
+    .fil2 {fill:white}
+   ]]></style></defs><rect
+     style="fill:none"
+     y="0"
+     x="0"
+     id="rect6120"
+     height="256"
+     width="256"
+     class="fil0"
+     inkscape:export-filename="E:\Emulador\theme\png\battery-full.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" /><path
+     style="fill:none;stroke:#ffffff;stroke-width:4.99961996"
+     inkscape:connector-curvature="0"
+     id="path6122"
+     d="m 132,91 c 0,0 1,0 1,-1 v -4 c 0,0 -1,-1 -2,-1 h -10 c -1,0 -1,1 -1,1 v 4 c 0,1 0,1 1,1 h -3 c -4,0 -7,3 -7,7 v 41 c 0,4 3,7 7,7 h 16 c 4,0 7,-3 7,-7 V 98 c 0,-4 -3,-7 -7,-7 z"
+     class="fil1 str0"
+     inkscape:export-filename="E:\Emulador\theme\png\battery-full.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" /><rect
+     style="fill:#ffffff"
+     id="rect6124"
+     height="11.9785"
+     width="18.9604"
+     y="128"
+     x="117"
+     class="fil2"
+     inkscape:export-filename="E:\Emulador\theme\png\battery-full.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" /><rect
+     style="fill:#ffffff"
+     id="rect6126"
+     height="11.9785"
+     width="18.9604"
+     y="112"
+     x="117"
+     class="fil2"
+     inkscape:export-filename="E:\Emulador\theme\png\battery-full.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" /><rect
+     style="fill:#ffffff"
+     id="rect6128"
+     height="11.9785"
+     width="18.9604"
+     y="97"
+     x="117"
+     class="fil2"
+     inkscape:export-filename="E:\Emulador\theme\png\battery-full.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" /></svg>
