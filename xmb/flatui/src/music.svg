@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: CorelDRAW X7 -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   width="21.6748mm"
+   height="21.6748mm"
+   version="1.1"
+   style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+   viewBox="0 0 180 180"
+   id="svg25"
+   sodipodi:docname="music.svg"
+   inkscape:version="0.92.1 r15371"><metadata
+     id="metadata29"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview27"
+     showgrid="false"
+     inkscape:zoom="2.8808415"
+     inkscape:cx="40.960254"
+     inkscape:cy="40.960254"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg25" /><defs
+     id="defs13"><font
+       id="FontID0"
+       horiz-adv-x="666"
+       font-variant="normal"
+       style="fill-rule:nonzero"
+       font-weight="400"><font-face
+         font-family="Arial"
+         id="font-face2"><font-face-src><font-face-name
+             name="Arial" /></font-face-src></font-face><missing-glyph
+         id="missing-glyph6"><path
+           d="M0 0z"
+           id="path4" /></missing-glyph><glyph
+         unicode="♪"
+         horiz-adv-x="500"
+         d="M237.333 665.502l18.5003 0c56.0003,0 93.0009,-2.16715 110.832,-6.83613 25.8357,-6.50145 48.3357,-18.9996 67.8346,-37.4999 14.6653,-13.6668 26.335,-33.001 34.6689,-57.9973 8.49852,-24.8372 12.8328,-53.8331 12.8328,-87.1688l0 -50.1682 -48.3357 0 0 21.0022c0,22.1653 -4.66349,40.8357 -14.0014,56.3349 -9.33246,15.4992 -22.9992,27.3335 -41.1649,35.3328 -23.8332,10.5011 -50.1682,15.6638 -79.1641,15.6638l-13.6668 0 0 -407.666c0,-39.3324 -5.16824,-70.0017 -15.6693,-91.9969 -10.331,-22.0007 -28.3321,-39.6671 -53.6685,-52.8346 -25.4956,-13.1675 -53.1638,-19.6689 -82.9991,-19.6689 -35.4974,0 -63.6648,10.0018 -84.3323,29.9999 -20.6675,20.0036 -30.9985,46.3331 -30.9985,78.8349 0,34.1642 12.4981,62.8309 37.1653,86.1648 24.6671,23.3339 57.1689,35.0036 97.1651,35.0036 25.3365,0 53.6685,-7.49999 85.0017,-22.5l0 475.999z"
+         id="glyph8" /></font><style
+       type="text/css"
+       id="style11"><![CDATA[
+    @font-face { font-family:"Arial";font-variant:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .fil0 {fill:#E6E6E6}
+    .fil3 {fill:white}
+    .fil1 {fill:#34495E;fill-rule:nonzero}
+    .fil2 {fill:#3498DB;fill-rule:nonzero}
+    .fnt0 {font-weight:normal;font-size:151.395px;font-family:'Arial'}
+   ]]></style></defs><rect
+     style="fill:none"
+     y="0"
+     x="0"
+     id="rect16"
+     height="180"
+     width="180"
+     class="fil0"
+     inkscape:export-filename="E:\Emulador\theme\png\music.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300" /><path
+     style="fill:#34495e;fill-rule:nonzero"
+     inkscape:connector-curvature="0"
+     id="path18"
+     d="m 90,35 h 4 c 10,0 17,-1 21,0 5,1 8,2 11,5 3,3 6,6 7,11 2,4 2,15 2,21 v 2 h -7 v -3 c 0,-4 -1,0 -3,-3 -2,-3 -4,-5 -8,-7 -4,-2 -9,-2 -15,-2 h -3 v 67 c 0,7 -1,13 -3,17 -2,4 -5,7 -10,10 -5,2 -10,3 -16,3 -7,0 -12,-1 -16,-5 -4,-4 -6,-9 -6,-15 0,-6 2,-11 7,-15 5,-5 11,-7 19,-7 5,0 10,2 16,4 z"
+     class="fil1"
+     inkscape:export-filename="E:\Emulador\theme\png\music.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300" /><path
+     style="fill:#3498db;fill-rule:nonzero"
+     inkscape:connector-curvature="0"
+     id="path20"
+     d="m 88,35 h 3 c 10,0 17,-1 20,-1 5,2 7,3 11,6 3,2 5,6 6,10 2,5 2,9 2,15 v 9 h -7 v -4 c 0,-4 0,-7 -2,-10 -2,-3 -4,-5 -8,-6 -4,-2 -9,-3 -14,-3 h -3 v 73 c 0,7 -1,12 -2,16 -2,4 -6,7 -10,10 -5,2 -10,3 -15,3 -7,0 -12,-2 -16,-5 -3,-4 -5,-8 -5,-14 0,-6 2,-11 7,-16 4,-4 10,-6 17,-6 5,0 10,1 16,4 z"
+     class="fil2"
+     inkscape:export-filename="E:\Emulador\theme\png\music.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300" /><text
+     style="font-weight:normal;font-size:151.39500427px;font-family:Arial;fill:#ffffff"
+     id="text22"
+     class="fil3 fnt0"
+     y="139"
+     x="52"
+     inkscape:export-filename="E:\Emulador\theme\png\music.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300">♪</text>
+</svg>
