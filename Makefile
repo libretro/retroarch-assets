@@ -8,7 +8,6 @@ install:
 	mkdir -p $(DESTDIR)$(INSTALLDIR)
 	cp -ar * $(DESTDIR)$(INSTALLDIR)
 	rm -rf $(DESTDIR)$(INSTALLDIR)/Makefile \
-		$(DESTDIR)$(INSTALLDIR)/COPYING \
 		$(DESTDIR)$(INSTALLDIR)/configure \
 		$(DESTDIR)$(INSTALLDIR)/xmb/monochrome/src \
 		$(DESTDIR)$(INSTALLDIR)/xmb/flatui/src \
