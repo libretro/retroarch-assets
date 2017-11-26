@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: CorelDRAW X8 -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   width="256px"
+   height="256px"
+   version="1.1"
+   style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+   viewBox="0 0 42 42"
+   id="svg5935"
+   sodipodi:docname="netplay.svg"
+   inkscape:export-filename="E:\Emulador\theme\png\netplay.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="0.92.1 r15371"><metadata
+     id="metadata5939"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview5937"
+     showgrid="false"
+     inkscape:zoom="1.3037281"
+     inkscape:cx="23.303799"
+     inkscape:cy="132.46605"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5935" /><defs
+     id="defs5916"><style
+       type="text/css"
+       id="style5914"><![CDATA[
+    .str0 {stroke:white;stroke-width:1.62961}
+    .fil2 {fill:none}
+    .fil1 {fill:#3498DB}
+    .fil0 {fill:#E6E6E6}
+   ]]></style></defs><rect
+     style="fill:none;stroke-width:1.00667751"
+     y="-0.27859879"
+     x="0"
+     id="rect5919"
+     height="42"
+     width="42"
+     class="fil0" /><g
+     id="netplay"
+     transform="matrix(1.0066776,0,0,1.0066776,0,-0.27859879)"><circle
+       style="fill:#3498db;stroke:#ffffff;stroke-width:1.62960994"
+       id="circle5921"
+       r="17"
+       cy="21"
+       cx="21"
+       class="fil1 str0" /><ellipse
+       style="fill:#3498db;stroke:#ffffff;stroke-width:1.62960994"
+       id="ellipse5923"
+       ry="17"
+       rx="10"
+       cy="21"
+       cx="21"
+       class="fil1 str0" /><line
+       style="fill:none;stroke:#ffffff;stroke-width:1.62960994"
+       id="line5925"
+       y2="13"
+       x2="36"
+       y1="13"
+       x1="6"
+       class="fil2 str0" /><line
+       style="fill:none;stroke:#ffffff;stroke-width:1.62960994"
+       id="line5927"
+       y2="21"
+       x2="4"
+       y1="21"
+       x1="38"
+       class="fil2 str0" /><line
+       style="fill:none;stroke:#ffffff;stroke-width:1.62960994"
+       id="line5929"
+       y2="29"
+       x2="6"
+       y1="29"
+       x1="36"
+       class="fil2 str0" /><line
+       style="fill:none;stroke:#ffffff;stroke-width:1.62960994"
+       id="line5931"
+       y2="38"
+       x2="21"
+       y1="4"
+       x1="21"
+       class="fil2 str0" /></g></svg>
