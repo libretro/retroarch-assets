@@ -12,7 +12,7 @@ install:
 		$(DESTDIR)$(INSTALLDIR)/xmb/monochrome/src \
 		$(DESTDIR)$(INSTALLDIR)/xmb/flatui/src \
 		$(DESTDIR)$(INSTALLDIR)/xmb/dot-art/src \
-		$(DESTDIR)$(INSTALLDIR)/xmb/retrosystem/svg
+		$(DESTDIR)$(INSTALLDIR)/xmb/retrosystem/src
 
 test-install: all
 	DESTDIR=/tmp/build $(MAKE) install
