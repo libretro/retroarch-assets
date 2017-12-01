@@ -9,10 +9,7 @@ install:
 	cp -ar * $(DESTDIR)$(INSTALLDIR)
 	rm -rf $(DESTDIR)$(INSTALLDIR)/Makefile \
 		$(DESTDIR)$(INSTALLDIR)/configure \
-		$(DESTDIR)$(INSTALLDIR)/xmb/monochrome/src \
-		$(DESTDIR)$(INSTALLDIR)/xmb/flatui/src \
-		$(DESTDIR)$(INSTALLDIR)/xmb/dot-art/src \
-		$(DESTDIR)$(INSTALLDIR)/xmb/retrosystem/src
+		$(DESTDIR)$(INSTALLDIR)/src
 
 test-install: all
 	DESTDIR=/tmp/build $(MAKE) install
