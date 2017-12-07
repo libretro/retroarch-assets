@@ -5,10 +5,15 @@ About Retrosystem
 -----------------
 
  Based on Retroactive marked from [baxysqyare](https://github.com/baxysquare/baxy-retroarch-themes) 
+ 
  Mixed with Systematic (same repo)
+ 
+ Created some new icons
+ 
  Color changes to improve contrast
+ 
  Added more detail
- Completely changed some icons
+ 
  Other misc changes
 
 	
