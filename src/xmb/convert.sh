@@ -27,5 +27,5 @@ if [ -z "$1" ]; then
 		done
 	done
 else
-	inkscape -z -e "../../xmb/$1/png/$2.png" -w 512 -h 512 "$1/$2.svg"
+	inkscape -z -e "../../xmb/$1/png/$2.png" -w 256 -h 256 "$1/$2.svg"
 fi;
