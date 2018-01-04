@@ -49,6 +49,7 @@ This theme follows the naming syntax demonstrated by the Monochromatic theme.  I
  * T = Tower or Vertical Configuration
  * (As) = Asia
  * (B) = Brazil
+ * (Ch) = China
  * (E) = Europe
  * (J) = Japan
  * (U) = United States
