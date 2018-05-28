@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 320 320"
+   height="320"
+   width="320"
+   xml:space="preserve"
+   version="1.1"
+   id="svg2"><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs6"><clipPath
+       id="clipPath16"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path18"
+         d="M 0,256 256,256 256,0 0,0 0,256 Z" /></clipPath></defs><g
+     transform="matrix(1.25,0,0,-1.25,0,320)"
+     id="g10"><g
+       id="g12"><g
+         clip-path="url(#clipPath16)"
+         id="g14"><g
+           transform="translate(32,96.8154)"
+           id="g20"><path
+             id="path22"
+             style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 0,0 0,86.37 c 0,0.449 0.394,0.815 0.878,0.815 l 190.244,0 c 0.484,0 0.878,-0.366 0.878,-0.815 L 192,0 c 0,-0.45 -0.394,-0.815 -0.878,-0.815 l -190.244,0 C 0.394,-0.815 0,-0.45 0,0 m 196,0 0,86.37 c 0,2.659 -2.184,4.815 -4.878,4.815 l -190.244,0 C -1.816,91.185 -4,89.029 -4,86.37 L -4,0 c 0,-2.659 2.184,-4.815 4.878,-4.815 l 190.244,0 c 2.694,0 4.878,2.156 4.878,4.815" /></g><g
+           transform="translate(244.1406,76)"
+           id="g24"><path
+             id="path26"
+             style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 0,0 -16.141,0 0,-20 -4,0 0,24 12,0 4,0 0,4 0,108 c 0,4.411 -3.588,8 -8,8 l -208,0 c -4.411,0 -8,-3.589 -8,-8 l 0,-108 0,-4 4,0 12,0 0,-24 -4,0 0,20 -15.859,0 0,118.452 c 0,5.274 4.328,9.548 9.667,9.548 l 212.666,0 C -4.328,128 0,123.726 0,118.452 L 0,0 Z m -208.141,-20 0,24 0,4 -4,0 -12,0 0,108 c 0,2.209 1.791,4 4,4 l 208,0 c 2.209,0 4,-1.791 4,-4 l 0,-108 -12,0 -4,0 0,-4 0,-24 -184,0 z m 198.474,152 -212.666,0 C -229.869,132 -236,125.922 -236,118.452 L -236,0 l 0,-4 4,0 11.859,0 0,-16 0,-4 4,0 4,0 192,0 4,0 4,0 0,4 0,16 L 0,-4 4,-4 4,0 4,118.452 C 4,125.922 -2.131,132 -9.667,132" /></g></g></g></g></svg>
