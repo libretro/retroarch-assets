@@ -4,12 +4,16 @@ Retrosystem Theme for RetroArch & Lakka
 About Retrosystem
 -----------------
 
- Based on Retroactive marked from [baxysqyare](https://github.com/baxysquare/baxy-retroarch-themes) 
- Mixed with Systematic (same repo)
- Color changes to improve contrast
- Added more detail
- Completely changed some icons
- Other misc changes
+Based on Retroactive-marked from [baxysqyare](https://github.com/baxysquare/baxy-retroarch-themes). Forked by @alfrix <br />
+[Changes will be made to this repo first](https://github.com/alfrix/alfrix-retroarch-theme)
+
+Main changes:
+
+* Mixed with Systematic.
+* Color changes to improve contrast.
+* Added more detail.
+* Created some icons.
+* Other misc changes.
 
 	
 ### Theme Font
