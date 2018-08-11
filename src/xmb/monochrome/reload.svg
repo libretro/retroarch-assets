@@ -1,9 +1,52 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<path id="Reload" fill="#F2F2F2" d="M38,25l-6-3v2c-4.416,0-8,3.58-8,8c0,2.209,0.896,4.209,2.344,5.656l1.414-1.414
-	C26.672,35.156,26,33.656,26,32c0-3.314,2.688-6,6-6v2L38,25z M37.656,26.344l-1.414,1.414C37.328,28.844,38,30.344,38,32
-	c0,3.314-2.688,6-6,6v-2l-6,3l6,3v-2c4.416,0,8-3.58,8-8C40,29.791,39.104,27.791,37.656,26.344z"/>
-</svg>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Calque_1"
+   x="0px"
+   y="0px"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   enable-background="new 0 0 64 64"
+   xml:space="preserve"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="reload.svg"><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+     id="defs6" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1024"
+     inkscape:window-height="705"
+     id="namedview4"
+     showgrid="true"
+     inkscape:zoom="5.2149124"
+     inkscape:cx="9.9885782"
+     inkscape:cy="21.457405"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Calque_1"
+     showguides="false"><inkscape:grid
+       type="xygrid"
+       id="grid814" /></sodipodi:namedview><path
+     id="Reload"
+     d="M 44,17.919999 32,11.885714 v 4.022857 c -8.832,0 -16,7.200914 -16,16.091428 0,4.443246 1.792,8.466103 4.688,11.37664 l 2.828,-2.84416 C 21.344,38.348068 20,35.330925 20,31.999999 20,25.334125 25.376,19.931428 32,19.931428 v 4.022857 z m -0.688,2.70336 -2.828,2.84416 C 42.656,25.651931 44,28.669073 44,31.999999 44,38.665873 38.624,44.06857 32,44.06857 v -4.022857 l -12,6.034286 12,6.034286 v -4.022857 c 8.832,0 16,-7.200915 16,-16.091429 0,-4.443246 -1.792,-8.466103 -4.688,-11.37664 z"
+     inkscape:connector-curvature="0"
+     style="fill:#f2f2f2;stroke-width:1" /></svg>
