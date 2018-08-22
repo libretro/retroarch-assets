@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    sodipodi:docname="Game Park - GP32-content.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"><sodipodi:namedview
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
@@ -28,9 +28,9 @@
      id="namedview35"
      showgrid="false"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="5.5312496"
-     inkscape:cx="137.75374"
-     inkscape:cy="198.0814"
+     inkscape:zoom="1.9555921"
+     inkscape:cx="185.71242"
+     inkscape:cy="160.83519"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -116,4 +116,8 @@
          id="path112"
          style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
          d="m 0,0 1.735,2.973 h -9.912 l -4.398,-7.622 h 5.699 l -0.743,-1.189 h -5.493 l -1.684,-2.865 h 9.964 l 4.089,7.244 H -6.566 L -5.637,0 Z"
-         inkscape:connector-curvature="0" /></g></g></svg>
+         inkscape:connector-curvature="0" /></g></g><path
+     style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:1.99999994;stroke-miterlimit:4;stroke-dasharray:none"
+     d="M 36 12 C 33.791 12 32 13.791 32 16 L 32 216 L 60 244 L 215.99805 244 C 220.41705 244 223.99905 240.41705 223.99805 235.99805 L 224 16 C 224 13.791 222.209 12 220 12 L 36 12 z "
+     transform="scale(1.3333334)"
+     id="path835" /></svg>

@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    sodipodi:docname="Sony - PlayStation 3-content.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    inkscape:export-filename="C:\Users\Alfre\AppData\Roaming\RetroArch\assets\xmb\custom\png\Sony - PlayStation 3-content.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"><sodipodi:namedview
@@ -31,9 +31,9 @@
      id="namedview24"
      showgrid="false"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="3.9111843"
-     inkscape:cx="109.9326"
-     inkscape:cy="74.604501"
+     inkscape:zoom="0.97779608"
+     inkscape:cx="88.269296"
+     inkscape:cy="210.35199"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -270,4 +270,9 @@
        inkscape:connector-curvature="0"
        style="fill:#3b3b3b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333337"
        d="m 302.61556,212.60703 h 0.95998 v 5.97329 h -1.17332 l -3.7333,-5.11996 v 0 5.11996 h -0.85334 v -5.97329 h 1.17334 l 3.62664,5.0133 v 0 z"
-       id="path925" /></g></svg>
+       id="path925" /></g><path
+     inkscape:connector-curvature="0"
+     d="m 170.66667,16.000005 c -85.427998,0 -154.666667,69.24533 -154.666667,154.666665 0,85.42133 69.238669,154.66667 154.666667,154.66667 85.40134,0 154.66667,-69.24534 154.66667,-154.66667 0,-85.421335 -69.26535,-154.666665 -154.66667,-154.666665"
+     style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.66666675;stroke-miterlimit:4;stroke-dasharray:none"
+     id="path852"
+     sodipodi:nodetypes="csssc" /></svg>

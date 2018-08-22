@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    sodipodi:docname="Nintendo - Wii-content.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"><sodipodi:namedview
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
@@ -29,7 +29,7 @@
      showgrid="false"
      inkscape:pagecheckerboard="true"
      inkscape:zoom="3.9111844"
-     inkscape:cx="175.75111"
+     inkscape:cx="117.84026"
      inkscape:cy="84.801239"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
@@ -319,4 +319,9 @@
        inkscape:connector-curvature="0"
        d="m 0,0 v 0.667 c 0,0.579 0.396,0.731 0.657,0.731 0.265,0 0.655,-0.152 0.655,-0.731 0,-0.2 -0.001,-0.67 -0.001,-0.67 0,0 0.001,-0.476 0.001,-0.668 0,-0.582 -0.39,-0.73 -0.656,-0.73 C 0.396,-1.401 0,-1.253 0,-0.671 Z M 3.087,-0.042 C 3.087,1.266 2.093,1.749 1.943,1.821 1.379,2.086 0.657,2.087 0.017,1.68 0.017,1.714 0.015,1.897 0.015,1.897 H -1.64 v -5.649 h 1.652 v 2.079 C 0.02,-1.677 0.027,-1.681 0.034,-1.685 L 1.33,-3.752 H 2.97 L 1.8,-1.886 c 0.769,0.305 1.287,1.1 1.287,1.844"
        style="fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path190" /></g></svg>
+       id="path190" /></g><path
+     inkscape:connector-curvature="0"
+     d="m 170.66667,16.000005 c -85.428001,0 -154.666668,69.24534 -154.666668,154.666655 0,85.42133 69.238667,154.66667 154.666668,154.66667 85.40134,0 154.66667,-69.24534 154.66667,-154.66667 0,-85.421315 -69.26535,-154.666655 -154.66667,-154.666655"
+     style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.66666675;stroke-miterlimit:4;stroke-dasharray:none"
+     id="path852"
+     sodipodi:nodetypes="csssc" /></svg>

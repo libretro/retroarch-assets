@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    sodipodi:docname="Casio - Loopy-content.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"><sodipodi:namedview
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
@@ -28,9 +28,9 @@
      id="namedview30"
      showgrid="false"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="0.69140622"
-     inkscape:cx="-7.7088542"
-     inkscape:cy="26.830369"
+     inkscape:zoom="1.9555921"
+     inkscape:cx="157.22916"
+     inkscape:cy="175.18358"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -48,10 +48,11 @@
          id="path24"
          d="M 8,228 H 248 V 24 H 8 Z" /></clipPath></defs><g
      id="g36"
-     transform="matrix(1.3333333,0,0,-1.3333333,319.99999,69.333337)"><path
+     transform="matrix(1.3333333,0,0,-1.3333333,319.99999,69.333337)"
+     style="stroke:#1a1a1a;stroke-width:2.00000009;stroke-miterlimit:4;stroke-dasharray:none"><path
        inkscape:connector-curvature="0"
        d="m 0,0 c 0,0 0,8 -24,12 -24,4 -84,4 -84,4 h -4 -4 c 0,0 -60,0 -84,-4 -24,-4 -24,-12 -24,-12 v -156 h 16 v -16 h 192 v 16 H 0 Z"
-       style="fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:2.00000009;stroke-miterlimit:4;stroke-dasharray:none"
        id="path38" /></g><g
      id="g40"
      transform="matrix(1.3333333,0,0,-1.3333333,117.33333,229.33333)"><path

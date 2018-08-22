@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    sodipodi:docname="Game Park - GP32.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"><sodipodi:namedview
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
@@ -28,9 +28,9 @@
      id="namedview301"
      showgrid="false"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="3.9111844"
-     inkscape:cx="132.05489"
-     inkscape:cy="175.80604"
+     inkscape:zoom="1.9555922"
+     inkscape:cx="17.087697"
+     inkscape:cy="142.14548"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -624,4 +624,8 @@
      id="path600"
      style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333325"
      d="m 170.66666,93.333336 v 0 c -1.472,0 -2.66667,-1.194667 -2.66667,-2.666667 V 82.66667 h 5.33334 v 7.999999 c 0,1.472 -1.19467,2.666667 -2.66667,2.666667"
-     inkscape:connector-curvature="0" /></svg>
+     inkscape:connector-curvature="0" /><path
+     style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:1.99999994;stroke-miterlimit:4;stroke-dasharray:none"
+     d="M 96 60 L 93.431641 62.568359 C 84.490741 63.019523 74.850882 63.766344 65.810547 65.005859 C 62.309305 62.966609 53.194856 62.099639 29.421875 71.435547 C 28.751875 71.699547 28.567172 72.567172 29.076172 73.076172 L 32 76 C 16.000001 91.999997 16 128 16 128 L 16 152 C 16 152 16.000002 196 52 196 C 87.999998 196 80.000001 192 128 192 C 176 192 168.00001 196 204 196 C 240 196 240 152 240 152 L 240 128 C 240 128 240 91.999997 224 76 L 226.92383 73.076172 C 227.43283 72.567172 227.24812 71.699547 226.57812 71.435547 C 202.80514 62.099639 193.69069 62.966609 190.18945 65.005859 C 181.14912 63.766344 171.50926 63.019523 162.56836 62.568359 L 160 60 L 136 60 L 134.07031 61.929688 C 130.34261 61.948602 128 62 128 62 C 128 62 125.65739 61.948602 121.92969 61.929688 L 120 60 L 96 60 z "
+     transform="scale(1.3333334)"
+     id="path959" /></svg>

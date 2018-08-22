@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    sodipodi:docname="Sharp - X68000.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    inkscape:export-filename="D:\Documents\Github\Retrosystem-retroarch-theme\png\Sharp - X68000.png"
    inkscape:export-xdpi="72"
    inkscape:export-ydpi="72"><sodipodi:namedview
@@ -31,9 +31,9 @@
      id="namedview127"
      showgrid="false"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="1.3828125"
-     inkscape:cx="139.35671"
-     inkscape:cy="31.510016"
+     inkscape:zoom="2.765625"
+     inkscape:cx="135.45538"
+     inkscape:cy="77.910444"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -59,7 +59,7 @@
      id="g22"
      transform="matrix(1.3333333,0,0,-1.3333333,0,341.33333)" /><path
      id="path38"
-     style="fill:#c3c1b8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333325;font-variant-east_asian:normal;opacity:1;vector-effect:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="fill:#c3c1b8;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:2.66666672;font-variant-east_asian:normal;opacity:1;vector-effect:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      d="M 314.66666,234.66667 H 26.666667 c -5.890666,0 -10.666666,-4.776 -10.666666,-10.66667 V 112.00001 c 0,-2.94534 2.388,-5.33334 5.333333,-5.33334 H 319.99999 c 2.94534,0 5.33334,2.388 5.33334,5.33334 V 224 c 0,5.89067 -4.776,10.66667 -10.66667,10.66667"
      inkscape:connector-curvature="0" /><path
      style="opacity:1;vector-effect:none;fill:#858585;fill-opacity:1;stroke:none;stroke-width:1.33333337;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"

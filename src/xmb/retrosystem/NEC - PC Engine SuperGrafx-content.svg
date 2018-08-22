@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    sodipodi:docname="NEC - PC Engine SuperGrafx-content.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    inkscape:export-filename="C:\Users\Alfre\AppData\Roaming\RetroArch\assets\xmb\custom\png\NEC - PC Engine SuperGrafx-content.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"><sodipodi:namedview
@@ -32,7 +32,7 @@
      showgrid="false"
      inkscape:pagecheckerboard="true"
      inkscape:zoom="2.765625"
-     inkscape:cx="61.649718"
+     inkscape:cx="-20.248587"
      inkscape:cy="113.61754"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
@@ -62,7 +62,7 @@
      id="g22"
      transform="matrix(1.3333333,0,0,-1.3333333,0,341.33333)" /><path
      id="path38"
-     style="fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333325"
+     style="fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:2.66666672;stroke-miterlimit:4;stroke-dasharray:none"
      d="M 262.13373,325.33333 H 79.199068 c -5.448,0 -9.865333,-4.45867 -9.865333,-9.95867 V 25.958671 c 0,-5.5 4.417333,-9.958667 9.865333,-9.958667 H 262.13373 c 5.44933,0 9.86667,4.458667 9.86667,9.958667 V 315.37466 c 0,5.5 -4.41734,9.95867 -9.86667,9.95867"
      inkscape:connector-curvature="0" /><path
      inkscape:connector-curvature="0"
