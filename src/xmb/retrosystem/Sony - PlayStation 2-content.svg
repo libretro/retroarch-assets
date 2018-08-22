@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    sodipodi:docname="Sony - PlayStation 2-content.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    inkscape:export-filename="C:\Users\Alfre\AppData\Roaming\RetroArch\assets\xmb\custom\png\Sony - PlayStation 2-content.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"><sodipodi:namedview
@@ -32,7 +32,7 @@
      showgrid="false"
      inkscape:pagecheckerboard="true"
      inkscape:zoom="4"
-     inkscape:cx="122.51136"
+     inkscape:cx="65.88636"
      inkscape:cy="81.361957"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
@@ -490,4 +490,9 @@
          id="path302"
          style="fill:#3b3b3b;fill-opacity:1;fill-rule:nonzero;stroke:none"
          d="m 0,0 h 0.645 v -4.44 h -0.881 l -2.743,3.788 H -2.992 V -4.44 H -3.637 V 0 h 0.881 l 2.743,-3.788 H 0 Z"
-         inkscape:connector-curvature="0" /></g></g></svg>
+         inkscape:connector-curvature="0" /></g></g><path
+     inkscape:connector-curvature="0"
+     d="M 170.66667,16.00001 C 85.238669,16.00001 16,85.24534 16,170.66666 c 0,85.42133 69.238669,154.66667 154.66667,154.66667 85.40134,0 154.66667,-69.24534 154.66667,-154.66667 0,-85.42132 -69.26535,-154.66665 -154.66667,-154.66665"
+     style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.66666675;stroke-miterlimit:4;stroke-dasharray:none"
+     id="path852"
+     sodipodi:nodetypes="csssc" /></svg>

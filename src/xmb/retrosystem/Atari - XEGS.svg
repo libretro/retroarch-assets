@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    sodipodi:docname="Atari - XEGS.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    inkscape:export-filename="C:\Users\Alfre\AppData\Roaming\RetroArch\assets\xmb\custom\png\Atari - XEGS.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"><sodipodi:namedview
@@ -31,9 +31,9 @@
      id="namedview36"
      showgrid="false"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="5.53125"
-     inkscape:cx="78.133317"
-     inkscape:cy="115.56868"
+     inkscape:zoom="1.9555922"
+     inkscape:cx="50.852712"
+     inkscape:cy="148.22362"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -53,10 +53,10 @@
          d="M 16,252 H 240 V 4 H 16 Z" /></clipPath></defs><g
      id="g36"
      transform="matrix(1.3333333,0,0,-1.3333333,284.12119,16.000005)"
-     style="fill:#bfbfbf;fill-opacity:1"><path
+     style="fill:#bfbfbf;fill-opacity:1;stroke:#1a1a1a;stroke-width:2.00000009;stroke-miterlimit:4;stroke-dasharray:none"><path
        inkscape:connector-curvature="0"
        d="m 0,0 h -170.182 c -14.182,0 -18.909,-4.833 -18.909,-19.333 v -193.334 c 0,-14.5 4.727,-19.333 18.909,-19.333 H 0 c 14.182,0 18.909,4.833 18.909,19.333 V -19.333 C 18.909,-4.833 14.182,0 0,0"
-       style="fill:#bfbfbf;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#bfbfbf;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:2.00000009;stroke-miterlimit:4;stroke-dasharray:none"
        id="path38" /></g><g
      id="g40"
      transform="matrix(1.3333333,0,0,-1.3333333,177.06693,304.62693)"

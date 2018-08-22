@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    sodipodi:docname="VTech - V.Smile-content.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"><sodipodi:namedview
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
@@ -28,9 +28,9 @@
      id="namedview30"
      showgrid="false"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="3.9111842"
-     inkscape:cx="-11.945561"
-     inkscape:cy="153.01957"
+     inkscape:zoom="1.3828124"
+     inkscape:cx="-131.7031"
+     inkscape:cy="0.05578222"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -107,4 +107,8 @@
          id="path112"
          style="fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          d="m 0,0 1.735,2.973 h -9.912 l -4.398,-7.622 h 5.699 l -0.743,-1.189 h -5.493 l -1.684,-2.865 h 9.964 l 4.089,7.244 H -6.566 L -5.637,0 Z"
-         inkscape:connector-curvature="0" /></g></g></svg>
+         inkscape:connector-curvature="0" /></g></g><path
+     style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:1.99999994;stroke-miterlimit:4;stroke-dasharray:none"
+     d="M 56 16 C 32.919001 16 20.709813 37.745766 17.132812 45.384766 C 16.384813 46.980766 16 48.713562 16 50.476562 L 16 208 L 32 208 L 32 240 L 224 240 L 224 208 L 240 208 L 240 50.476562 C 240 48.713562 239.61419 46.980766 238.86719 45.384766 C 235.29018 37.745766 223.081 16 200 16 C 172 16 184 24 164 24 C 144.00001 24 148 16 128 16 C 108.00001 16 112 24 92 24 C 72.000004 24 84.000001 16 56 16 z "
+     transform="scale(1.3333334)"
+     id="path837" /></svg>

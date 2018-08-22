@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    sodipodi:docname="NEC - PC Engine - TurboGrafx 16-content.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    inkscape:export-filename="D:\Documents\Github\Retrosystem-retroarch-theme\png\NEC - PC Engine - TurboGrafx 16-content.png"
    inkscape:export-xdpi="72"
    inkscape:export-ydpi="72"><sodipodi:namedview
@@ -31,7 +31,7 @@
      id="namedview214"
      showgrid="false"
      inkscape:zoom="11.0625"
-     inkscape:cx="77.952876"
+     inkscape:cx="57.4783"
      inkscape:cy="245.56396"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
@@ -63,10 +63,11 @@
          id="path412"
          d="m 82.4788,44.5793 h 0.1038 v -0.0699 h -0.1038 z" /></clipPath></defs><g
      id="g36"
-     transform="matrix(1.3333333,0,0,-1.3333333,79.199598,16.000005)"><path
+     transform="matrix(1.3333333,0,0,-1.3333333,79.199598,16.000005)"
+     style="stroke:#1a1a1a;stroke-width:2.00000009;stroke-miterlimit:4;stroke-dasharray:none"><path
        inkscape:connector-curvature="0"
        d="m 0,0 h 137.201 c 4.086,0 7.399,-3.344 7.399,-7.469 v -217.062 c 0,-4.125 -3.313,-7.469 -7.399,-7.469 H 0 c -4.087,0 -7.4,3.344 -7.4,7.469 V -7.469 C -7.4,-3.344 -4.087,0 0,0"
-       style="fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:2.00000009;stroke-miterlimit:4;stroke-dasharray:none"
        id="path38" /></g><path
      inkscape:connector-curvature="0"
      d="M 79.999998,144 H 261.33333 V 293.33333 H 79.999998 Z"
