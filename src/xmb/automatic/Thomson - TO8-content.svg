@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 320 224"
+   height="224"
+   width="320"
+   xml:space="preserve"
+   id="svg2"
+   version="1.1"><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs6" /><g
+     transform="matrix(1.3333333,0,0,-1.3333333,-10.666666,282.66666)"
+     id="g10"><g
+       transform="translate(244,48)"
+       id="g12"><path
+         id="path14"
+         style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 0,0 h -72 v 4 h -4 V 0 h -8 v 4 h -4 V 0 h -8 v 4 h -4 V 0 h -8 v 4 h -4 V 0 h -8 v 4 h -4 V 0 h -8 v 4 h -4 V 0 h -8 v 4 h -4 V 0 h -8 v 4 h -4 V 0 h -44 -28 v 160 h 36 v -4 -20 -4 h 4 152 4 v 4 20 4 H 0 Z m -40,136 h -152 v 20 h 152 z m 40,28 h -36 -4 v -4 h -152 v 4 h -4 -36 -4 V 160 0 -4 h 4 28 44 4 8 4 8 4 8 4 8 4 8 4 8 4 8 4 72 4 v 4 160 4 z" /></g><path
+       id="path16"
+       style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="M 40,156 H 220 V 80 H 40 Z M 36,76 h 188 v 84 H 36 Z" /></g></svg>
