@@ -5,9 +5,9 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   viewBox="0 0 128 170.66665"
-   height="170.66666"
-   width="128"
+   viewBox="0 0 245.33333 245.33333"
+   height="245.33333"
+   width="245.33333"
    xml:space="preserve"
    id="svg2"
    version="1.1"><metadata
@@ -19,7 +19,7 @@
        clipPathUnits="userSpaceOnUse"><path
          id="path24"
          d="M 0,256 H 256 V 0 H 0 Z" /></clipPath></defs><g
-     transform="matrix(1.3333333,0,0,-1.3333333,-106.66666,255.99999)"
+     transform="matrix(1.3333333,0,0,-1.3333333,-47.999999,293.33333)"
      id="g10"><g
        transform="translate(172,140)"
        id="g12"><path
@@ -38,4 +38,7 @@
            id="g28"><path
              id="path30"
              style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 0,0 c -5.514,0 -10,-4.486 -10,-10 0,-5.514 4.486,-10 10,-10 5.514,0 10,4.486 10,10 C 10,-4.486 5.514,0 0,0 m 0,-4 c 3.313,0 6,-2.687 6,-6 0,-3.313 -2.687,-6 -6,-6 -3.313,0 -6,2.687 -6,6 0,3.313 2.687,6 6,6" /></g></g></g></g></svg>
+             d="m 0,0 c -5.514,0 -10,-4.486 -10,-10 0,-5.514 4.486,-10 10,-10 5.514,0 10,4.486 10,10 C 10,-4.486 5.514,0 0,0 m 0,-4 c 3.313,0 6,-2.687 6,-6 0,-3.313 -2.687,-6 -6,-6 -3.313,0 -6,2.687 -6,6 0,3.313 2.687,6 6,6" /></g><path
+           id="path32"
+           style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="M 220,220 H 36 V 36 H 220 Z M 216,40 H 40 v 176 h 176 z" /></g></g></g></svg>
