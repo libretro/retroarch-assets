@@ -5,9 +5,9 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   viewBox="0 0 128 170.66665"
-   height="170.66666"
-   width="128"
+   viewBox="0 0 245.33333 245.33333"
+   height="245.33333"
+   width="245.33333"
    xml:space="preserve"
    id="svg2"
    version="1.1"><metadata
@@ -15,7 +15,7 @@
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
      id="defs6" /><g
-     transform="matrix(1.3333333,0,0,-1.3333333,-106.66666,255.99999)"
+     transform="matrix(1.3333333,0,0,-1.3333333,-47.999999,293.33333)"
      id="g10"><g
        transform="translate(172,140)"
        id="g12"><path
@@ -121,4 +121,7 @@
        d="m 152,88 h -4 V 72 h 4 z" /><path
        id="path82"
        style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 160,84 h 4 v -4 h -4 z m 0,-8 h 8 v 4 8 h -4 -4 -4 V 72 h 4 z" /></g></svg>
+       d="m 160,84 h 4 v -4 h -4 z m 0,-8 h 8 v 4 8 h -4 -4 -4 V 72 h 4 z" /><path
+       id="path84"
+       style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="M 220,220 H 36 V 36 H 220 Z M 216,40 H 40 v 176 h 176 z" /></g></svg>
