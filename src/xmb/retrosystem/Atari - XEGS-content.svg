@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    sodipodi:docname="Atari - XEGS-content.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"><sodipodi:namedview
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
@@ -30,7 +30,7 @@
      inkscape:pagecheckerboard="true"
      showguides="true"
      inkscape:zoom="1.84375"
-     inkscape:cx="261.3705"
+     inkscape:cx="138.52304"
      inkscape:cy="171.0893"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
@@ -38,7 +38,7 @@
      inkscape:current-layer="svg2" /><metadata
      id="metadata8"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs6"><clipPath
        id="clipPath18"
        clipPathUnits="userSpaceOnUse"><path
@@ -369,4 +369,8 @@
      width="245.33334"
      height="16"
      x="48.000004"
-     y="16.000006" /></svg>
+     y="16.000006" /><path
+     style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:1.99999994;stroke-miterlimit:4;stroke-dasharray:none"
+     d="M 36 12 L 36 24 L 36 32 L 36 36 L 36 44 L 36 48 L 36 56 L 36 60 L 36 68 L 36 72 L 36 80 L 36 84 L 36 92 L 36 96 L 36 104 L 36 108 L 36 116 L 36 120 L 36 128 L 36 132 L 36 140 L 36 144 L 36 152 L 36 156 L 36 164 L 36 168 L 36 176 L 36 180 L 36 188 L 36 212 L 36 244 L 48 244 L 48 240 L 208 240 L 208 244 L 220 244 L 220 212 L 220 188 L 220 180 L 220 176 L 220 168 L 220 164 L 220 156 L 220 152 L 220 144 L 220 140 L 220 132 L 220 128 L 220 120 L 220 116 L 220 108 L 220 104 L 220 96 L 220 92 L 220 84 L 220 80 L 220 72 L 220 68 L 220 60 L 220 56 L 220 48 L 220 44 L 220 36 L 220 32 L 220 24 L 220 12 L 48 12 L 36 12 z "
+     transform="scale(1.3333334)"
+     id="path897" /></svg>

@@ -10,5 +10,6 @@ for filename in ../../xmb/monochrome/png/*.png; do
 	echo $filename
 	echo $basename
 	convert "../../xmb/monochrome/png/$basename.png" -negate "../../xmb/monochrome-inverted/png/$basename.png"
+	optipng -o7 -strip all "../../xmb/monochrome-inverted/png/$basename.png"
 done
 cp ../../xmb/monochrome/font.ttf ../../xmb/monochrome-inverted/font.ttf

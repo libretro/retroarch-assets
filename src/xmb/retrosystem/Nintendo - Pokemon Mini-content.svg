@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    sodipodi:docname="Nintendo - Pokemon Mini-content.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"><sodipodi:namedview
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
@@ -28,9 +28,9 @@
      id="namedview48"
      showgrid="false"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="2.7656249"
-     inkscape:cx="-37.412353"
-     inkscape:cy="142.71446"
+     inkscape:zoom="1.3828125"
+     inkscape:cx="79.280939"
+     inkscape:cy="107.36012"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -156,4 +156,8 @@
          id="path112"
          style="fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none"
          d="m 0,0 1.735,2.973 h -9.912 l -4.398,-7.622 h 5.699 l -0.743,-1.189 h -5.493 l -1.684,-2.865 h 9.964 l 4.089,7.244 H -6.566 L -5.637,0 Z"
-         inkscape:connector-curvature="0" /></g></g></svg>
+         inkscape:connector-curvature="0" /></g></g><path
+     style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:1.99999994;stroke-miterlimit:4;stroke-dasharray:none"
+     d="M 124.97461 15 C 122.18361 14.99575 119.39151 15.08372 116.60352 15.261719 L 26 21.052734 C 26 21.052734 14 21.052969 14 33.042969 L 14 81 L 38 81 L 38 81.029297 L 14 81.029297 L 14 89.029297 L 14 217.0293 C 14 217.0293 42 241.0293 126 241.0293 C 209.99999 241.0293 242 217.0293 242 217.0293 L 242 89.029297 L 242 81.029297 L 218 81.029297 L 218 81 L 242 81 L 242 33.042969 C 242 33.042969 242 21.052734 230 21.052734 C 220.205 21.052734 156.44874 16.837109 133.34375 15.287109 C 130.55575 15.100109 127.76561 15.00425 124.97461 15 z "
+     transform="scale(1.3333334)"
+     id="path850" /></svg>

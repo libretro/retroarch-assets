@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    sodipodi:docname="Watara - Supervision-content.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    inkscape:export-filename="D:\Documents\Github\Retrosystem-retroarch-theme\png\Watara - Supervision-content.png"
    inkscape:export-xdpi="72"
    inkscape:export-ydpi="72"><sodipodi:namedview
@@ -31,9 +31,9 @@
      id="namedview49"
      showgrid="true"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="2.7656249"
-     inkscape:cx="125.89185"
-     inkscape:cy="148.45131"
+     inkscape:zoom="1.9555921"
+     inkscape:cx="39.332355"
+     inkscape:cy="179.79753"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -170,4 +170,8 @@
          id="path112"
          style="fill:#800000;fill-opacity:1;fill-rule:nonzero;stroke:none"
          d="m 0,0 1.735,2.973 h -9.912 l -4.398,-7.622 h 5.699 l -0.743,-1.189 h -5.493 l -1.684,-2.865 h 9.964 l 4.089,7.244 H -6.566 L -5.637,0 Z"
-         inkscape:connector-curvature="0" /></g></g></svg>
+         inkscape:connector-curvature="0" /></g></g><path
+     style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:1.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 16 12 L 16 40 L 16 60 L 16 216 L 32 216 L 32 224 L 24 224 L 24 244 L 236 244 L 239 244 L 239 224 L 236 224 L 228 224 L 228 216 L 244 216 L 244 12 L 16 12 z "
+     transform="scale(1.3333334)"
+     id="path847" /></svg>

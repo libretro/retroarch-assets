@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    sodipodi:docname="battery-full.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    inkscape:export-filename="G:\Github\retrosystem\png\battery-full.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"><sodipodi:namedview
@@ -31,9 +31,9 @@
      id="namedview9"
      showgrid="false"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="3.9111843"
-     inkscape:cx="-94.807002"
-     inkscape:cy="117.13197"
+     inkscape:zoom="5.5312499"
+     inkscape:cx="104.00005"
+     inkscape:cy="133.73649"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -42,7 +42,7 @@
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs6" /><path
-     style="fill:#44aa00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25494635"
+     style="fill:#44aa00;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:1.33333336;stroke-miterlimit:4;stroke-dasharray:none"
      d="m 160.00001,120.00001 v 4.97778 h -10.66667 v 69.68889 h 42.66667 v -69.68889 h -10.66667 v -4.97778 z"
      id="path12"
      inkscape:connector-curvature="0" /></svg>

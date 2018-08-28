@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    sodipodi:docname="Nintendo - GameCube-content.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    inkscape:export-filename="C:\Users\Alfre\AppData\Roaming\RetroArch\assets\xmb\custom\png\Nintendo - GameCube-content.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"><sodipodi:namedview
@@ -32,7 +32,7 @@
      showgrid="false"
      inkscape:pagecheckerboard="true"
      inkscape:zoom="1.9555922"
-     inkscape:cx="170.74458"
+     inkscape:cx="54.922887"
      inkscape:cy="198.76798"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
@@ -279,4 +279,9 @@
      style="fill:#e6e6e6;fill-opacity:0.49019608;fill-rule:nonzero;stroke:none;stroke-width:1.00357258"
      d="M 163.66406 157.20703 L 160.19727 157.2207 C 152.27127 165.9487 140.85606 171.4569 128.16406 171.50391 C 115.47106 171.55191 104.01348 166.1309 96.021484 157.46289 L 92.890625 157.47461 C 101.33653 167.56397 114.01575 174 128.16992 174 C 142.43607 174 155.21683 167.45253 163.66406 157.20703 z "
      transform="scale(1.3333334)"
-     id="path872" /></svg>
+     id="path872" /><path
+     inkscape:connector-curvature="0"
+     d="M 170.66667,16.000007 C 85.23867,16.000007 16,85.245339 16,170.66666 c 0,85.42133 69.23867,154.66667 154.66667,154.66667 85.40134,0 154.66667,-69.24534 154.66667,-154.66667 0,-85.421321 -69.26535,-154.666653 -154.66667,-154.666653"
+     style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.66666675;stroke-miterlimit:4;stroke-dasharray:none"
+     id="path852"
+     sodipodi:nodetypes="csssc" /></svg>
