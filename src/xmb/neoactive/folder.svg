@@ -50,11 +50,11 @@
        id="g32"><g
          clip-path="url(#clipPath38)"
          id="g34"><g
-           transform="translate(176,172)"
+           transform="translate(188,172)"
            id="g40"><path
              id="path42"
              style="fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 0,0 h -48 c 0,8.844 -7.156,16 -16,16 h -32 c -8.844,0 -16,-7.156 -16,-16 V -24 -44.61 H 16 V -24 -16 C 16,-7.156 8.844,0 0,0" /></g><g
+             d="m 0,0 h -52 l -3.242,12.97 c -0.446,1.781 -2.046,3.03 -3.881,3.03 h -53.754 c -1.835,0 -3.436,-1.249 -3.88,-3.03 L -120,0 c -2.209,0 -4,-1.791 -4,-4 V -40 H 4 V -4 C 4,-1.791 2.209,0 0,0" /></g><g
            transform="translate(200,140)"
            id="g44"><path
              id="path46"

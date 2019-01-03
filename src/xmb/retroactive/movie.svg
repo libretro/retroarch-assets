@@ -22,8 +22,8 @@
        id="clipPath26"
        clipPathUnits="userSpaceOnUse"><path
          id="path24"
-         d="M 25,230 H 225 V 30 H 25 Z" /></clipPath></defs><g
-     transform="matrix(1.3333333,0,0,-1.3333333,-33.333333,306.66666)"
+         d="M 26,230 H 226 V 30 H 26 Z" /></clipPath></defs><g
+     transform="matrix(1.3333333,0,0,-1.3333333,-34.666666,306.66666)"
      id="g10"><g
        id="g12"><g
          clip-path="url(#clipPath18)"
@@ -35,11 +35,11 @@
                id="g32"
                clip-path="url(#clipPath26)"><g
                  id="g30"
-                 transform="translate(202.4189,230)"><path
+                 transform="translate(203.4189,230)"><path
                    id="path28"
                    style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
                    d="m 0,0 h -154.838 c -12.452,0 -22.581,-10.129 -22.581,-22.581 v -154.838 c 0,-12.451 10.129,-22.581 22.581,-22.581 L 0,-200 c 12.451,0 22.581,10.13 22.581,22.581 V -22.581 C 22.581,-10.129 12.451,0 0,0" /></g></g></g></g><g
-           transform="translate(197,38)"
+           transform="translate(198,38)"
            id="g36"><path
              id="path38"
              style="fill:#737373;fill-opacity:1;fill-rule:nonzero;stroke:none"
