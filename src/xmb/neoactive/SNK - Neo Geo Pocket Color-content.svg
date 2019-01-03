@@ -54,11 +54,7 @@
        id="clipPath58"
        clipPathUnits="userSpaceOnUse"><path
          id="path56"
-         d="M 0,256 H 256 V 0 H 0 Z" /></clipPath><clipPath
-       id="clipPath102"
-       clipPathUnits="userSpaceOnUse"><path
-         id="path100"
-         d="m 148,164 h 12.001 v 12.001 H 148 Z" /></clipPath><linearGradient
+         d="M 0,256 H 256 V 0 H 0 Z" /></clipPath><linearGradient
        id="linearGradient112"
        spreadMethod="pad"
        gradientTransform="matrix(-11.999999,11.999999,11.999999,11.999999,160,164)"
@@ -72,11 +68,7 @@
          style="stop-opacity:1;stop-color:#e6e7e8" /><stop
          id="stop110"
          offset="1"
-         style="stop-opacity:1;stop-color:#d1d3d4" /></linearGradient><clipPath
-       id="clipPath122"
-       clipPathUnits="userSpaceOnUse"><path
-         id="path120"
-         d="m 136,164 h 12 v 12.001 h -12 z" /></clipPath><linearGradient
+         style="stop-opacity:1;stop-color:#d1d3d4" /></linearGradient><linearGradient
        id="linearGradient132"
        spreadMethod="pad"
        gradientTransform="matrix(11.999999,-11.999999,-11.999999,-11.999999,136,176)"
@@ -90,11 +82,7 @@
          style="stop-opacity:1;stop-color:#e6e7e8" /><stop
          id="stop130"
          offset="1"
-         style="stop-opacity:1;stop-color:#d1d3d4" /></linearGradient><clipPath
-       id="clipPath142"
-       clipPathUnits="userSpaceOnUse"><path
-         id="path140"
-         d="m 160,164 h 12 v 12.001 h -12 z" /></clipPath><linearGradient
+         style="stop-opacity:1;stop-color:#d1d3d4" /></linearGradient><linearGradient
        id="linearGradient152"
        spreadMethod="pad"
        gradientTransform="matrix(11.999999,-11.999999,-11.999999,-11.999999,160,176)"
@@ -108,11 +96,7 @@
          style="stop-opacity:1;stop-color:#e6e7e8" /><stop
          id="stop150"
          offset="1"
-         style="stop-opacity:1;stop-color:#d1d3d4" /></linearGradient><clipPath
-       id="clipPath162"
-       clipPathUnits="userSpaceOnUse"><path
-         id="path160"
-         d="m 172,164 h 12 v 12.001 h -12 z" /></clipPath><linearGradient
+         style="stop-opacity:1;stop-color:#d1d3d4" /></linearGradient><linearGradient
        id="linearGradient172"
        spreadMethod="pad"
        gradientTransform="matrix(-11.999999,11.999999,11.999999,11.999999,184,164)"
@@ -126,11 +110,7 @@
          style="stop-opacity:1;stop-color:#e6e7e8" /><stop
          id="stop170"
          offset="1"
-         style="stop-opacity:1;stop-color:#d1d3d4" /></linearGradient><clipPath
-       id="clipPath182"
-       clipPathUnits="userSpaceOnUse"><path
-         id="path180"
-         d="m 184,164 h 12.001 v 12.001 H 184 Z" /></clipPath><linearGradient
+         style="stop-opacity:1;stop-color:#d1d3d4" /></linearGradient><linearGradient
        id="linearGradient192"
        spreadMethod="pad"
        gradientTransform="matrix(11.999999,-11.999999,-11.999999,-11.999999,184,176)"
@@ -144,11 +124,7 @@
          style="stop-opacity:1;stop-color:#e6e7e8" /><stop
          id="stop190"
          offset="1"
-         style="stop-opacity:1;stop-color:#d1d3d4" /></linearGradient><clipPath
-       id="clipPath202"
-       clipPathUnits="userSpaceOnUse"><path
-         id="path200"
-         d="m 196,164 h 12 v 12.001 h -12 z" /></clipPath><linearGradient
+         style="stop-opacity:1;stop-color:#d1d3d4" /></linearGradient><linearGradient
        id="linearGradient212"
        spreadMethod="pad"
        gradientTransform="matrix(-11.999999,11.999999,11.999999,11.999999,208,164)"
@@ -162,11 +138,7 @@
          style="stop-opacity:1;stop-color:#e6e7e8" /><stop
          id="stop210"
          offset="1"
-         style="stop-opacity:1;stop-color:#d1d3d4" /></linearGradient><clipPath
-       id="clipPath222"
-       clipPathUnits="userSpaceOnUse"><path
-         id="path220"
-         d="m 208,176 v -12 h 12 v 8 c 0,2.209 -1.79,4 -4,4 v 0 z" /></clipPath><linearGradient
+         style="stop-opacity:1;stop-color:#d1d3d4" /></linearGradient><linearGradient
        id="linearGradient232"
        spreadMethod="pad"
        gradientTransform="matrix(11.999999,-11.999999,-11.999999,-11.999999,207.41422,175.41422)"
@@ -254,7 +226,6 @@
            style="fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none"
            d="M 240.258,71.326 H 15.742 v 4.833 h 224.516 z" /></g></g><g
        id="g96"><g
-         clip-path="url(#clipPath102)"
          id="g98"><g
            id="g104"><g
              id="g106"><path
@@ -262,7 +233,6 @@
                style="fill:url(#linearGradient112);stroke:none"
                d="m 148,164 h 12.001 v 12.001 H 148 Z" /></g></g></g></g><g
        id="g116"><g
-         clip-path="url(#clipPath122)"
          id="g118"><g
            id="g124"><g
              id="g126"><path
@@ -270,7 +240,6 @@
                style="fill:url(#linearGradient132);stroke:none"
                d="m 136,164 h 12 v 12.001 h -12 z" /></g></g></g></g><g
        id="g136"><g
-         clip-path="url(#clipPath142)"
          id="g138"><g
            id="g144"><g
              id="g146"><path
@@ -278,7 +247,6 @@
                style="fill:url(#linearGradient152);stroke:none"
                d="m 160,164 h 12 v 12.001 h -12 z" /></g></g></g></g><g
        id="g156"><g
-         clip-path="url(#clipPath162)"
          id="g158"><g
            id="g164"><g
              id="g166"><path
@@ -286,7 +254,6 @@
                style="fill:url(#linearGradient172);stroke:none"
                d="m 172,164 h 12 v 12.001 h -12 z" /></g></g></g></g><g
        id="g176"><g
-         clip-path="url(#clipPath182)"
          id="g178"><g
            id="g184"><g
              id="g186"><path
@@ -294,7 +261,6 @@
                style="fill:url(#linearGradient192);stroke:none"
                d="m 184,164 h 12.001 v 12.001 H 184 Z" /></g></g></g></g><g
        id="g196"><g
-         clip-path="url(#clipPath202)"
          id="g198"><g
            id="g204"><g
              id="g206"><path
@@ -302,7 +268,6 @@
                style="fill:url(#linearGradient212);stroke:none"
                d="m 196,164 h 12 v 12.001 h -12 z" /></g></g></g></g><g
        id="g216"><g
-         clip-path="url(#clipPath222)"
          id="g218"><g
            id="g224"><g
              id="g226"><path

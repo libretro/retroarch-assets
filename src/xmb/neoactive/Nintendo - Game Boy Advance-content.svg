@@ -14,11 +14,7 @@
      id="metadata8"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-     id="defs6"><clipPath
-       id="clipPath18"
-       clipPathUnits="userSpaceOnUse"><path
-         id="path16"
-         d="m 16,196 c -2.209,0 -4,-1.791 -4,-4 v 0 -20 c 0,-2.209 1.791,-4 4,-4 v 0 -104 c 0,-2.209 1.791,-4 4,-4 v 0 h 216 c 2.209,0 4,1.791 4,4 v 0 104 c 2.209,0 4,1.791 4,4 v 0 20 c 0,2.209 -1.791,4 -4,4 v 0 z" /></clipPath><linearGradient
+     id="defs6"><linearGradient
        id="linearGradient28"
        spreadMethod="pad"
        gradientTransform="matrix(179.65686,-179.65686,-179.65686,-179.65686,38.171566,219.82845)"
@@ -36,11 +32,7 @@
        id="clipPath38"
        clipPathUnits="userSpaceOnUse"><path
          id="path36"
-         d="M 0,256 H 256 V 0 H 0 Z" /></clipPath><clipPath
-       id="clipPath54"
-       clipPathUnits="userSpaceOnUse"><path
-         id="path52"
-         d="m 102,72 26,-8 26,8 z" /></clipPath><linearGradient
+         d="M 0,256 H 256 V 0 H 0 Z" /></clipPath><linearGradient
        id="linearGradient64"
        spreadMethod="pad"
        gradientTransform="matrix(-26,26,26,26,141,59)"
@@ -62,7 +54,6 @@
      transform="matrix(1.3333333,0,0,-1.3333333,-16,261.33333)"
      id="g10"><g
        id="g12"><g
-         clip-path="url(#clipPath18)"
          id="g14"><g
            id="g20"><g
              id="g22"><path
@@ -83,7 +74,6 @@
              style="fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none"
              d="m 0,0 h -168.348 c -3.212,0 -5.826,-2.536 -5.826,-5.652 v -76.696 c 0,-3.116 2.614,-5.652 5.826,-5.652 H 0 c 3.212,0 5.826,2.536 5.826,5.652 V -5.652 C 5.826,-2.536 3.212,0 0,0 m 0,-2 c 2.113,0 3.826,-1.635 3.826,-3.652 V -82.348 C 3.826,-84.365 2.113,-86 0,-86 h -168.348 c -2.113,0 -3.826,1.635 -3.826,3.652 v 76.696 c 0,2.017 1.713,3.652 3.826,3.652 L 0,-2" /></g></g></g><g
        id="g48"><g
-         clip-path="url(#clipPath54)"
          id="g50"><g
            id="g56"><g
              id="g58"><path
