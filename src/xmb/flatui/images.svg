@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Creator: CorelDRAW X7 -->
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -64,7 +63,7 @@
      inkscape:export-filename="E:\Emulador\theme\png\images.png"
      inkscape:export-xdpi="299.99814"
      inkscape:export-ydpi="299.99814"><rect
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:3.48799992"
+       style="fill:#ecf0f1;stroke:#ecf0f1;stroke-width:3.48799992"
        y="0"
        x="0"
        id="rect9"
@@ -74,7 +73,7 @@
        width="119"
        transform="matrix(0.835199,0.271208,-0.271208,0.835199,67.8891,17.1929)"
        class="fil1 str0" /><rect
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:3.48799992"
+       style="fill:#ecf0f1;stroke:#ecf0f1;stroke-width:3.48799992"
        y="0"
        x="0"
        id="rect11"
@@ -92,15 +91,15 @@
        width="77.819504"
        transform="matrix(1.13834,0.369644,-0.303638,0.93507,71.111,25.1292)"
        class="fil2" /><polygon
-       style="fill:#ffffff"
+       style="fill:#ecf0f1"
        id="polygon15"
        points="90,108 73,103 56,97 69,85 82,73 86,90 "
        class="fil3" /><polygon
-       style="fill:#ffffff"
+       style="fill:#ecf0f1"
        id="polygon17"
        points="129,121 101,112 74,103 95,83 117,64 123,92 "
        class="fil3" /><circle
-       style="fill:#ffffff"
+       style="fill:#ecf0f1"
        cy="0"
        cx="0"
        id="circle19"
@@ -111,7 +110,7 @@
      inkscape:export-filename="E:\Emulador\theme\png\images.png"
      inkscape:export-xdpi="299.99814"
      inkscape:export-ydpi="299.99814"><rect
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:3.48799992"
+       style="fill:#ecf0f1;stroke:#ecf0f1;stroke-width:3.48799992"
        y="0"
        x="0"
        id="rect22"
@@ -121,7 +120,7 @@
        width="119"
        transform="matrix(0.819574,-0.315292,0.315292,0.819574,10.5557,62.75)"
        class="fil1 str0" /><rect
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:3.48799992"
+       style="fill:#ecf0f1;stroke:#ecf0f1;stroke-width:3.48799992"
        y="0"
        x="0"
        id="rect24"
@@ -139,15 +138,15 @@
        width="77.819504"
        transform="matrix(1.11704,-0.429729,0.352994,0.917577,18.0563,66.886)"
        class="fil2" /><polygon
-       style="fill:#ffffff"
+       style="fill:#ecf0f1"
        id="polygon28"
        points="85,120 68,126 51,132 54,115 57,97 71,108 "
        class="fil3" /><polygon
-       style="fill:#ffffff"
+       style="fill:#ecf0f1"
        id="polygon30"
        points="124,105 96,115 69,126 74,97 78,68 101,86 "
        class="fil3" /><circle
-       style="fill:#ffffff"
+       style="fill:#ecf0f1"
        cy="0"
        cx="0"
        id="circle32"
@@ -158,7 +157,7 @@
      inkscape:export-filename="E:\Emulador\theme\png\images.png"
      inkscape:export-xdpi="299.99814"
      inkscape:export-ydpi="299.99814"><rect
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:3.48799992"
+       style="fill:#ecf0f1;stroke:#ecf0f1;stroke-width:3.48799992"
        id="rect35"
        ry="8"
        rx="8"
@@ -167,7 +166,7 @@
        y="31"
        x="37"
        class="fil1 str0" /><rect
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:3.48799992"
+       style="fill:#ecf0f1;stroke:#ecf0f1;stroke-width:3.48799992"
        id="rect37"
        ry="2"
        rx="7"
@@ -183,15 +182,15 @@
        y="38"
        x="43"
        class="fil4" /><polygon
-       style="fill:#ffffff"
+       style="fill:#ecf0f1"
        id="polygon41"
        points="86,111 68,111 50,111 59,95 68,80 77,95 "
        class="fil3" /><polygon
-       style="fill:#ffffff"
+       style="fill:#ecf0f1"
        id="polygon43"
        points="128,111 98,111 69,111 84,86 98,60 113,86 "
        class="fil3" /><circle
-       style="fill:#ffffff"
+       style="fill:#ecf0f1"
        id="circle45"
        r="10"
        cy="53"

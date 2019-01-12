@@ -17,7 +17,7 @@
    viewBox="0 0 256 256"
    id="svg6131"
    sodipodi:docname="battery-full.svg"
-   inkscape:version="0.92.1 r15371"><metadata
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
      id="metadata6135"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
@@ -29,16 +29,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="883"
-     inkscape:window-height="480"
+     inkscape:window-width="1024"
+     inkscape:window-height="705"
      id="namedview6133"
      showgrid="false"
-     inkscape:zoom="0.4609375"
-     inkscape:cx="201.9885"
-     inkscape:cy="174.9392"
-     inkscape:window-x="633"
-     inkscape:window-y="162"
-     inkscape:window-maximized="0"
+     inkscape:zoom="3.6875"
+     inkscape:cx="107.04829"
+     inkscape:cy="115.72564"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg6131" /><defs
      id="defs6117"><style
        type="text/css"
@@ -47,7 +47,16 @@
     .fil1 {fill:none}
     .fil0 {fill:#E6E6E6}
     .fil2 {fill:white}
-   ]]></style></defs><rect
+   ]]></style></defs><path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ecf0f1;fill-opacity:1;fill-rule:nonzero;stroke:#2c3e50;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     d="m 118.48828,82.492188 v 0.111328 l -0.33203,0.0098 0.0312,6.001953 c -2.32243,0.06982 -4.86145,0.425385 -6.9375,2.625 -1.59377,1.502967 -2.32194,3.448136 -2.58594,5.181641 -0.26776,1.758233 -0.17322,3.386177 -0.16406,4.71874 0.023,12.85452 -0.0457,25.72928 0.0352,38.61329 v 0.0605 l 0.004,0.0586 c 0.28087,5.17901 4.94688,8.89382 9.94922,8.57617 v 0.0859 h 15.35547 v -0.11719 c 4.87657,0.13702 9.35611,-3.47884 9.63086,-8.54492 l 0.004,-0.0586 v -0.0605 c 0.0808,-12.8801 0.0122,-25.75095 0.0351,-38.60157 0.009,-1.334408 0.10437,-2.967862 -0.16406,-4.73046 -0.264,-1.733509 -0.99217,-3.678678 -2.58594,-5.181641 -2.0697,-2.192829 -4.60288,-2.551065 -6.91992,-2.623046 v -3.574219 -2.550781 z"
+     id="path848"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccccccccccccsccccc" /><path
+     style="fill:#2c3e50;fill-opacity:1;stroke:#ecf0f1;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 120.98812,84.991938 v 0.04492 c -0.10607,0.003 -0.21231,0.003 -0.31836,0.006 l 0.0312,5.95703 c -2.68175,-0.0574 -5.72278,-0.16018 -7.70117,2 -2.28837,2.09676 -2.01847,5.32071 -2,8.136722 0.023,12.86637 -0.0455,25.73689 0.0352,38.60156 0.20402,3.76194 3.87186,6.65005 7.5625,6.26172 0.7968,-0.003 1.59377,0.002 2.39062,0.002 v 0.0332 h 10.35547 v -0.0332 c 0.69073,3.3e-4 1.38157,-0.005 2.07227,-0.002 3.69064,0.38833 7.35848,-2.49978 7.5625,-6.26172 0.0807,-12.86467 0.0121,-25.73519 0.0351,-38.60156 0.0185,-2.816012 0.28837,-6.039962 -2,-8.136722 -1.97087,-2.15197 -4.99566,-2.05749 -7.66992,-2 v -5.95703 -0.0508 z"
+     id="path825"
+     inkscape:connector-curvature="0" /><rect
      style="fill:none"
      y="0"
      x="0"
@@ -57,16 +66,8 @@
      class="fil0"
      inkscape:export-filename="E:\Emulador\theme\png\battery-full.png"
      inkscape:export-xdpi="96"
-     inkscape:export-ydpi="96" /><path
-     style="fill:none;stroke:#ffffff;stroke-width:4.99961996"
-     inkscape:connector-curvature="0"
-     id="path6122"
-     d="m 132,91 c 0,0 1,0 1,-1 v -4 c 0,0 -1,-1 -2,-1 h -10 c -1,0 -1,1 -1,1 v 4 c 0,1 0,1 1,1 h -3 c -4,0 -7,3 -7,7 v 41 c 0,4 3,7 7,7 h 16 c 4,0 7,-3 7,-7 V 98 c 0,-4 -3,-7 -7,-7 z"
-     class="fil1 str0"
-     inkscape:export-filename="E:\Emulador\theme\png\battery-full.png"
-     inkscape:export-xdpi="96"
      inkscape:export-ydpi="96" /><rect
-     style="fill:#ffffff"
+     style="fill:#ecf0f1"
      id="rect6124"
      height="11.9785"
      width="18.9604"
@@ -76,7 +77,7 @@
      inkscape:export-filename="E:\Emulador\theme\png\battery-full.png"
      inkscape:export-xdpi="96"
      inkscape:export-ydpi="96" /><rect
-     style="fill:#ffffff"
+     style="fill:#ecf0f1"
      id="rect6126"
      height="11.9785"
      width="18.9604"
@@ -86,7 +87,7 @@
      inkscape:export-filename="E:\Emulador\theme\png\battery-full.png"
      inkscape:export-xdpi="96"
      inkscape:export-ydpi="96" /><rect
-     style="fill:#ffffff"
+     style="fill:#ecf0f1"
      id="rect6128"
      height="11.9785"
      width="18.9604"

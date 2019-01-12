@@ -1,6 +1,56 @@
-<svg id="png_Atari_-_7800.png_src_Atari_-_7800.svg" data-name="png/Atari - 7800.png, src/Atari - 7800.svg" xmlns="http://www.w3.org/2000/svg" width="112.031" height="248" viewBox="0 0 112.031 248">
-  <defs>
-    <style>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="png_Atari_-_7800.png_src_Atari_-_7800.svg"
+   data-name="png/Atari - 7800.png, src/Atari - 7800.svg"
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   version="1.1"
+   sodipodi:docname="Atari - 7800.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata47">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1024"
+     inkscape:window-height="705"
+     id="namedview45"
+     showgrid="false"
+     inkscape:zoom="0.9516129"
+     inkscape:cx="56.015499"
+     inkscape:cy="124"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="png_Atari_-_7800.png_src_Atari_-_7800.svg" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">
       .cls-1 {
         fill: #c23824;
       }
@@ -55,38 +105,226 @@
       }
     </style>
   </defs>
-  <g id="Shoulder_pads" data-name="Shoulder pads">
-    <path id="Rounded_Rectangle_4" data-name="Rounded Rectangle 4" class="cls-1" d="M82.9,15.655l5.125,0.759a5.169,5.169,0,0,1,4.364,5.87L87.44,55.5a5.179,5.179,0,0,1-5.886,4.351l-5.125-.759a5.169,5.169,0,0,1-4.364-5.87l4.948-33.219A5.179,5.179,0,0,1,82.9,15.655Z" transform="translate(-72 -4)"/>
-    <path id="Rounded_Rectangle_4-2" data-name="Rounded Rectangle 4" class="cls-1" d="M172.99,15.694l-5.2.752a5.14,5.14,0,0,0-4.424,5.816l5.016,32.916a5.235,5.235,0,0,0,5.968,4.312l5.2-.752a5.141,5.141,0,0,0,4.424-5.816l-5.017-32.916A5.234,5.234,0,0,0,172.99,15.694Z" transform="translate(-72 -4)"/>
-  </g>
-  <g id="Body">
-    <path id="Rounded_Rectangle_1" data-name="Rounded Rectangle 1" class="cls-2" d="M89.486,4H167.2a5.174,5.174,0,0,1,5.181,5.167l7.772,61.822-7.772,175.844A5.174,5.174,0,0,1,167.2,252H89.486a5.174,5.174,0,0,1-5.181-5.167L76.533,71.167l7.772-62A5.174,5.174,0,0,1,89.486,4Z" transform="translate(-72 -4)"/>
-    <rect id="Rounded_Rectangle_2" data-name="Rounded Rectangle 2" class="cls-3" x="18.781" width="75.125" height="240.25" rx="4" ry="4"/>
-    <path id="Rounded_Rectangle_3" data-name="Rounded Rectangle 3" class="cls-2" d="M103.848,68.583H152.84a4,4,0,0,1,4,4v48.834a4,4,0,0,1-4,4H103.848a4,4,0,0,1-4-4V72.583A4,4,0,0,1,103.848,68.583Z" transform="translate(-72 -4)"/>
-    <path id="Rounded_Rectangle_3-2" data-name="Rounded Rectangle 3" class="cls-2" d="M103.848,68.583H152.84a4,4,0,0,1,4,4v48.834a4,4,0,0,1-4,4H103.848a4,4,0,0,1-4-4V72.583A4,4,0,0,1,103.848,68.583Z" transform="translate(-72 -4)"/>
-    <path id="Rounded_Rectangle_3-3" data-name="Rounded Rectangle 3" class="cls-2" d="M103.848,68.583H152.84a4,4,0,0,1,4,4v37.209a4,4,0,0,1-4,4H103.848a4,4,0,0,1-4-4V72.583A4,4,0,0,1,103.848,68.583Z" transform="translate(-72 -4)"/>
-    <path id="Rounded_Rectangle_3-4" data-name="Rounded Rectangle 3" class="cls-2" d="M103.848,68.583H152.84a4,4,0,0,1,4,4v37.209a4,4,0,0,1-4,4H103.848a4,4,0,0,1-4-4V72.583A4,4,0,0,1,103.848,68.583Z" transform="translate(-72 -4)"/>
-    <path id="Rounded_Rectangle_3-5" data-name="Rounded Rectangle 3" class="cls-4" d="M101.848,134.458H154.84a2,2,0,0,1,2,2V250a2,2,0,0,1-2,2H101.848a2,2,0,0,1-2-2V136.458A2,2,0,0,1,101.848,134.458Z" transform="translate(-72 -4)"/>
-    <path id="Rounded_Rectangle_3-6" data-name="Rounded Rectangle 3" class="cls-5" d="M99.848,244.25H156.84V250a2,2,0,0,1-2,2H101.848a2,2,0,0,1-2-2v-5.75Z" transform="translate(-72 -4)"/>
-    <path id="Rounded_Rectangle_3-7" data-name="Rounded Rectangle 3" class="cls-6" d="M110.915,149.958h15.429a2,2,0,0,1,2,2v78.667a2,2,0,0,1-2,2H110.915a2,2,0,0,1-2-2V151.958A2,2,0,0,1,110.915,149.958Z" transform="translate(-72 -4)"/>
-    <path id="Coches" class="cls-7" d="M146.183,117.667h0.59a1,1,0,0,1,1,1v5.75a1,1,0,0,1-1,1h-0.59a1,1,0,0,1-1-1v-5.75A1,1,0,0,1,146.183,117.667Zm-5.182,0h0.591a1,1,0,0,1,1,1v5.75a1,1,0,0,1-1,1H141a1,1,0,0,1-1-1v-5.75A1,1,0,0,1,141,117.667Zm-5.181,0h0.591a1,1,0,0,1,1,1v5.75a1,1,0,0,1-1,1H135.82a1,1,0,0,1-1-1v-5.75A1,1,0,0,1,135.82,117.667Zm-5.181,0h0.591a1,1,0,0,1,1,1v5.75a1,1,0,0,1-1,1h-0.591a1,1,0,0,1-1-1v-5.75A1,1,0,0,1,130.639,117.667Zm-5.181,0h0.591a1,1,0,0,1,1,1v5.75a1,1,0,0,1-1,1h-0.591a1,1,0,0,1-1-1v-5.75A1,1,0,0,1,125.458,117.667Zm-5.181,0h0.591a1,1,0,0,1,1,1v5.75a1,1,0,0,1-1,1h-0.591a1,1,0,0,1-1-1v-5.75A1,1,0,0,1,120.277,117.667Zm-5.181,0h0.591a1,1,0,0,1,1,1v5.75a1,1,0,0,1-1,1H115.1a1,1,0,0,1-1-1v-5.75A1,1,0,0,1,115.1,117.667Zm-5.181,0h0.591a1,1,0,0,1,1,1v5.75a1,1,0,0,1-1,1h-0.591a1,1,0,0,1-1-1v-5.75A1,1,0,0,1,109.915,117.667Z" transform="translate(-72 -4)"/>
-    <path id="Coches-2" data-name="Coches" class="cls-7" d="M146.183,68.583h0.59a1,1,0,0,1,1,1v5.75a1,1,0,0,1-1,1h-0.59a1,1,0,0,1-1-1v-5.75A1,1,0,0,1,146.183,68.583Zm-5.182,0h0.591a1,1,0,0,1,1,1v5.75a1,1,0,0,1-1,1H141a1,1,0,0,1-1-1v-5.75A1,1,0,0,1,141,68.583Zm-5.181,0h0.591a1,1,0,0,1,1,1v5.75a1,1,0,0,1-1,1H135.82a1,1,0,0,1-1-1v-5.75A1,1,0,0,1,135.82,68.583Zm-5.181,0h0.591a1,1,0,0,1,1,1v5.75a1,1,0,0,1-1,1h-0.591a1,1,0,0,1-1-1v-5.75A1,1,0,0,1,130.639,68.583Zm-5.181,0h0.591a1,1,0,0,1,1,1v5.75a1,1,0,0,1-1,1h-0.591a1,1,0,0,1-1-1v-5.75A1,1,0,0,1,125.458,68.583Zm-5.181,0h0.591a1,1,0,0,1,1,1v5.75a1,1,0,0,1-1,1h-0.591a1,1,0,0,1-1-1v-5.75A1,1,0,0,1,120.277,68.583Zm-5.181,0h0.591a1,1,0,0,1,1,1v5.75a1,1,0,0,1-1,1H115.1a1,1,0,0,1-1-1v-5.75A1,1,0,0,1,115.1,68.583Zm-5.181,0h0.591a1,1,0,0,1,1,1v5.75a1,1,0,0,1-1,1h-0.591a1,1,0,0,1-1-1v-5.75A1,1,0,0,1,109.915,68.583Z" transform="translate(-72 -4)"/>
-    <path id="Coches-3" data-name="Coches" class="cls-8" d="M100.848,13.042H155.84a1,1,0,0,1,1,1v0.583a1,1,0,0,1-1,1H100.848a1,1,0,0,1-1-1V14.042A1,1,0,0,1,100.848,13.042Zm0,5.167H155.84a1,1,0,0,1,1,1v0.583a1,1,0,0,1-1,1H100.848a1,1,0,0,1-1-1V19.208A1,1,0,0,1,100.848,18.208Zm0,5.167H155.84a1,1,0,0,1,1,1v0.583a1,1,0,0,1-1,1H100.848a1,1,0,0,1-1-1V24.375A1,1,0,0,1,100.848,23.375Zm0,5.167H155.84a1,1,0,0,1,1,1v0.583a1,1,0,0,1-1,1H100.848a1,1,0,0,1-1-1V29.542A1,1,0,0,1,100.848,28.542Zm0,5.167H155.84a1,1,0,0,1,1,1v0.583a1,1,0,0,1-1,1H100.848a1,1,0,0,1-1-1V34.708A1,1,0,0,1,100.848,33.708Zm0,5.167H155.84a1,1,0,0,1,1,1v0.583a1,1,0,0,1-1,1H100.848a1,1,0,0,1-1-1V39.875A1,1,0,0,1,100.848,38.875Zm0,5.167H155.84a1,1,0,0,1,1,1v0.583a1,1,0,0,1-1,1H100.848a1,1,0,0,1-1-1V45.042A1,1,0,0,1,100.848,44.042Zm0,5.167H155.84a1,1,0,0,1,1,1v0.583a1,1,0,0,1-1,1H100.848a1,1,0,0,1-1-1V50.208A1,1,0,0,1,100.848,49.208Z" transform="translate(-72 -4)"/>
-    <g id="Colors">
-      <path class="cls-9" d="M140,149.958h5.182v20.667H140V149.958Z" transform="translate(-72 -4)"/>
-      <path class="cls-10" d="M140,170.625h5.182v20.667H140V170.625Z" transform="translate(-72 -4)"/>
-      <path class="cls-11" d="M140,191.292h5.182v20.666H140V191.292Z" transform="translate(-72 -4)"/>
-      <path class="cls-12" d="M140,211.958h5.182v20.667H140V211.958Z" transform="translate(-72 -4)"/>
+  <g
+     id="g884"
+     transform="translate(71.983044,-4)">
+    <g
+       transform="translate(0,8)"
+       data-name="Shoulder pads"
+       id="Shoulder_pads">
+      <path
+         style="fill:#c23824;fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         transform="translate(-72,-4)"
+         d="m 82.9,15.655 5.125,0.759 a 5.169,5.169 0 0 1 4.364,5.87 L 87.44,55.5 a 5.179,5.179 0 0 1 -5.886,4.351 l -5.125,-0.759 a 5.169,5.169 0 0 1 -4.364,-5.87 L 77.013,20.003 A 5.179,5.179 0 0 1 82.9,15.655 Z"
+         class="cls-1"
+         data-name="Rounded Rectangle 4"
+         id="Rounded_Rectangle_4" />
+      <path
+         style="fill:#c23824;fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         transform="translate(-72,-4)"
+         d="m 172.99,15.694 -5.2,0.752 a 5.14,5.14 0 0 0 -4.424,5.816 l 5.016,32.916 a 5.235,5.235 0 0 0 5.968,4.312 l 5.2,-0.752 a 5.141,5.141 0 0 0 4.424,-5.816 l -5.017,-32.916 a 5.234,5.234 0 0 0 -5.967,-4.312 z"
+         class="cls-1"
+         data-name="Rounded Rectangle 4"
+         id="Rounded_Rectangle_4-2" />
     </g>
-  </g>
-  <g id="Knob">
-    <path class="cls-13" d="M122.571,71.8a1.8,1.8,0,1,1-1.8,1.8A1.8,1.8,0,0,1,122.571,71.8ZM117.8,76.561a1.8,1.8,0,1,1-1.8,1.8A1.8,1.8,0,0,1,117.8,76.561Zm-3.6,5.974a1.8,1.8,0,1,1-1.8,1.8A1.8,1.8,0,0,1,114.193,82.535Zm45.991,2.3a1.8,1.8,0,1,1-1.271-2.19A1.8,1.8,0,0,1,160.184,84.838ZM156.795,79a1.8,1.8,0,1,1-1.271-2.19A1.8,1.8,0,0,1,156.795,79Zm-4.856-5a1.8,1.8,0,1,1-1.271-2.19A1.8,1.8,0,0,1,151.939,74Zm-1.823,37.114a1.777,1.777,0,1,1-1.821,1.776A1.8,1.8,0,0,1,150.116,111.113Zm4.8-4.722a1.756,1.756,0,1,1-1.8,1.755A1.779,1.779,0,0,1,154.913,106.391Zm3.6-5.894a1.776,1.776,0,1,1-1.8,1.776A1.789,1.789,0,0,1,158.515,100.5Zm-44.868,1.252a1.8,1.8,0,0,1,2.2-1.252,1.766,1.766,0,0,1,1.273,2.168,1.8,1.8,0,0,1-2.2,1.252A1.767,1.767,0,0,1,113.647,101.749Zm3.394,5.781a1.8,1.8,0,0,1,2.2-1.252,1.767,1.767,0,0,1,1.272,2.168,1.8,1.8,0,0,1-2.2,1.251A1.767,1.767,0,0,1,117.041,107.53Zm4.864,4.946a1.8,1.8,0,0,1,2.2-1.252,1.767,1.767,0,0,1,1.273,2.168,1.8,1.8,0,0,1-2.2,1.252A1.766,1.766,0,0,1,121.905,112.476Zm15.056-43.059a23.25,23.25,0,1,1-23.355,23.25A23.3,23.3,0,0,1,136.961,69.417Z" transform="translate(-72 -4)"/>
-    <path id="Rayures_joystick" data-name="Rayures joystick" class="cls-2" d="M119.515,60.375a1.938,1.938,0,1,1-1.943,1.938A1.94,1.94,0,0,1,119.515,60.375Zm-5.181,5.167a1.938,1.938,0,1,1-1.943,1.938A1.94,1.94,0,0,1,114.334,65.542ZM110.449,72a1.938,1.938,0,1,1-1.943,1.938A1.939,1.939,0,0,1,110.449,72Z" transform="translate(-72 -4)"/>
-    <path id="Rayures_joystick-2" data-name="Rayures joystick" class="cls-2" d="M160.173,74.5a1.942,1.942,0,1,1-1.374-2.373A1.943,1.943,0,0,1,160.173,74.5ZM156.51,68.17a1.943,1.943,0,1,1-1.374-2.373A1.944,1.944,0,0,1,156.51,68.17Zm-5.25-5.414a1.943,1.943,0,1,1-1.374-2.373A1.944,1.944,0,0,1,151.26,62.755Z" transform="translate(-72 -4)"/>
-    <path id="Rayures_joystick-3" data-name="Rayures joystick" class="cls-2" d="M149.286,102.96a1.918,1.918,0,1,1-1.963,1.917A1.94,1.94,0,0,1,149.286,102.96Zm5.2-5.127a1.918,1.918,0,1,1-1.943,1.917A1.929,1.929,0,0,1,154.488,97.833Zm3.885-6.378a1.918,1.918,0,1,1-1.943,1.917A1.93,1.93,0,0,1,158.373,91.456Z" transform="translate(-72 -4)"/>
-    <path id="Rayures_joystick-4" data-name="Rayures joystick" class="cls-7" d="M109.863,92.818a1.949,1.949,0,0,1,2.383-1.356,1.915,1.915,0,0,1,1.376,2.349,1.949,1.949,0,0,1-2.383,1.356A1.915,1.915,0,0,1,109.863,92.818Zm3.669,6.263a1.949,1.949,0,0,1,2.383-1.356,1.913,1.913,0,0,1,1.376,2.348,1.949,1.949,0,0,1-2.383,1.356A1.915,1.915,0,0,1,113.532,99.081Zm5.258,5.358a1.95,1.95,0,0,1,2.384-1.356,1.916,1.916,0,0,1,1.376,2.349,1.95,1.95,0,0,1-2.384,1.356A1.915,1.915,0,0,1,118.79,104.439Z" transform="translate(-72 -4)"/>
-    <circle class="cls-3" cx="63.062" cy="78.969" r="25.25"/>
-    <circle class="cls-14" cx="63.703" cy="78.328" r="22.015"/>
-    <circle class="cls-3" cx="63.703" cy="78.328" r="16.828"/>
+    <g
+       transform="translate(0,8)"
+       id="Body">
+      <path
+         style="fill:#2c3e51;fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         transform="translate(-72,-4)"
+         d="M 89.486,4 H 167.2 a 5.174,5.174 0 0 1 5.181,5.167 l 7.772,61.822 -7.772,175.844 A 5.174,5.174 0 0 1 167.2,252 H 89.486 a 5.174,5.174 0 0 1 -5.181,-5.167 l -7.772,-175.666 7.772,-62 A 5.174,5.174 0 0 1 89.486,4 Z"
+         class="cls-2"
+         data-name="Rounded Rectangle 1"
+         id="Rounded_Rectangle_1" />
+      <rect
+         style="fill:#33495f"
+         y="0"
+         ry="4"
+         rx="4"
+         height="240.25"
+         width="75.125"
+         x="18.781"
+         class="cls-3"
+         data-name="Rounded Rectangle 2"
+         id="Rounded_Rectangle_2" />
+      <path
+         style="fill:#2c3e51;fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         transform="translate(-72,-4)"
+         d="m 103.848,68.583 h 48.992 a 4,4 0 0 1 4,4 v 48.834 a 4,4 0 0 1 -4,4 h -48.992 a 4,4 0 0 1 -4,-4 V 72.583 a 4,4 0 0 1 4,-4 z"
+         class="cls-2"
+         data-name="Rounded Rectangle 3"
+         id="Rounded_Rectangle_3" />
+      <path
+         style="fill:#2c3e51;fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         transform="translate(-72,-4)"
+         d="m 103.848,68.583 h 48.992 a 4,4 0 0 1 4,4 v 48.834 a 4,4 0 0 1 -4,4 h -48.992 a 4,4 0 0 1 -4,-4 V 72.583 a 4,4 0 0 1 4,-4 z"
+         class="cls-2"
+         data-name="Rounded Rectangle 3"
+         id="Rounded_Rectangle_3-2" />
+      <path
+         style="fill:#2c3e51;fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         transform="translate(-72,-4)"
+         d="m 103.848,68.583 h 48.992 a 4,4 0 0 1 4,4 v 37.209 a 4,4 0 0 1 -4,4 h -48.992 a 4,4 0 0 1 -4,-4 V 72.583 a 4,4 0 0 1 4,-4 z"
+         class="cls-2"
+         data-name="Rounded Rectangle 3"
+         id="Rounded_Rectangle_3-3" />
+      <path
+         style="fill:#2c3e51;fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         transform="translate(-72,-4)"
+         d="m 103.848,68.583 h 48.992 a 4,4 0 0 1 4,4 v 37.209 a 4,4 0 0 1 -4,4 h -48.992 a 4,4 0 0 1 -4,-4 V 72.583 a 4,4 0 0 1 4,-4 z"
+         class="cls-2"
+         data-name="Rounded Rectangle 3"
+         id="Rounded_Rectangle_3-4" />
+      <path
+         style="fill:#95a5a6;fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         transform="translate(-72,-4)"
+         d="m 101.848,134.458 h 52.992 a 2,2 0 0 1 2,2 V 250 a 2,2 0 0 1 -2,2 h -52.992 a 2,2 0 0 1 -2,-2 V 136.458 a 2,2 0 0 1 2,-2 z"
+         class="cls-4"
+         data-name="Rounded Rectangle 3"
+         id="Rounded_Rectangle_3-5" />
+      <path
+         style="fill:#7f8c8d;fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         transform="translate(-72,-4)"
+         d="M 99.848,244.25 H 156.84 V 250 a 2,2 0 0 1 -2,2 h -52.992 a 2,2 0 0 1 -2,-2 z"
+         class="cls-5"
+         data-name="Rounded Rectangle 3"
+         id="Rounded_Rectangle_3-6" />
+      <path
+         style="fill:#bdc3c7;fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         transform="translate(-72,-4)"
+         d="m 110.915,149.958 h 15.429 a 2,2 0 0 1 2,2 v 78.667 a 2,2 0 0 1 -2,2 h -15.429 a 2,2 0 0 1 -2,-2 v -78.667 a 2,2 0 0 1 2,-2 z"
+         class="cls-6"
+         data-name="Rounded Rectangle 3"
+         id="Rounded_Rectangle_3-7" />
+      <path
+         style="fill:#33495f;fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         transform="translate(-72,-4)"
+         d="m 146.183,117.667 h 0.59 a 1,1 0 0 1 1,1 v 5.75 a 1,1 0 0 1 -1,1 h -0.59 a 1,1 0 0 1 -1,-1 v -5.75 a 1,1 0 0 1 1,-1 z m -5.182,0 h 0.591 a 1,1 0 0 1 1,1 v 5.75 a 1,1 0 0 1 -1,1 H 141 a 1,1 0 0 1 -1,-1 v -5.75 a 1,1 0 0 1 1,-1 z m -5.181,0 h 0.591 a 1,1 0 0 1 1,1 v 5.75 a 1,1 0 0 1 -1,1 h -0.591 a 1,1 0 0 1 -1,-1 v -5.75 a 1,1 0 0 1 1,-1 z m -5.181,0 h 0.591 a 1,1 0 0 1 1,1 v 5.75 a 1,1 0 0 1 -1,1 h -0.591 a 1,1 0 0 1 -1,-1 v -5.75 a 1,1 0 0 1 1,-1 z m -5.181,0 h 0.591 a 1,1 0 0 1 1,1 v 5.75 a 1,1 0 0 1 -1,1 h -0.591 a 1,1 0 0 1 -1,-1 v -5.75 a 1,1 0 0 1 1,-1 z m -5.181,0 h 0.591 a 1,1 0 0 1 1,1 v 5.75 a 1,1 0 0 1 -1,1 h -0.591 a 1,1 0 0 1 -1,-1 v -5.75 a 1,1 0 0 1 1,-1 z m -5.181,0 h 0.591 a 1,1 0 0 1 1,1 v 5.75 a 1,1 0 0 1 -1,1 H 115.1 a 1,1 0 0 1 -1,-1 v -5.75 a 1,1 0 0 1 1,-1 z m -5.181,0 h 0.591 a 1,1 0 0 1 1,1 v 5.75 a 1,1 0 0 1 -1,1 h -0.591 a 1,1 0 0 1 -1,-1 v -5.75 a 1,1 0 0 1 1,-1 z"
+         class="cls-7"
+         id="Coches" />
+      <path
+         style="fill:#33495f;fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         transform="translate(-72,-4)"
+         d="m 146.183,68.583 h 0.59 a 1,1 0 0 1 1,1 v 5.75 a 1,1 0 0 1 -1,1 h -0.59 a 1,1 0 0 1 -1,-1 v -5.75 a 1,1 0 0 1 1,-1 z m -5.182,0 h 0.591 a 1,1 0 0 1 1,1 v 5.75 a 1,1 0 0 1 -1,1 H 141 a 1,1 0 0 1 -1,-1 v -5.75 a 1,1 0 0 1 1,-1 z m -5.181,0 h 0.591 a 1,1 0 0 1 1,1 v 5.75 a 1,1 0 0 1 -1,1 h -0.591 a 1,1 0 0 1 -1,-1 v -5.75 a 1,1 0 0 1 1,-1 z m -5.181,0 h 0.591 a 1,1 0 0 1 1,1 v 5.75 a 1,1 0 0 1 -1,1 h -0.591 a 1,1 0 0 1 -1,-1 v -5.75 a 1,1 0 0 1 1,-1 z m -5.181,0 h 0.591 a 1,1 0 0 1 1,1 v 5.75 a 1,1 0 0 1 -1,1 h -0.591 a 1,1 0 0 1 -1,-1 v -5.75 a 1,1 0 0 1 1,-1 z m -5.181,0 h 0.591 a 1,1 0 0 1 1,1 v 5.75 a 1,1 0 0 1 -1,1 h -0.591 a 1,1 0 0 1 -1,-1 v -5.75 a 1,1 0 0 1 1,-1 z m -5.181,0 h 0.591 a 1,1 0 0 1 1,1 v 5.75 a 1,1 0 0 1 -1,1 H 115.1 a 1,1 0 0 1 -1,-1 v -5.75 a 1,1 0 0 1 1,-1 z m -5.181,0 h 0.591 a 1,1 0 0 1 1,1 v 5.75 a 1,1 0 0 1 -1,1 h -0.591 a 1,1 0 0 1 -1,-1 v -5.75 a 1,1 0 0 1 1,-1 z"
+         class="cls-7"
+         data-name="Coches"
+         id="Coches-2" />
+      <path
+         style="fill:#2b3e51;fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         transform="translate(-72,-4)"
+         d="m 100.848,13.042 h 54.992 a 1,1 0 0 1 1,1 v 0.583 a 1,1 0 0 1 -1,1 h -54.992 a 1,1 0 0 1 -1,-1 v -0.583 a 1,1 0 0 1 1,-1 z m 0,5.167 h 54.992 a 1,1 0 0 1 1,1 v 0.583 a 1,1 0 0 1 -1,1 h -54.992 a 1,1 0 0 1 -1,-1 v -0.584 a 1,1 0 0 1 1,-1 z m 0,5.167 h 54.992 a 1,1 0 0 1 1,1 v 0.583 a 1,1 0 0 1 -1,1 h -54.992 a 1,1 0 0 1 -1,-1 v -0.584 a 1,1 0 0 1 1,-1 z m 0,5.167 h 54.992 a 1,1 0 0 1 1,1 v 0.583 a 1,1 0 0 1 -1,1 h -54.992 a 1,1 0 0 1 -1,-1 v -0.584 a 1,1 0 0 1 1,-1 z m 0,5.167 h 54.992 a 1,1 0 0 1 1,1 v 0.583 a 1,1 0 0 1 -1,1 h -54.992 a 1,1 0 0 1 -1,-1 v -0.585 a 1,1 0 0 1 1,-1 z m 0,5.167 h 54.992 a 1,1 0 0 1 1,1 v 0.583 a 1,1 0 0 1 -1,1 h -54.992 a 1,1 0 0 1 -1,-1 v -0.585 a 1,1 0 0 1 1,-1 z m 0,5.167 h 54.992 a 1,1 0 0 1 1,1 v 0.583 a 1,1 0 0 1 -1,1 h -54.992 a 1,1 0 0 1 -1,-1 v -0.585 a 1,1 0 0 1 1,-1 z m 0,5.167 h 54.992 a 1,1 0 0 1 1,1 v 0.583 a 1,1 0 0 1 -1,1 h -54.992 a 1,1 0 0 1 -1,-1 v -0.586 a 1,1 0 0 1 1,-1 z"
+         class="cls-8"
+         data-name="Coches"
+         id="Coches-3" />
+      <g
+         id="Colors">
+        <path
+           style="fill:#1baf5d;fill-rule:evenodd"
+           inkscape:connector-curvature="0"
+           id="path21"
+           transform="translate(-72,-4)"
+           d="m 140,149.958 h 5.182 v 20.667 H 140 Z"
+           class="cls-9" />
+        <path
+           style="fill:#227fbb;fill-rule:evenodd"
+           inkscape:connector-curvature="0"
+           id="path23"
+           transform="translate(-72,-4)"
+           d="m 140,170.625 h 5.182 v 20.667 H 140 Z"
+           class="cls-10" />
+        <path
+           style="fill:#d55400;fill-rule:evenodd"
+           inkscape:connector-curvature="0"
+           id="path25"
+           transform="translate(-72,-4)"
+           d="m 140,191.292 h 5.182 v 20.666 H 140 Z"
+           class="cls-11" />
+        <path
+           style="fill:#f2c500;fill-rule:evenodd"
+           inkscape:connector-curvature="0"
+           id="path27"
+           transform="translate(-72,-4)"
+           d="m 140,211.958 h 5.182 v 20.667 H 140 Z"
+           class="cls-12" />
+      </g>
+    </g>
+    <g
+       transform="translate(0,8)"
+       id="Knob">
+      <path
+         style="opacity:0.5;fill:#213142;fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path31"
+         transform="translate(-72,-4)"
+         d="m 122.571,71.8 a 1.8,1.8 0 1 1 -1.8,1.8 1.8,1.8 0 0 1 1.8,-1.8 z m -4.771,4.761 a 1.8,1.8 0 1 1 -1.8,1.8 1.8,1.8 0 0 1 1.8,-1.8 z m -3.6,5.974 a 1.8,1.8 0 1 1 -1.8,1.8 1.8,1.8 0 0 1 1.793,-1.8 z m 45.991,2.3 a 1.8,1.8 0 1 1 -1.271,-2.19 1.8,1.8 0 0 1 1.264,2.193 z M 156.795,79 a 1.8,1.8 0 1 1 -1.271,-2.19 1.8,1.8 0 0 1 1.271,2.19 z m -4.856,-5 a 1.8,1.8 0 1 1 -1.271,-2.19 1.8,1.8 0 0 1 1.271,2.19 z m -1.823,37.114 a 1.777,1.777 0 1 1 -1.821,1.776 1.8,1.8 0 0 1 1.821,-1.777 z m 4.8,-4.722 a 1.756,1.756 0 1 1 -1.8,1.755 1.779,1.779 0 0 1 1.797,-1.756 z m 3.6,-5.894 a 1.776,1.776 0 1 1 -1.8,1.776 1.789,1.789 0 0 1 1.799,-1.774 z m -44.868,1.252 a 1.8,1.8 0 0 1 2.2,-1.252 1.766,1.766 0 0 1 1.273,2.168 1.8,1.8 0 0 1 -2.2,1.252 1.767,1.767 0 0 1 -1.274,-2.169 z m 3.394,5.781 a 1.8,1.8 0 0 1 2.2,-1.252 1.767,1.767 0 0 1 1.272,2.168 1.8,1.8 0 0 1 -2.2,1.251 1.767,1.767 0 0 1 -1.273,-2.168 z m 4.864,4.946 a 1.8,1.8 0 0 1 2.2,-1.252 1.767,1.767 0 0 1 1.273,2.168 1.8,1.8 0 0 1 -2.2,1.252 1.766,1.766 0 0 1 -1.274,-2.169 z m 15.056,-43.059 a 23.25,23.25 0 1 1 -23.355,23.25 23.3,23.3 0 0 1 23.354,-23.251 z"
+         class="cls-13" />
+      <path
+         style="fill:#2c3e51;fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         transform="translate(-72,-4)"
+         d="m 119.515,60.375 a 1.938,1.938 0 1 1 -1.943,1.938 1.94,1.94 0 0 1 1.943,-1.938 z m -5.181,5.167 a 1.938,1.938 0 1 1 -1.943,1.938 1.94,1.94 0 0 1 1.943,-1.938 z M 110.449,72 a 1.938,1.938 0 1 1 -1.943,1.938 1.939,1.939 0 0 1 1.943,-1.938 z"
+         class="cls-2"
+         data-name="Rayures joystick"
+         id="Rayures_joystick" />
+      <path
+         style="fill:#2c3e51;fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         transform="translate(-72,-4)"
+         d="m 160.173,74.5 a 1.942,1.942 0 1 1 -1.374,-2.373 1.943,1.943 0 0 1 1.374,2.373 z m -3.663,-6.33 a 1.943,1.943 0 1 1 -1.374,-2.373 1.944,1.944 0 0 1 1.374,2.373 z m -5.25,-5.414 a 1.943,1.943 0 1 1 -1.374,-2.373 1.944,1.944 0 0 1 1.374,2.372 z"
+         class="cls-2"
+         data-name="Rayures joystick"
+         id="Rayures_joystick-2" />
+      <path
+         style="fill:#2c3e51;fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         transform="translate(-72,-4)"
+         d="m 149.286,102.96 a 1.918,1.918 0 1 1 -1.963,1.917 1.94,1.94 0 0 1 1.963,-1.917 z m 5.2,-5.127 a 1.918,1.918 0 1 1 -1.943,1.917 1.929,1.929 0 0 1 1.945,-1.917 z m 3.885,-6.378 a 1.918,1.918 0 1 1 -1.943,1.917 1.93,1.93 0 0 1 1.945,-1.916 z"
+         class="cls-2"
+         data-name="Rayures joystick"
+         id="Rayures_joystick-3" />
+      <path
+         style="fill:#33495f;fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         transform="translate(-72,-4)"
+         d="m 109.863,92.818 a 1.949,1.949 0 0 1 2.383,-1.356 1.915,1.915 0 0 1 1.376,2.349 1.949,1.949 0 0 1 -2.383,1.356 1.915,1.915 0 0 1 -1.376,-2.349 z m 3.669,6.263 a 1.949,1.949 0 0 1 2.383,-1.356 1.913,1.913 0 0 1 1.376,2.348 1.949,1.949 0 0 1 -2.383,1.356 1.915,1.915 0 0 1 -1.376,-2.348 z m 5.258,5.358 a 1.95,1.95 0 0 1 2.384,-1.356 1.916,1.916 0 0 1 1.376,2.349 1.95,1.95 0 0 1 -2.384,1.356 1.915,1.915 0 0 1 -1.376,-2.349 z"
+         class="cls-7"
+         data-name="Rayures joystick"
+         id="Rayures_joystick-4" />
+      <circle
+         style="fill:#33495f"
+         id="circle37"
+         r="25.25"
+         cy="78.969002"
+         cx="63.062"
+         class="cls-3" />
+      <circle
+         style="fill:#2c3e51"
+         id="circle39"
+         r="22.014999"
+         cy="78.328003"
+         cx="63.702999"
+         class="cls-14" />
+      <circle
+         style="fill:#33495f"
+         id="circle41"
+         r="16.827999"
+         cy="78.328003"
+         cx="63.702999"
+         class="cls-3" />
+    </g>
   </g>
 </svg>

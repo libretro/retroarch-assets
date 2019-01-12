@@ -13,7 +13,7 @@
    height="192"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="resume.svg"
    inkscape:export-filename="/home/kivutar/Bureau/lakka-menu/resume.png"
    inkscape:export-xdpi="90"
@@ -27,16 +27,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.9195959"
-     inkscape:cx="108.88133"
-     inkscape:cy="89.282194"
+     inkscape:zoom="1.979899"
+     inkscape:cx="45.880182"
+     inkscape:cy="97.653564"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1440"
-     inkscape:window-height="838"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-width="1024"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -54,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -63,16 +63,21 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-860.36218)">
-    <path
-       style="fill:#ecf0f1;fill-opacity:1;stroke:none"
-       d="m 116,956.36218 -24,-24 0,48 z"
-       id="path2998"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#ecf0f1;fill-opacity:1;stroke:none"
-       d="m 76,932.36218 8,0 0,48 -8,0 z"
-       id="rect3002"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
+    <g
+       id="g817"
+       transform="matrix(2,0,0,2,-96,-956.36218)"
+       style="stroke-width:0.5">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2998"
+         d="m 116,956.36218 -24,-24 v 48 z"
+         style="fill:#ecf0f1;fill-opacity:1;stroke:none;stroke-width:0.5" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="rect3002"
+         d="m 76,932.36218 h 8 v 48 h -8 z"
+         style="fill:#ecf0f1;fill-opacity:1;stroke:none;stroke-width:0.5" />
+    </g>
   </g>
 </svg>

@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -9,109 +8,51 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
-   version="1.1"
-   id="svg8"
-   inkscape:version="0.92.1 r15371"
-   sodipodi:docname="favorites.svg">
-  <defs
-     id="defs2">
-    <pattern
-       y="0"
-       x="0"
-       height="6"
-       width="6"
-       patternUnits="userSpaceOnUse"
-       id="EMFhbasepattern" />
-    <pattern
-       y="0"
-       x="0"
-       height="6"
-       width="6"
-       patternUnits="userSpaceOnUse"
-       id="EMFhbasepattern-4" />
-    <pattern
-       y="0"
-       x="0"
-       height="6"
-       width="6"
-       patternUnits="userSpaceOnUse"
-       id="EMFhbasepattern-0" />
-    <pattern
-       y="0"
-       x="0"
-       height="6"
-       width="6"
-       patternUnits="userSpaceOnUse"
-       id="EMFhbasepattern-01" />
-    <pattern
-       y="0"
-       x="0"
-       height="6"
-       width="6"
-       patternUnits="userSpaceOnUse"
-       id="EMFhbasepattern-1" />
-  </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#5bffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.80193948"
-     inkscape:cx="299.85646"
-     inkscape:cy="529.3071"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+   xml:space="preserve"
+   enable-background="new 0 128 64 64"
+   viewBox="0 128 64 64"
+   height="64px"
+   width="64px"
+   y="0px"
+   x="0px"
+   sodipodi:docname="favorites.svg"
+   inkscape:export-ydpi="90"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-xdpi="90"
+   inkscape:export-filename="/home/kivutar/Bureau/lakka-menu/reload.png"
+   id="svg2"
+   version="1.1"><sodipodi:namedview
+     inkscape:current-layer="svg2"
      inkscape:window-maximized="1"
-     borderlayer="false" />
-  <metadata
-     id="metadata5">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Camada 1"
-     inkscape:groupmode="layer"
-     id="layer1">
-    <path
-       id="path3726"
-       d="M -23.410402,269.82171 H 232.58961 V 13.821711 H -23.410402 Z"
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.12893057"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="E:\Emulador\theme\png\arrow.png"
-       inkscape:export-xdpi="25.399998"
-       inkscape:export-ydpi="25.399998" />
-    <path
-       id="path3801"
-       d="M 48.834694,134.55236 H 116.56803 V 66.819027 H 48.834694 Z"
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.8278631"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="E:\Emulador\theme\png\favorites.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <path
-       id="path3803"
-       d="m 82.701359,117.6815 -18.964081,11.24723 4.811315,-21.52594 -16.527183,-14.558919 21.963344,-2.061998 8.716605,-20.213781 8.74785,20.24502 21.932101,2.030759 -16.558424,14.590149 4.842554,21.49471 z"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.8278631"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="E:\Emulador\theme\png\favorites.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-  </g>
-</svg>
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="32.554502"
+     inkscape:cx="8.6583368"
+     inkscape:zoom="7.375"
+     showgrid="false"
+     id="namedview4"
+     inkscape:window-height="705"
+     inkscape:window-width="1024"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff"><inkscape:grid
+       snapvisiblegridlinesonly="true"
+       enabled="true"
+       visible="true"
+       empspacing="4"
+       id="grid2985"
+       type="xygrid" /></sodipodi:namedview><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+     id="defs6" /><path
+     sodipodi:nodetypes="cccccccccccc"
+     inkscape:connector-curvature="0"
+     id="path3719"
+     d="m 32.203125,134.79297 -6.796875,15.97656 -17.3164062,1.24805 13.0937502,11.40039 -4.164063,16.85547 14.888672,-8.92969 14.744141,9.16797 -1.078125,-4.68555 -2.814453,-12.23437 13.277343,-11.1875 -17.294921,-1.52735 z"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ecf0f1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" /></svg>

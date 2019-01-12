@@ -17,7 +17,7 @@
    viewBox="0 0 136 136"
    id="svg6154"
    sodipodi:docname="battery-charging.svg"
-   inkscape:version="0.92.1 r15371"><metadata
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
      id="metadata6158"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
@@ -29,13 +29,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-width="1024"
+     inkscape:window-height="705"
      id="namedview6156"
      showgrid="false"
-     inkscape:zoom="1.2431641"
-     inkscape:cx="227.39134"
-     inkscape:cy="47.115692"
+     inkscape:zoom="3.5161991"
+     inkscape:cx="104.22175"
+     inkscape:cy="133.58833"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -69,7 +69,7 @@
      inkscape:export-ydpi="307.20001" /><path
      id="path6727"
      d="m 71.65178,49.528082 c 0.376384,0 0.690038,-0.06272 0.690038,-0.439114 v -1.94465 c 0,-0.376384 -0.376384,-0.690035 -0.752768,-0.690035 h -5.457564 c -0.376384,0 -0.690042,0.313664 -0.690042,0.690035 v 1.94465 c 0,0.376384 0.313664,0.439114 0.690042,0.439114 h -1.693728 c -2.00738,0 -3.701108,1.88192 -3.701108,3.889299 v 21.516605 c 0,2.070109 1.693728,3.701107 3.701108,3.701107 h 8.531366 c 2.007379,0 3.701107,-1.630998 3.701107,-3.701107 V 53.417381 c 0,-2.007379 -1.693728,-3.889299 -3.701107,-3.889299 z"
-     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.6622448px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#ecf0f1;fill-opacity:1;fill-rule:evenodd;stroke:#2c3e50;stroke-width:2.65625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
      inkscape:connector-curvature="0"
      inkscape:export-filename="E:\Emulador\theme\png\battery-charging.png"
      inkscape:export-xdpi="307.20001"
