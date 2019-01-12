@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-filename="/home/kivutar/Bureau/retroarch-assets/xmb/monochrome/png/music.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   sodipodi:docname="menu_audio.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.3698059"
+     inkscape:cx="28.864822"
+     inkscape:cy="21.302051"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1024"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3004"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1180.3622)">
+    <g
+       id="g846">
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="E:\Emulador\theme\png\musics.png"
+         class="fil1"
+         d="m 25.444444,1197.8067 20.444445,-7.5556 v 28.4445 c 0,2.2222 -0.222222,3.7777 -0.888889,5.1111 -0.444444,1.1111 -1.333333,2 -2.666666,2.6666 -1.333334,0.6667 -2.888889,1.1112 -4.444445,1.1112 -1.777778,0 -3.333333,-0.4445 -4.444444,-1.7778 -1.111111,-1.1111 -1.555556,-2.4445 -1.555556,-4.2222 0,-1.7778 0.666666,-3.3334 1.777777,-4.6667 1.333334,-1.3334 3.111112,-2 5.111112,-2 0.666667,0 1.333333,0.2222 2,0.2222 0.444444,0.2223 1.333333,0.4444 2.444444,1.1111 v -16.6666 l -15.333333,4.8888 v 19.5556 c 0,2.2222 -0.222222,4 -0.666667,5.1111 -0.666666,1.3334 -1.555555,2.2222 -2.888889,2.8889 -1.333333,0.6667 -2.888889,1.1111 -4.444444,1.1111 -1.777778,0 -2.666667,-0.6667 -3.555556,-1.7778 -1.111111,-1.1111 -1.777778,-2.4444 -1.777778,-4.2222 0,-2 0.666667,-3.5556 2.000001,-4.8889 1.333333,-1.1111 2.222222,-1.7777 4.444444,-1.7777 1.333333,0 2.888889,0.4444 4.444444,1.3333 z"
+         id="path18"
+         inkscape:connector-curvature="0"
+         style="clip-rule:evenodd;fill:#34495e;fill-rule:nonzero;stroke-width:0.37926158;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="E:\Emulador\theme\png\musics.png"
+         class="fil2"
+         d="m 25,1198.0289 19.111112,-6.8889 v 27.1111 c 0,2 -0.222223,3.5556 -0.666667,4.6667 -0.666667,0.8889 -1.555556,1.7778 -2.666667,2.4444 -1.111111,0.6667 -2.666667,1.1111 -4,1.1111 -1.777778,0 -3.333333,-0.4444 -4.222223,-1.5555 -1.111111,-1.1111 -1.555555,-2.4445 -1.555555,-4 0,-1.7778 0.444444,-3.1111 1.777778,-4.4444 1.333333,-1.1111 2.888889,-1.7778 4.888889,-1.7778 0.444444,0 1.111111,0.2222 1.555555,0.2222 0.444445,0.2222 1.333334,0.4445 2.444445,0.8889 v -18 l -14.222223,4.6667 v 20.8888 c 0,2 -0.444444,3.5556 -0.888888,4.6667 -0.444445,1.1111 -1.333334,2 -2.666667,2.6667 -1.111111,0.6666 -2.666667,0.8889 -4,0.8889 -1.777778,0 -3.111112,-0.4445 -4.222223,-1.5556 -0.888888,-0.8889 -1.555555,-2.2222 -1.555555,-4 0,-1.7778 0.666667,-3.1111 1.777778,-4.4444 1.333333,-1.1111 2.888889,-1.7778 4.888888,-1.7778 1.333334,0 2.666667,0.4444 4.222223,1.3333 z"
+         id="path20"
+         inkscape:connector-curvature="0"
+         style="clip-rule:evenodd;fill:#3498db;fill-rule:nonzero;stroke-width:0.37926158;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="E:\Emulador\theme\png\musics.png"
+         x="13.222221"
+         y="1226.6956"
+         class="fil3 fnt0"
+         id="text22"
+         style="font-weight:normal;font-size:45.24888992px;font-family:Arial;clip-rule:evenodd;fill:#ecf0f1;fill-rule:evenodd;stroke-width:0.37926158;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">♫</text>
+    </g>
+  </g>
+</svg>

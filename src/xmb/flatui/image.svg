@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Creator: CorelDRAW X7 -->
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -63,7 +62,7 @@
      inkscape:export-filename="E:\Emulador\theme\png\image.png"
      inkscape:export-xdpi="299.99814"
      inkscape:export-ydpi="299.99814"><rect
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:4.17623997"
+       style="fill:#ecf0f1;stroke:#ecf0f1;stroke-width:4.17623997"
        id="rect9"
        ry="9"
        rx="9"
@@ -72,7 +71,7 @@
        y="38"
        x="45"
        class="fil1 str0" /><rect
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:4.17623997"
+       style="fill:#ecf0f1;stroke:#ecf0f1;stroke-width:4.17623997"
        id="rect11"
        ry="3"
        rx="9"
@@ -88,15 +87,15 @@
        y="45"
        x="51"
        class="fil2" /><polygon
-       style="fill:#ffffff"
+       style="fill:#ecf0f1"
        id="polygon15"
        points="103,133 82,133 60,133 71,114 82,96 92,114 "
        class="fil3" /><polygon
-       style="fill:#ffffff"
+       style="fill:#ecf0f1"
        id="polygon17"
        points="153,133 118,133 83,133 100,103 118,72 135,103 "
        class="fil3" /><circle
-       style="fill:#ffffff"
+       style="fill:#ecf0f1"
        id="circle19"
        r="12"
        cy="63"

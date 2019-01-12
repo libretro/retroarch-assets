@@ -1,6 +1,56 @@
-<svg id="png_Atari_-_7800-content.png_src_Atari_-_7800-content.svg" data-name="png/Atari - 7800-content.png, src/Atari - 7800-content.svg" xmlns="http://www.w3.org/2000/svg" width="198" height="248" viewBox="0 0 198 248">
-  <defs>
-    <style>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="png_Atari_-_7800-content.png_src_Atari_-_7800-content.svg"
+   data-name="png/Atari - 7800-content.png, src/Atari - 7800-content.svg"
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   version="1.1"
+   sodipodi:docname="Atari - 7800-content.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1024"
+     inkscape:window-height="705"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="0.9516129"
+     inkscape:cx="99"
+     inkscape:cy="124"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="png_Atari_-_7800-content.png_src_Atari_-_7800-content.svg" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">
       .cls-1 {
         fill: #2b3e51;
       }
@@ -14,8 +64,48 @@
       }
     </style>
   </defs>
-  <path id="Rounded_Rectangle_5" data-name="Rounded Rectangle 5" class="cls-1" d="M12,0H186a12,12,0,0,1,12,12V242a6,6,0,0,1-6,6H6a6,6,0,0,1-6-6V12A12,12,0,0,1,12,0Z"/>
-  <rect id="Rounded_Rectangle_5-2" data-name="Rounded Rectangle 5" class="cls-1" y="4" width="198" height="18" rx="9" ry="9"/>
-  <rect id="Rounded_Rectangle_5-3" data-name="Rounded Rectangle 5" class="cls-2" width="198" height="14" rx="6" ry="6"/>
-  <rect id="Rounded_Rectangle_5-4" data-name="Rounded Rectangle 5" class="cls-3" x="15" y="46" width="167" height="188" rx="12" ry="12"/>
+  <g
+     id="g824"
+     transform="translate(29,-4)">
+    <path
+       style="fill:#2b3e51"
+       inkscape:connector-curvature="0"
+       d="m 12,8 h 174 a 12,12 0 0 1 12,12 v 230 a 6,6 0 0 1 -6,6 H 6 A 6,6 0 0 1 0,250 V 20 A 12,12 0 0 1 12,8 Z"
+       class="cls-1"
+       data-name="Rounded Rectangle 5"
+       id="Rounded_Rectangle_5" />
+    <rect
+       style="fill:#2b3e51"
+       x="0"
+       ry="9"
+       rx="9"
+       height="18"
+       width="198"
+       y="12"
+       class="cls-1"
+       data-name="Rounded Rectangle 5"
+       id="Rounded_Rectangle_5-2" />
+    <rect
+       style="fill:#33495f"
+       y="8"
+       x="0"
+       ry="6"
+       rx="6"
+       height="14"
+       width="198"
+       class="cls-2"
+       data-name="Rounded Rectangle 5"
+       id="Rounded_Rectangle_5-3" />
+    <rect
+       style="fill:#227fbb"
+       ry="12"
+       rx="12"
+       height="188"
+       width="167"
+       y="54"
+       x="15"
+       class="cls-3"
+       data-name="Rounded Rectangle 5"
+       id="Rounded_Rectangle_5-4" />
+  </g>
 </svg>

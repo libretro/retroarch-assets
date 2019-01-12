@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Creator: CorelDRAW X7 -->
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -17,7 +16,7 @@
    viewBox="0 0 55309 55309"
    id="svg21"
    sodipodi:docname="history.svg"
-   inkscape:version="0.92.1 r15371"><metadata
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
      id="metadata25"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
@@ -29,13 +28,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-width="1024"
+     inkscape:window-height="705"
      id="namedview23"
      showgrid="false"
-     inkscape:zoom="2.8808415"
-     inkscape:cx="40.960254"
-     inkscape:cy="40.960254"
+     inkscape:zoom="8.1482504"
+     inkscape:cx="40.83456"
+     inkscape:cy="32.520999"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -58,22 +57,19 @@
      style="fill:none"
      inkscape:export-filename="E:\Emulador\theme\png\history.png"
      inkscape:export-xdpi="299.99814"
-     inkscape:export-ydpi="299.99814" /><g
-     id="g13"
-     inkscape:export-filename="E:\Emulador\theme\png\history.png"
-     inkscape:export-xdpi="299.99814"
-     inkscape:export-ydpi="299.99814"><path
-       class="fil1 str0"
-       d="m 8026,28381 c -34,-5313 2094,-10412 5895,-14125 7732,-7552 20123,-7406 27675,326 7552,7732 7406,20122 -326,27674 -7325,7155 -18928,7454 -26611,685"
-       id="path9"
-       inkscape:connector-curvature="0"
-       style="fill:none;stroke:#ffffff;stroke-width:4320.93017578" /><polygon
-       class="fil2"
-       points="1290,28420 4681,32451 8073,36483 11417,32413 14762,28343 8026,28381 "
-       id="polygon11"
-       style="fill:#ffffff" /></g><path
+     inkscape:export-ydpi="299.99814" /><path
+     style="fill:none;stroke:#ecf0f1;stroke-width:4320.93017578;stroke-opacity:1"
+     inkscape:connector-curvature="0"
+     id="path9"
+     d="m 9029.3471,28381 c -34,-5313 2093.9999,-10412 5894.9999,-14125 7732,-7552 20123,-7406 27675,326 7552,7732 7406,20122 -326,27674 -7325,7155 -18928,7454 -26611,685"
+     class="fil1 str0" /><polygon
+     style="fill:#ecf0f1;fill-opacity:1;stroke:none;stroke-opacity:1"
+     id="polygon11"
+     points="1290,28420 4681,32451 8073,36483 11417,32413 14762,28343 8026,28381 "
+     class="fil2"
+     transform="translate(1003.3471)" /><path
      class="fil3"
-     d="m 25954,29197 264,13027 c 10,499 427,898 926,888 l 1505,-30 c 499,-10 899,-426 889,-925 l -265,-13027 c -1,-94 -18,-185 -46,-270 77,-46 148,-104 211,-174 l 6234,-6983 c 332,-373 300,-949 -73,-1281 l -1123,-1003 c -372,-332 -948,-300 -1280,72 l -6235,6984 c -132,148 -1012,2474 -1007,2722 z"
+     d="m 26957.347,29197 264,13027 c 10,499 427,898 926,888 l 1505,-30 c 499,-10 899,-426 889,-925 l -265,-13027 c -1,-94 -18,-185 -46,-270 77,-46 148,-104 211,-174 l 6234,-6983 c 332,-373 300,-949 -73,-1281 l -1123,-1003 c -372,-332 -948,-300 -1280,72 l -6235,6984 c -132,148 -1012,2474 -1007,2722 z"
      id="path15"
      inkscape:connector-curvature="0"
      style="fill:#3498db"
@@ -81,11 +77,11 @@
      inkscape:export-xdpi="299.99814"
      inkscape:export-ydpi="299.99814" /><circle
      class="fil3"
-     cx="27596"
+     cx="28599.348"
      cy="28256"
      r="2133"
      id="circle17"
-     style="fill:#3498db"
+     style="fill:#2c3e50;fill-opacity:1"
      inkscape:export-filename="E:\Emulador\theme\png\history.png"
      inkscape:export-xdpi="299.99814"
      inkscape:export-ydpi="299.99814" /></svg>

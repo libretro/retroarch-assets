@@ -13,7 +13,7 @@
    height="192"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="run.svg"
    inkscape:export-filename="/home/kivutar/Bureau/lakka-menu/run.png"
    inkscape:export-xdpi="90"
@@ -27,16 +27,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6"
-     inkscape:cx="110.09234"
-     inkscape:cy="87.365979"
+     inkscape:zoom="1.979899"
+     inkscape:cx="84.139695"
+     inkscape:cy="82.481554"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1440"
-     inkscape:window-height="837"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-width="1024"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -54,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -64,8 +64,8 @@
      id="layer1"
      transform="translate(0,-860.36218)">
     <path
-       style="fill:#ecf0f1;fill-opacity:1;stroke:none"
-       d="m 108,956.36218 -24,-24 0,48 z"
+       style="fill:#ecf0f1;fill-opacity:1;stroke:none;stroke-width:1"
+       d="m 120,956.36218 -48,-48 v 96.00002 z"
        id="path2998"
        inkscape:connector-curvature="0" />
   </g>

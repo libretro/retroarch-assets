@@ -13,7 +13,7 @@
    height="192"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="savestate.svg"
    inkscape:export-filename="/home/kivutar/Bureau/lakka-menu/play-pause.png"
    inkscape:export-xdpi="90"
@@ -27,16 +27,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.9195959"
-     inkscape:cx="91.694756"
-     inkscape:cy="90.60016"
+     inkscape:zoom="1.979899"
+     inkscape:cx="-51.057224"
+     inkscape:cy="49.76531"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1440"
-     inkscape:window-height="837"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-width="1024"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -64,14 +64,14 @@
      id="layer1"
      transform="translate(0,-860.36218)">
     <path
-       style="fill:#ecf0f1;fill-opacity:1;stroke:none"
-       d="m 68,956.36218 0,20 56,0 0,-20 -8,0 0,12 -40,0 0,-12 z"
+       style="fill:#bdc3c7;fill-opacity:1;stroke:#2c3e50;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 44,962.36219 v 35.99999 h 104 v -35.99999 h -12 v 24 H 56 v -24 z"
        id="path3860"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc" />
     <path
-       style="fill:#ecf0f1;fill-opacity:1;stroke:none"
-       d="m 82.90625,931.36218 c -4.0625,0.0781 -8,0.95313 -11.0625,2.40625 C 79.347045,930.86688 88,938.18307 88,948.36218 l -8,0 16,16 16,-16 -8,0 c 0,-12.5 -10.9375,-17.19531 -21.09375,-17 z m -11.3125,2.53125 c -1.250198,0.52516 -2.458869,1.33387 -3.59375,2.46875 0.943189,-0.94319 2.17322,-1.76763 3.59375,-2.46875 z"
+       style="fill:#2980b9;fill-opacity:1;stroke:none;stroke-width:1"
+       d="m 69.8125,912.36219 c -8.125,0.1562 -16,1.90626 -22.125,4.8125 C 62.69409,911.37159 80,926.00397 80,946.36219 H 64 l 32,32 32,-32 h -16 c 0,-25 -21.875,-34.39062 -42.1875,-34 z m -22.625,5.0625 c -2.500396,1.05032 -4.917738,2.66774 -7.1875,4.9375 1.886378,-1.88638 4.34644,-3.53526 7.1875,-4.9375 z"
        id="path3865"
        inkscape:connector-curvature="0" />
   </g>
