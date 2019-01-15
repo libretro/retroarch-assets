@@ -28,7 +28,7 @@
          d="M 0,64 64,64 64,0 0,0 0,64 z"
          id="path3778"
          inkscape:connector-curvature="0" /></clipPath></defs><sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#808080"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -56,10 +56,10 @@
          id="g3774"
          clip-path="url(#clipPath3776)"><path
            d="M 57,22 7,22 7,43 57,43 57,22 z M 58,45 6,45 C 5.448,45 5,44.552 5,44 L 5,20 c 0,-0.553 0.448,-1 1,-1 l 52,0 c 0.553,0 1,0.447 1,1 l 0,24 c 0,0.552 -0.447,1 -1,1"
-           style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
            id="path3780"
            inkscape:connector-curvature="0" /><path
            d="M 56,23 8,23 8,42 56,42 56,23 z"
-           style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
            id="path3782"
            inkscape:connector-curvature="0" /></g></g></g></svg>

@@ -23,7 +23,7 @@
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
      id="defs3087" /><sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#808080"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -49,10 +49,10 @@
        id="g3119"
        transform="translate(0,-3)"><path
          d="m 47.2,39.8 0,2.4 -2.4,0 0,-25.6 -38.4,0 0,25.6 -2.4,0 0,-2.4 0.8,0 0,-0.8 -0.8,0 0,-0.8 0.8,0 0,-0.8 -0.8,0 0,-0.8 0.8,0 0,-0.8 -0.8,0 0,-20.8 43.2,0 0,20.8 -0.8,0 0,0.8 0.8,0 0,0.8 -0.8,0 0,0.8 0.8,0 0,0.8 -0.8,0 0,0.8 0.8,0 z"
-         style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="path3095"
          inkscape:connector-curvature="0" /><path
          inkscape:connector-curvature="0"
          id="path3097"
-         style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
          d="m 44,17.4 -36.8,0 0,24.8 36.8,0 0,-24.8 z" /></g></g></svg>

@@ -24,7 +24,7 @@
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs6" /><sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#808080"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -50,5 +50,5 @@
      id="core_cheat_options"
      d="m 32,13 c -6.4,3.166667 -16,15.833333 -16,22.166667 0,6.333333 6.4,9.5 16,0 9.6,9.5 16,6.333333 16,0 C 48,28.833333 38.4,16.166667 32,13 Z M 25.6,51 H 38.4 L 32,35.166667 Z"
      inkscape:connector-curvature="0"
-     style="fill:#f2f2f2;stroke-width:1"
+     style="fill:#ffffff;stroke-width:1"
      sodipodi:nodetypes="cscsccccc" /></svg>

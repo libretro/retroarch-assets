@@ -24,7 +24,7 @@
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs4711" /><sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#808080"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -49,4 +49,4 @@
      id="Run"
      d="M 44.776488,29.779982 C 43.273968,28.785978 21.591305,16.441993 21.220213,16.251998 c -0.314622,-0.16 -0.671596,-0.251999 -1.048739,-0.251999 -1.252435,0 -2.262854,0.997993 -2.281005,2.235997 -0.0021,0.01 -0.0081,0.01798 -0.0081,0.02805 0,2.001992 0,25.463961 0,27.465954 0,1.254003 1.024537,2.270002 2.289074,2.270002 0.379159,0 0.734117,-0.09195 1.050754,-0.252001 0.373109,-0.190041 22.057789,-12.540022 23.56031,-13.532021 0.834955,-0.552 1.335124,-1.383998 1.335124,-2.215997 0,-0.832 -0.502183,-1.665993 -1.341176,-2.219997 z"
      inkscape:connector-curvature="0"
-     style="fill:#f2f2f2;stroke-width:0.99999994" /></svg>
+     style="fill:#ffffff;stroke-width:0.99999994" /></svg>

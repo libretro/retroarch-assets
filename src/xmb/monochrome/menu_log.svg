@@ -27,7 +27,7 @@
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
      id="defs6" /><sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#808080"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -48,6 +48,6 @@
      inkscape:current-layer="Calque_1"><inkscape:grid
        type="xygrid"
        id="grid3699" /></sodipodi:namedview><path
-     style="fill:#f2f2f2"
+     style="fill:#ffffff"
      d="M 20 14 C 18.895 14 18 14.895 18 16 L 18 48 C 18 49.105 18.895 50 20 50 L 44 50 C 45.105 50 46 49.105 46 48 L 46 24 L 36 14 L 20 14 z M 34 16 L 44 26 L 40.003906 26 L 36 26 C 34.895 26 34 25.105 34 24 L 34 20 L 34 16 z M 34.671875 28.914062 L 37.992188 29.578125 L 40.421875 32.007812 L 41.085938 35.328125 L 30.414062 46 L 25 46 L 24 46 L 24 39.585938 L 34.671875 28.914062 z M 35.328125 31.085938 L 26 40.414062 L 26 44 L 29.585938 44 L 38.914062 34.671875 L 38.578125 32.992188 L 37.007812 31.421875 L 35.328125 31.085938 z "
      id="File_1_" /></svg>
