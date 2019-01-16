@@ -27,8 +27,8 @@
            transform="translate(192,76)"
            id="g20"><path
              id="path22"
-             style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
              d="m 0,0 c 0,0 -3.58,-8 -8,-8 h -112 c -4.42,0 -8,8 -8,8 l -16,56 c 0,4.42 3.58,8 8,8 h 4 4 128 4 4 c 4.42,0 8,-3.58 8,-8 z m -128,72 v 24 c 0,8.844 7.156,16 16,16 h 32 c 8.844,0 16,-7.156 16,-16 h 48 C -7.156,96 0,88.844 0,80 V 72 68 H -128 Z M 8,68 H 4 v 4 8 c 0,11.028 -8.972,20 -20,20 h -44.401 c -1.86,9.118 -9.941,16 -19.599,16 h -32 c -11.028,0 -20,-8.972 -20,-20 V 72 68 h -4 c -6.617,0 -12,-5.383 -12,-12 v -0.56 l 0.154,-0.539 16,-56 0.078,-0.274 0.117,-0.261 C -130.876,-3.365 -126.674,-12 -120,-12 H -8 c 6.674,0 10.877,8.635 11.651,10.366 l 0.117,0.261 0.078,0.274 16,56 L 20,55.44 V 56 c 0,6.617 -5.383,12 -12,12" /></g><path
            id="path24"
-           style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
            d="M 220,220 H 36 V 36 H 220 Z M 216,40 H 40 v 176 h 176 z" /></g></g></g></svg>

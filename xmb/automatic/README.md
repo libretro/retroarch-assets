@@ -11,7 +11,7 @@ Guidelines
 
 ### Palette
 
- * Icons use 5% gray (#f2f2f2). If you've ever created Monochrome icons, this should feel very familiar.
+ * Icons use white (#ffffff). If you've ever created Monochrome icons, this should feel very familiar.  Before January 2018, it was 5% gray (#2f2f2) but it was changed to white for recoloring in code, like Ozone and Monochrome.
  * Use of gradients and translucency is prohibited.  It's all about the outline.
 
 ### Layout

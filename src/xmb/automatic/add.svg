@@ -22,7 +22,7 @@
      transform="matrix(1.3333333,0,0,-1.3333333,-10.666666,330.66666)"
      id="g10"><path
        id="path12"
-       style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
        d="M 244,12 H 12 v 232 h 232 z m 0,236 H 12 8 V 244 12 8 h 4 232 4 v 4 232 4 z" /><g
        id="g14"><g
          clip-path="url(#clipPath20)"
@@ -30,5 +30,5 @@
            transform="translate(128,192)"
            id="g22"><path
              id="path24"
-             style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
              d="m 0,0 c -4.411,0 -8,-3.589 -8,-8 v -48 h -48 c -4.411,0 -8,-3.589 -8,-8 0,-4.411 3.589,-8 8,-8 h 48 v -48 c 0,-4.411 3.589,-8 8,-8 4.411,0 8,3.589 8,8 v 48 h 48 c 4.411,0 8,3.589 8,8 0,4.411 -3.589,8 -8,8 H 8 V -8 C 8,-3.589 4.411,0 0,0 m 0,-4 c 2.209,0 4,-1.791 4,-4 v -52 h 52 c 2.209,0 4,-1.791 4,-4 0,-2.209 -1.791,-4 -4,-4 H 4 v -52 c 0,-2.209 -1.791,-4 -4,-4 -2.209,0 -4,1.791 -4,4 v 52 h -52 c -2.209,0 -4,1.791 -4,4 0,2.209 1.791,4 4,4 h 52 v 52 c 0,2.209 1.791,4 4,4" /></g></g></g></g></svg>

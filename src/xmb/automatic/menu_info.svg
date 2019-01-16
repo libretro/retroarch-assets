@@ -20,13 +20,13 @@
        transform="translate(148,148)"
        id="g12"><path
          id="path14"
-         style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
          d="m 0,0 h -4 -32 -4 v -4 -64 -4 h 4 32 4 v 4 64 z m -4,-68 h -32 v 64 h 32 z" /></g><g
        transform="translate(148.0693,180)"
        id="g16"><path
          id="path18"
-         style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
          d="m 0,0 h -4.069 -31.723 -3.932 l -0.068,-3.931 -0.277,-16 -0.07,-4.069 h 4.07 31.722 3.932 l 0.068,3.931 0.277,16 z m -4.069,-4 -0.278,-16 h -31.722 l 0.277,16 z" /></g><path
        id="path20"
-       style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
        d="M 220,220 H 36 V 36 H 220 Z M 216,40 H 40 v 176 h 176 z" /></g></svg>
