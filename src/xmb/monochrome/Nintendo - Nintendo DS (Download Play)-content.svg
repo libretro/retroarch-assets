@@ -27,10 +27,10 @@
            transform="translate(47,14)"
            id="g20"><path
              id="path22"
-             style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
              d="m 0,0 c 0,-1.108 -0.836,-2 -1.875,-2 h -26.25 C -29.164,-2 -30,-1.108 -30,0 v 30 c 0,1.108 0.836,2 1.875,2 h 26.25 C -0.836,32 0,31.108 0,30 Z m 1,42 h -32 c -1.108,0 -2,-0.892 -2,-2 V -0.152 L -27.154,-6 H 1 c 1.108,0 2,0.892 2,2 v 44 c 0,1.108 -0.892,2 -2,2" /></g><g
            transform="translate(35,26)"
            id="g24"><path
              id="path26"
-             style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
              d="M 0,0 C 0.553,0 1,-0.447 1,-1 1,-1.553 0.553,-2 0,-2 h -6 c -0.552,0 -1,0.447 -1,1 0,0.553 0.448,1 1,1 h 3 l -4,4 h 2 v 4 h 4 V 4 H 1 L -3,0 Z m 9.25,19 h -24.5 C -16.22,19 -17,18.16 -17,17.117 v -28.234 c 0,-1.043 0.78,-1.883 1.75,-1.883 h 24.5 c 0.97,0 1.75,0.84 1.75,1.883 V 17.117 C 11,18.16 10.22,19 9.25,19" /></g></g></g></g></svg>

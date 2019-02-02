@@ -27,7 +27,7 @@
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs6" /><sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#808080"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -59,8 +59,8 @@
        inkscape:connector-curvature="0"
        id="path2987"
        d="M 22.98833,32 H 41.01167"
-       style="fill:#f2f2f2;fill-opacity:1;stroke:#f2f2f2;stroke-width:2.28571439;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /><path
-       style="fill:#f2f2f2;fill-opacity:1;stroke:#f2f2f2;stroke-width:2.28571439;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.28571439;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /><path
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.28571439;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 32,22.98833 V 41.01167"
        id="path815"
        inkscape:connector-curvature="0"

@@ -24,7 +24,7 @@
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs6" /><sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#808080"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -49,4 +49,4 @@
      id="Reload"
      d="M 44,17.919999 32,11.885714 v 4.022857 c -8.832,0 -16,7.200914 -16,16.091428 0,4.443246 1.792,8.466103 4.688,11.37664 l 2.828,-2.84416 C 21.344,38.348068 20,35.330925 20,31.999999 20,25.334125 25.376,19.931428 32,19.931428 v 4.022857 z m -0.688,2.70336 -2.828,2.84416 C 42.656,25.651931 44,28.669073 44,31.999999 44,38.665873 38.624,44.06857 32,44.06857 v -4.022857 l -12,6.034286 12,6.034286 v -4.022857 c 8.832,0 16,-7.200915 16,-16.091429 0,-4.443246 -1.792,-8.466103 -4.688,-11.37664 z"
      inkscape:connector-curvature="0"
-     style="fill:#f2f2f2;stroke-width:1" /></svg>
+     style="fill:#ffffff;stroke-width:1" /></svg>
