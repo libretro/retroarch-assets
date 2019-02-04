@@ -25,7 +25,7 @@
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
      id="defs6" /><sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#808080"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -44,6 +44,6 @@
      inkscape:window-y="454"
      inkscape:window-maximized="0"
      inkscape:current-layer="Calque_1" /><path
-     style="opacity:1;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="M 16 8 C 14.892 8 14 8.892 14 10 L 14 54 C 14 55.108 14.892 56 16 56 L 48 56 C 49.108 56 50 55.108 50 54 L 50 13.847656 L 44.154297 8 L 16 8 z M 18.875 12 L 45.125 12 C 46.16375 12 47 12.892 47 14 L 47 44 C 47 45.108 46.16375 46 45.125 46 L 18.875 46 C 17.83625 46 17 45.108 17 44 L 17 14 C 17 12.892 17.83625 12 18.875 12 z M 19.75 13 C 18.7805 13 18 13.83999 18 14.882812 L 18 43.117188 C 18 44.16001 18.7805 45 19.75 45 L 44.25 45 C 45.2195 45 46 44.16001 46 43.117188 L 46 14.882812 C 46 13.839991 45.2195 13 44.25 13 L 19.75 13 z "
      id="rect4136" /></svg>

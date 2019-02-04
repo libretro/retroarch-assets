@@ -14,7 +14,7 @@
    id="svg3432"
    sodipodi:docname="Thomson - MO-TO-content.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"><sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#808080"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -55,9 +55,9 @@
            sodipodi:nodetypes="ccccccsssscccccccccsssscccssssccsssssscc"
            inkscape:connector-curvature="0"
            id="path841"
-           style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
            d="m 33.913044,49.217392 h 7.652174 v -9.565218 h -7.652174 z m -13.391305,0.956522 0,-10.52174 c 0,-0.552999 0.403521,-0.956522 0.956521,-0.956522 h 21.04348 c 0.553,0 0.956521,0.403523 0.956521,0.956522 l -1e-6,10.52174 z m 32.52174,-36.347828 h -2.869565 v 1.913044 h 2.869565 z M 49.217392,11.913043 H 14.782608 V 31.043478 C 14.782608,31.596479 15.18613,32 15.73913,32 h 32.52174 c 0.553,0 0.962834,-0.403558 0.956522,-0.956522 z M 18.608695,52.086957 h 26.78261 l 0,-14.347826 c 0,-0.553001 -0.403522,-0.956522 -0.956522,-0.956522 H 19.565217 c -0.553,0 -0.956522,0.403521 -0.956522,0.956522 z M 50,54 H 11 c -0.553,0 -1,-0.447 -1,-1 V 11 c 0,-0.553 0.447,-1 1,-1 h 42 c 0.553,0 1,0.447 1,1 v 38 z" /><path
-           style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.0454545"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.0454545"
            d="M 17 34 C 16.421864 34 15.988372 34.421981 16 35 L 16 51 L 34 51 L 44 51 L 48 51 L 48 35 C 48.011628 34.421982 47.578136 34 47 34 L 44 34 L 34 34 L 17 34 z "
            transform="matrix(0.95652178,0,0,-0.95652178,1.391303,62.608697)"
            id="path20" /></g></g></g></svg>

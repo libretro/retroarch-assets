@@ -27,7 +27,7 @@
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
    id="defs6" /><sodipodi:namedview
-   pagecolor="#ffffff"
+   pagecolor="#808080"
    bordercolor="#666666"
    borderopacity="1"
    objecttolerance="10"
@@ -49,10 +49,10 @@
      type="xygrid"
      id="grid815" /></sodipodi:namedview>
 <path
-   style="opacity:0.98999999;vector-effect:none;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+   style="opacity:0.98999999;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
    d="M 15.375 48 C 14.061625 48 13 48.894 13 50 C 13 51.106 14.061625 52 15.375 52 L 48.625 52 C 49.938375 52 51 51.106 51 50 C 51 48.894 49.938375 48 48.625 48 L 15.375 48 z "
    id="rect816" /><path
-   style="fill:#f2f2f2;stroke:none;stroke-width:1"
+   style="fill:#ffffff;stroke:none;stroke-width:1"
    d="M 29.626953,12 C 28.313578,12 27,12.894 27,14 v 13.999023 0.002 L 18,28 32,44 46,28 37.124023,28.001023 37,14 c -0.0098,-1.105957 -1.313578,-2 -2.626953,-2 z"
    id="Save_2_"
    inkscape:connector-curvature="0"

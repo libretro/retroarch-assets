@@ -24,7 +24,7 @@
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs6" /><sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#808080"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -60,9 +60,9 @@
        sodipodi:cx="32"
        sodipodi:type="arc"
        id="path4149"
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#f2f2f2;stroke-width:2.20838547;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /><path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.20838547;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /><path
        sodipodi:nodetypes="cccc"
-       style="fill:#f2f2f2;stroke-width:1.10419273"
+       style="fill:#ffffff;stroke-width:1.10419273"
        inkscape:connector-curvature="0"
        d="m 26,25 6,-3 c 0,2 0,4 0,6 z"
        id="Reload" /></g></svg>

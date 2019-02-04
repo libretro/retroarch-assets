@@ -5,11 +5,11 @@
 	 id="svg2" inkscape:export-filename="/home/kivutar/Bureau/lakka-menu/reload.png" inkscape:export-xdpi="90" inkscape:version="0.48.4 r9939" inkscape:export-ydpi="90" sodipodi:docname="reload.svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px" height="64px"
 	 viewBox="0 128 64 64" enable-background="new 0 128 64 64" xml:space="preserve">
-<sodipodi:namedview  id="base" pagecolor="#ffffff" inkscape:cy="103.59544" showgrid="true" inkscape:cx="75.572686" inkscape:zoom="11.2" borderopacity="1.0" bordercolor="#666666" inkscape:window-height="837" inkscape:document-units="px" inkscape:window-width="1440" inkscape:window-maximized="1" inkscape:pageshadow="2" inkscape:pageopacity="0.0" inkscape:window-y="27" inkscape:window-x="0" inkscape:current-layer="layer1">
+<sodipodi:namedview  id="base" pagecolor="#808080" inkscape:cy="103.59544" showgrid="true" inkscape:cx="75.572686" inkscape:zoom="11.2" borderopacity="1.0" bordercolor="#666666" inkscape:window-height="837" inkscape:document-units="px" inkscape:window-width="1440" inkscape:window-maximized="1" inkscape:pageshadow="2" inkscape:pageopacity="0.0" inkscape:window-y="27" inkscape:window-x="0" inkscape:current-layer="layer1">
 	<inkscape:grid  type="xygrid" id="grid2985" enabled="true" visible="true" empspacing="4" snapvisiblegridlinesonly="true">
 		</inkscape:grid>
 </sodipodi:namedview>
-<path id="PC_Engine" fill="#F2F2F2" d="M59.283,150.592L40,148c0-0.521-0.478-1-1-1H25c-0.521,0-1,0.479-1,1l-19.285,2.592
+<path id="PC_Engine" fill="#ffffff" d="M59.283,150.592L40,148c0-0.521-0.478-1-1-1H25c-0.521,0-1,0.479-1,1l-19.285,2.592
 	C3.785,150.731,3,152.059,3,153v18c0,1.044,0.958,2,2,2h54c1.043,0,2-0.958,2-2v-18C61,152.059,60.215,150.731,59.283,150.592z
 	 M13,169h-1c-0.553,0-1-0.447-1-1v-2H9c-0.553,0-1-0.447-1-1v-1c0-0.553,0.447-1,1-1h2v-2c0-0.553,0.447-1,1-1h1
 	c0.553,0,1,0.447,1,1v2h2c0.553,0,1,0.447,1,1v1c0,0.553-0.447,1-1,1h-2v2C14,168.553,13.553,169,13,169z M54,171H16

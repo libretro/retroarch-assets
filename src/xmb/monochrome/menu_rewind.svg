@@ -27,7 +27,7 @@
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
      id="defs6" /><sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#808080"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -52,12 +52,12 @@
      transform="matrix(-1.3913043,0,0,1.3913043,79.999998,-12.521738)"
      style="stroke-width:0.71875"><path
        sodipodi:nodetypes="ccscsssccsc"
-       style="fill:#f2f2f2;stroke-width:0.71875"
+       style="fill:#ffffff;stroke-width:0.71875"
        inkscape:connector-curvature="0"
        d="M 33.335,30.89 C 32.59,30.393 24.839,24.221 24.655,24.126 24.499,24.046 24.322,24 24.135,24 23.514,24 23.013,24.499 23.004,25.118 23.003,25.123 23,25.127 23,25.132 v 13.733 c 0,0.627 0.508,1.135 1.135,1.135 0.188,0 0.364,-0.046 0.521,-0.126 0.185,-0.095 7.937,-6.27 8.682,-6.766 C 33.752,32.832 34,32.416 34,32 34,31.584 33.751,31.167 33.335,30.89 Z"
        id="Resume" /><path
        id="path817"
        d="M 45.335,30.89 C 44.59,30.393 36.839,24.221 36.655,24.126 36.499,24.046 36.322,24 36.135,24 35.514,24 35.013,24.499 35.004,25.118 35.003,25.123 35,25.127 35,25.132 v 13.733 c 0,0.627 0.508,1.135 1.135,1.135 0.188,0 0.364,-0.046 0.521,-0.126 0.185,-0.095 7.937,-6.27 8.682,-6.766 C 45.752,32.832 46,32.416 46,32 46,31.584 45.751,31.167 45.335,30.89 Z"
        inkscape:connector-curvature="0"
-       style="fill:#f2f2f2;stroke-width:0.71875"
+       style="fill:#ffffff;stroke-width:0.71875"
        sodipodi:nodetypes="ccscsssccsc" /></g></svg>
