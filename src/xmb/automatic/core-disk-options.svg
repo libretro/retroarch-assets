@@ -27,13 +27,13 @@
            transform="translate(128,184)"
            id="g20"><path
              id="path22"
-             style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
              d="m 0,0 c -30.878,0 -56,-25.122 -56,-56 0,-30.879 25.122,-56 56,-56 30.879,0 56,25.121 56,56 C 56,-25.122 30.879,0 0,0 m 0,-4 c 28.725,0 52,-23.275 52,-52 0,-28.725 -23.275,-52 -52,-52 -28.725,0 -52,23.275 -52,52 0,28.725 23.275,52 52,52" /></g><g
            transform="translate(128,144)"
            id="g24"><path
              id="path26"
-             style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
              d="m 0,0 c -8.822,0 -16,-7.178 -16,-16 0,-8.822 7.178,-16 16,-16 8.822,0 16,7.178 16,16 C 16,-7.178 8.822,0 0,0 m 0,-4 c 6.636,0 12,-5.364 12,-12 0,-6.636 -5.364,-12 -12,-12 -6.636,0 -12,5.364 -12,12 0,6.636 5.364,12 12,12" /></g><path
            id="path28"
-           style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
            d="M 220,220 H 36 V 36 H 220 Z M 216,40 H 40 v 176 h 176 z" /></g></g></g></svg>

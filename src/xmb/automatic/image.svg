@@ -24,12 +24,12 @@
        transform="translate(172,140)"
        id="g12"><path
          id="path14"
-         style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
          d="M 0,0 V -8 -72 H -88 V 48 h 12 28 4 V 4 H 0 Z M -40,42.343 -5.657,8 H -40 Z M -44,52 H -92 V -76 H 4 V 4 Z" /></g><g
        transform="translate(144,124)"
        id="g16"><path
          id="path18"
-         style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
          d="m 0,0 -24,-24 -12,12 -20,-20 v -20 h 80 v 28 z m 0,-5.657 20,-20 V -48 h -72 v 14.343 l 16,16 9.171,-9.171 2.829,-2.829 2.829,2.829 z" /></g><g
        id="g20"><g
          clip-path="url(#clipPath26)"
@@ -37,8 +37,8 @@
            transform="translate(98,148)"
            id="g28"><path
              id="path30"
-             style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
              d="m 0,0 c -5.514,0 -10,-4.486 -10,-10 0,-5.514 4.486,-10 10,-10 5.514,0 10,4.486 10,10 C 10,-4.486 5.514,0 0,0 m 0,-4 c 3.313,0 6,-2.687 6,-6 0,-3.313 -2.687,-6 -6,-6 -3.313,0 -6,2.687 -6,6 0,3.313 2.687,6 6,6" /></g><path
            id="path32"
-           style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
            d="M 220,220 H 36 V 36 H 220 Z M 216,40 H 40 v 176 h 176 z" /></g></g></g></svg>

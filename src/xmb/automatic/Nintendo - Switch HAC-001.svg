@@ -27,13 +27,13 @@
            transform="translate(239,200)"
            id="g20"><path
              id="path22"
-             style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
              d="m 0,0 h -222 c -2.529,0 -4.625,-1.887 -4.955,-4.327 C -229.307,-5.14 -231,-7.375 -231,-10 v -130 -4 h 4 232 4 v 4 130 C 9,-7.375 7.307,-5.14 4.955,-4.327 4.625,-1.887 2.529,0 0,0 m 0,-4 c 0.553,0 1,-0.448 1,-1 v -1 c 0,-1.104 0.896,-2 2,-2 1.104,0 2,-0.896 2,-2 v -130 h -232 v 130 c 0,1.104 0.896,2 2,2 1.104,0 2,0.896 2,2 v 1 c 0,0.552 0.448,1 1,1 H 0" /></g><g
            transform="translate(232,192)"
            id="g24"><path
              id="path26"
-             style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
              d="m 0,0 h -208 c -2.209,0 -4,-1.791 -4,-4 v -120 c 0,-2.209 1.791,-4 4,-4 h 12 v 2 c 0,1.104 0.896,2 2,2 h 8 c 1.104,0 2,-0.896 2,-2 v -2 h 40 v 4 c 0,1.104 0.896,2 2,2 1.104,0 2,-0.896 2,-2 v -4 h 116 v 2 c 0,1.104 0.896,2 2,2 h 8 c 1.104,0 2,-0.896 2,-2 v -2 H 0 c 2.209,0 4,1.791 4,4 V -4 C 4,-1.791 2.209,0 0,0 m 0,-4 v -120 h -8.343 c -0.825,2.328 -3.05,4 -5.657,4 h -8 c -2.607,0 -4.832,-1.672 -5.657,-4 H -136 c 0,3.309 -2.691,6 -6,6 -3.309,0 -6,-2.691 -6,-6 h -32.343 c -0.825,2.328 -3.05,4 -5.657,4 h -8 c -2.607,0 -4.832,-1.672 -5.657,-4 H -208 V -4 H 0" /></g><path
            id="path28"
-           style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
            d="M 220,180 H 36 V 76 H 220 Z M 216,80 H 40 v 96 h 176 z" /></g></g></g></svg>

@@ -27,13 +27,13 @@
            transform="translate(92,120)"
            id="g20"><path
              id="path22"
-             style="fill:#ededed;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
              d="m 0,0 c 0,-2.209 -1.791,-4 -4,-4 h -52 c -2.209,0 -4,1.791 -4,4 v 16 c 0,2.209 1.791,4 4,4 h 52 c 2.209,0 4,-1.791 4,-4 z m -4,24 h -52 c -4.411,0 -8,-3.589 -8,-8 V 0 c 0,-4.411 3.589,-8 8,-8 h 52 c 4.411,0 8,3.589 8,8 v 16 c 0,4.411 -3.589,8 -8,8" /></g><g
            transform="translate(220,144)"
            id="g24"><path
              id="path26"
-             style="fill:#ededed;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
              d="m 0,0 h -52 c -4.411,0 -8,-3.589 -8,-8 v -16 c 0,-4.411 3.589,-8 8,-8 H 0 c 4.411,0 8,3.589 8,8 V -8 C 8,-3.589 4.411,0 0,0 m 0,-4 c 2.206,0 4,-1.794 4,-4 v -16 c 0,-2.206 -1.794,-4 -4,-4 h -52 c -2.206,0 -4,1.794 -4,4 v 16 c 0,2.206 1.794,4 4,4 H 0" /></g><path
            id="path28"
-           style="fill:#ededed;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
            d="M 88,136 H 36 V 120 H 88 Z M 84,124 H 40 v 8 h 44 z" /></g></g></g></svg>
