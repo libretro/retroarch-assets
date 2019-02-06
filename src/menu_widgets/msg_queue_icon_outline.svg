@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 280 284" style="enable-background:new 0 0 280 284;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+</style>
+<g id="Notification_Icon_Rect" transform="translate(-503 -223)">
+	<g transform="matrix(1, 0, 0, 1, 503, 223)">
+		<g id="Circ_Outline-2" transform="translate(9 9)">
+			<g>
+				
+					<image style="overflow:visible;opacity:0.4;" width="286" height="286" xlink:href="shadow.png"  transform="matrix(1 0 0 1 -10.0029 -10)">
+				</image>
+				<g>
+					<path class="st0" d="M133,20C70.7,20,20,70.7,20,133s50.7,113,113,113s113-50.7,113-113S195.3,20,133,20 M133,5
+						c70.7,0,128,57.3,128,128s-57.3,128-128,128S5,203.7,5,133S62.3,5,133,5z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
