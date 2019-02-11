@@ -5,6 +5,8 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xml:space="preserve"
    enable-background="new 0 0 256 256"
    viewBox="0 0 256 256"
@@ -13,7 +15,28 @@
    y="0px"
    x="0px"
    id="Layer_1"
-   version="1.1"><metadata
+   version="1.1"
+   sodipodi:docname="MAME 2015.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><sodipodi:namedview
+     pagecolor="#808080"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1024"
+     inkscape:window-height="705"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="5.2149125"
+     inkscape:cx="258.3451"
+     inkscape:cy="82.913777"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g831" /><metadata
      id="metadata9"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
@@ -29,7 +52,8 @@
      id="tspan819"
      x="73.719215"
      y="139.51138"
-     style="fill:#ffffff;stroke-width:1px">2014</tspan></text>
+     style="fill:#ffffff;stroke-width:1px">2015</tspan></text>
+
 
 
 <text
@@ -42,6 +66,7 @@
      x="153.65672"
      y="173.89407"
      style="fill:#ffffff;stroke-width:0.99999994px" /></text>
+
 
 
 </g><path
