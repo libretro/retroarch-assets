@@ -109,7 +109,7 @@
            id="g84"><path
              id="path86"
              style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="M 0,0 V -4 H -4 V 4 L -8,0 v -8 h 8 v -8 l 4,4 V 4 Z" /></g><g
+             d="M 0,0 4,4 H -4 L -8,0 v -8 h 8 v -4 h -4 l -4,-4 h 8 l 4,4 v 8 H 0 -4 v 4 z" /></g><g
            transform="translate(176,232)"
            id="g88"><path
              id="path90"
