@@ -61,16 +61,4 @@
              d="M 0,0 C -19.881,0 -36,16.119 -36,36 -36,55.886 -19.881,72 0,72 19.881,72 36,55.886 36,36 36,16.119 19.881,0 0,0" /></g><path
            id="path52"
            style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           d="m 116,112 h -8 v 48 h 8 z" /><path
-           id="path54"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           d="m 148,112 h -8 v 48 h 8 z" /><path
-           id="path56"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           d="m 140,152 h -24 v 4 h 24 z" /><path
-           id="path58"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           d="m 144,134 h -28 v 4 h 28 z" /><path
-           id="path60"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           d="m 140,116 h -24 v 4 h 24 z" /></g></g></g></svg>
+           d="m 116,134 h 24 v -14 h -24 z m 0,18 h 24 v -14 h -24 z m 24,8 v -4 h -24 v 4 h -8 v -48 h 8 v 4 h 24 v -4 h 8 v 48 z" /></g></g></g></svg>
