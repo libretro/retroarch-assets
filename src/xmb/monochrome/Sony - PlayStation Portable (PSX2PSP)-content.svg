@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   inkscape:export-filename="/Users/margetts/Documents/GitHub/Working/monochrome/Sony - PlayStation Portable (PSX2PSP)-content.png"
+   inkscape:export-xdpi="360"
+   inkscape:export-ydpi="360"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Sony - PlayStation Portable (PSX2PSP)-content.svg"
+   x="0px"
+   y="0px"
+   viewBox="0 0 64 64"
+   style="enable-background:new 0 0 64 64;"
+   xml:space="preserve"><metadata
+   id="metadata770"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs768" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview766"
+   showgrid="false"
+   inkscape:zoom="13.46875"
+   inkscape:cx="20.157773"
+   inkscape:cy="32"
+   inkscape:current-layer="svg2" />
+<style
+   type="text/css"
+   id="style751">
+	.st0{fill:#FFFFFF;}
+</style>
+<path
+   class="st0"
+   d="M50,53.3L50,53.3c0,0.5-0.2,0.9-0.5,1.3l-4.2,5.1c-0.2,0.2-0.5,0.4-0.8,0.4H13c0,0.6,0.4,1,1,1h31.5  c0.3,0,0.6-0.1,0.8-0.4l4.2-5.1c0.3-0.4,0.5-0.8,0.5-1.3V54v-1h-0.7C50.1,53,50,53.1,50,53.3z"
+   id="path753" />
+<g
+   id="g763">
+	<circle
+   class="st0"
+   cx="17.5"
+   cy="35.5"
+   r="1.5"
+   id="circle755" />
+	<circle
+   class="st0"
+   cx="44.5"
+   cy="40.5"
+   r="2.5"
+   id="circle757" />
+	<circle
+   class="st0"
+   cx="19.5"
+   cy="40.5"
+   r="2.5"
+   id="circle759" />
+	<path
+   class="st0"
+   d="M50.5,6h0.2C50.9,6,51,5.9,51,5.8V4c0-0.6-0.4-1-1-1h-4c-0.9,0.6-2.4,1-4,1s-3.1-0.4-4-1H14c-0.6,0-1,0.4-1,1   v1.8C13,5.9,13.1,6,13.2,6h0.2C13.8,6,14,6.2,14,6.5v1C14,7.8,13.8,8,13.5,8h-0.2C13.1,8,13,8.1,13,8.2v1.5c0,0.1,0.1,0.2,0.2,0.2   h0.2c0.3,0,0.5,0.2,0.5,0.5v1c0,0.3-0.2,0.5-0.5,0.5h-0.2c-0.1,0-0.2,0.1-0.2,0.2V59h30.5c0.3,0,0.6-0.1,0.8-0.4l4.2-5.1   c0.3-0.4,0.5-0.8,0.5-1.3v0c0-0.2,0.1-0.3,0.3-0.3H50h1V12.2c0-0.1-0.1-0.2-0.2-0.2h-0.2c-0.3,0-0.5-0.2-0.5-0.5v-1   c0-0.3,0.2-0.5,0.5-0.5h0.2c0.1,0,0.2-0.1,0.2-0.2V8.2C51,8.1,50.9,8,50.8,8h-0.2C50.2,8,50,7.8,50,7.5v-1C50,6.2,50.2,6,50.5,6z    M24,23.1c-2.5,2.2-4,5.4-4,8.9s1.5,6.7,4,8.9V45h-9V19h9V23.1z M39,44h-7h-7v-2.3c2,1.4,4.4,2.3,7,2.3s5-0.8,7-2.3V44z M39,22.3   c-2-1.4-4.4-2.3-7-2.3s-5,0.8-7,2.3V20h7h7V22.3z M49,45h-9v-4.1c2.5-2.2,4-5.4,4-8.9s-1.5-6.7-4-8.9V19h9V45z"
+   id="path761" />
+</g>
+</svg>
