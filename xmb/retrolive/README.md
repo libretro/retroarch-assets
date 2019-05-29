@@ -25,3 +25,9 @@ To generate it (I used fontforge) :
     - Open the target font and merge it with the source font
 
 -Bold font used and named as font.ttf
+
+
+## Licenses
+* BAXY Themes are licensed under the <a href="https://opensource.org/licenses/MIT">MIT License</a>. 
+* BAXY Active Series themes use the <a href="https://fonts.google.com/specimen/Metrophobic">Metrophobic</a> typeface by <a href="http://sansoxygen.com/">Vernon Adams</a> covered under the <a href="http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web">Open Font License</a>.
+* BAXY Matic Series themes use the [Titilium Web Regular](https://fonts.google.com/specimen/Titillium+Web) typeface by the [Accademia di Belle Arti di Urbino](http://www.accademiadiurbino.it/) covered under the [Open Font License](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web).
