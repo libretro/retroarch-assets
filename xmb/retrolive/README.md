@@ -25,3 +25,9 @@ To generate it (I used fontforge) :
     - Open the target font and merge it with the source font
 
 -Bold font used and named as font.ttf
+
+
+
+##Licenses
+
+BAXY Themes are licensed under the MIT License.
