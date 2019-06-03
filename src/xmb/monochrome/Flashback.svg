@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg4048"
+   inkscape:export-filename="/Users/margetts/Documents/GitHub/Working/monochrome/Flashback.png"
+   inkscape:export-xdpi="360"
+   inkscape:export-ydpi="360"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Flashback.svg"
+   x="0px"
+   y="0px"
+   viewBox="0 0 64 64"
+   style="enable-background:new 0 0 64 64;"
+   xml:space="preserve"><metadata
+   id="metadata161"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs159" />
+<style
+   type="text/css"
+   id="style149">
+	.st0{fill:#FFFFFF;}
+</style>
+<sodipodi:namedview
+   bordercolor="#666666"
+   borderopacity="1"
+   gridtolerance="10"
+   guidetolerance="10"
+   id="namedview4050"
+   inkscape:current-layer="svg4048"
+   inkscape:cx="12.629052"
+   inkscape:cy="40"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-height="1005"
+   inkscape:window-maximized="1"
+   inkscape:window-width="1676"
+   inkscape:window-x="4"
+   inkscape:window-y="1"
+   inkscape:zoom="10.4125"
+   objecttolerance="10"
+   pagecolor="#808080"
+   showgrid="false">
+	</sodipodi:namedview>
+<path
+   class="st0"
+   d="M5,50v3c0,0.5,0.5,1,1,1h5v2h1v1h2c0,0.5,0.5,1,1,1h1c0.5,0,1-0.5,1-1h30c0,0.5,0.5,1,1,1h1c0.5,0,1-0.5,1-1h2  v-1h1v-2h5c0.5,0,1-0.5,1-1v-3"
+   id="path152" />
+<path
+   class="st0"
+   d="M58,6H33c0,0,0,0-0.1,0H6C5.5,6,5,6.5,5,7v42h54V7C59,6.5,58.5,6,58,6z M55,45c0,0.5-0.5,1-1,1H10  c-0.5,0-1-0.5-1-1V11c0-0.5,0.5-1,1-1h44c0.5,0,1,0.5,1,1.1V45z"
+   id="path154" />
+<path
+   class="st0"
+   d="M13,14v28h38V14H13z M34,23h-1v1h1h1v1h1v2h1v1h-1v1h2v1h1v1h-2v-1h-1v-1h-2v4h1v2h2v6h-2v-4h-1v-1h-1v-1h-1v6  h-2v-4h-1v-5h1v-1h-1v-1h-1v-3h-1v-1h-1v-2h1v-1h1v-1h1v-1h-1v-2h1v-1h1v4h1v-3h1v-1h2V23z"
+   id="path156" />
+</svg>
