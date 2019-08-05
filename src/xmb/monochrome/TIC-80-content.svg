@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   sodipodi:docname="TIC-80-content.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata3951">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>TIC-80-content</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview3949"
+     showgrid="false"
+     inkscape:zoom="19.590909"
+     inkscape:cx="25.770302"
+     inkscape:cy="24.041763"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs3936">
+    <style
+       id="style3934">
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title
+     id="title3938">TIC-80-content</title>
+  <rect
+     class="cls-1"
+     y="17"
+     width="4"
+     height="12"
+     id="rect3940"
+     x="6"
+     style="fill:#ffffff" />
+  <path
+     class="cls-1"
+     d="M 18,14 V 34 H 54 V 14 Z m 16,12 h -4 v 4 h -4 v -4 h -4 v -8 h 4 v 4 h 4 v -4 h 4 z m 16,0 h -4 v 4 h -4 v -4 h -4 v -8 h 4 v 4 h 4 v -4 h 4 z"
+     id="path3942"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     class="cls-1"
+     d="m 56,12 v 33 h -4 v 7 H 20 V 44 H 16 V 12 h 40 m 2,-2 H 14 v 19 h -4 v 4 h 4 v 13 h 4 v 8 h 36 v -7 h 4 z"
+     id="path3944"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <polygon
+     class="cls-1"
+     points="40,28 20,28 20,32 24,32 24,36 36,36 36,32 40,32 "
+     id="polygon3946"
+     style="fill:#ffffff"
+     transform="translate(6,10)" />
+</svg>
