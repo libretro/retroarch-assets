@@ -5,9 +5,9 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   viewBox="0 0 320 320"
-   height="320"
-   width="320"
+   viewBox="0 0 245.33333 245.33333"
+   height="245.33333"
+   width="245.33333"
    xml:space="preserve"
    id="svg2"
    version="1.1"><metadata
@@ -19,7 +19,7 @@
        clipPathUnits="userSpaceOnUse"><path
          id="path16"
          d="M 0,256 H 256 V 0 H 0 Z" /></clipPath></defs><g
-     transform="matrix(1.3333333,0,0,-1.3333333,-10.666666,330.66666)"
+     transform="matrix(1.3333333,0,0,-1.3333333,-47.999999,293.33333)"
      id="g10"><g
        id="g12"><g
          clip-path="url(#clipPath18)"
@@ -46,4 +46,4 @@
              d="m 0,0 c -13.233,0 -24,-10.766 -24,-24 0,-13.233 10.767,-24 24,-24 13.233,0 24,10.767 24,24 C 24,-10.766 13.233,0 0,0 m 0,-4 c 11.046,0 20,-8.954 20,-20 0,-11.045 -8.954,-20 -20,-20 -11.046,0 -20,8.955 -20,20 0,11.046 8.954,20 20,20" /></g><path
            id="path36"
            style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           d="M 244,12 H 12 v 232 h 232 z m 0,236 H 12 8 V 244 12 8 h 4 232 4 v 4 232 4 z" /></g></g></g></svg>
+           d="M 220,220 H 36 V 36 H 220 Z M 216,40 H 40 v 176 h 176 z" /></g></g></g></svg>
