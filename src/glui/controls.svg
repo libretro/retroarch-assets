@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0rc1 (09960d6, 2020-04-09)"
+   sodipodi:docname="controls.svg"
+   xml:space="preserve"
+   style="enable-background:new 0 0 192 192;"
+   viewBox="0 0 192 192"
+   height="192px"
+   width="192px"
+   y="0px"
+   x="0px"
+   id="Layer_1"
+   version="1.1"><metadata
+   id="metadata19"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs17" /><sodipodi:namedview
+   inkscape:current-layer="Layer_1"
+   inkscape:window-maximized="0"
+   inkscape:window-y="23"
+   inkscape:window-x="0"
+   inkscape:cy="96"
+   inkscape:cx="96"
+   inkscape:zoom="2.7068931"
+   inkscape:pagecheckerboard="true"
+   showgrid="false"
+   id="namedview15"
+   inkscape:window-height="805"
+   inkscape:window-width="1004"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff" />
+<style
+   id="style10"
+   type="text/css">
+	.st0{fill:#FFFFFF;}
+</style>
+<path
+   id="path12"
+   d="M140,48.2V48H56C29.5,48,8,69.5,8,96c0,26.5,21.5,48,48,48c14.2,0,27-6.2,35.8-16h8.5c8.8,9.8,21.6,16,35.8,16  c26.5,0,48-21.5,48-48C184,70.8,164.6,50.2,140,48.2z M80,104H64v16H48v-16H32V88h16V72h16v16h16V104z M124,120c-6.6,0-12-5.4-12-12  c0-6.6,5.4-12,12-12s12,5.4,12,12C136,114.6,130.6,120,124,120z M148,96c-6.6,0-12-5.4-12-12c0-6.6,5.4-12,12-12s12,5.4,12,12  C160,90.6,154.6,96,148,96z"
+   class="st0" />
+</svg>

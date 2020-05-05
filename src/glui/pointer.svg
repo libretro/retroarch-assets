@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0rc1 (09960d6, 2020-04-09)"
+   sodipodi:docname="pointer.svg"
+   xml:space="preserve"
+   style="enable-background:new 0 0 64 64;"
+   viewBox="0 0 64 64"
+   height="64px"
+   width="64px"
+   y="0px"
+   x="0px"
+   id="Layer_1"
+   version="1.1"><metadata
+   id="metadata48"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs46" /><sodipodi:namedview
+   inkscape:current-layer="Layer_1"
+   inkscape:window-maximized="0"
+   inkscape:window-y="23"
+   inkscape:window-x="0"
+   inkscape:cy="32"
+   inkscape:cx="32"
+   inkscape:zoom="4.25"
+   inkscape:pagecheckerboard="true"
+   showgrid="false"
+   id="namedview44"
+   inkscape:window-height="480"
+   inkscape:window-width="689"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff" />
+<style
+   id="style31"
+   type="text/css">
+	.st0{fill:#FFFFFF;}
+</style>
+<g
+   id="g39">
+	
+		<image
+   id="image33"
+   transform="matrix(1 0 0 1 29.5 27.5)"
+   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAjCAYAAAB/wZEbAAAACXBIWXMAAAsSAAALEgHS3X78AAAA GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAfFJREFUeNqsV89LAkEUHttHREsW WkFEdQgUL4FSp5JO/b9Bx451CFzqpghdPERgdMjWUtDsbX0Tj2HX1pkZ+NgfuN/35s37ZUEpFTBW 1O8aMabK00qI1xg1xh5jDIEvX+QlxjnjjLHM+IT1E8bMlXyDccq4YBwyNhnEGEDIWoDEdZtRBSqM kHHD6NueAxn3RZCG2JVyESDjuSB20RTvrQRozlk4C9A/h+0kQDmiyVqAcoarlQAtkA8LC9CCCWcK 3EJg4kqeJpA8RxCIzV0ESJwGUMwhsMRYRZnYmlcubMilwA7qURnEr1KAHIteESKp5cKFXBlFrwmf D3HQb0sem04J1fQAna3gw3JtbeKKDqOHbjbzQZ4Q38MVd7iPXQ9Ukj8wLhmPMt59+Vy7ZigTyQd5 iOmhjqgJbNM/i7yBDB3oMPRleYAycMw4gfWURT6FBX1cpzkTqYw439cTnHbLDEhK5wvC6QljRj1H zZmkHSgJS59FWF2BPBmUdo3akZVALcY1o4vi9UOuCbX/OngeYRo7gk/XM0jb+H0LO/7rTiQyrIsP P/BOCaEarCfDdRGubbyLs9zyLvyvl95uBYcUomZHcJ3uQsO0VifjPG3gjGFZCIIQO4ywo8z+qce3 vH2zivtemgtsyZXx72M8z1q5vgUYAAdxp2jKbACLAAAAAElFTkSuQmCC"
+   height="34"
+   width="22"
+   style="overflow:visible;opacity:0.25;">
+	</image>
+	<g
+   id="g37">
+		<polygon
+   id="polygon35"
+   points="30.8,28.9 30.8,34 30.8,52 30.8,55.9 34.1,53.9 35.6,53.1 38,57.2 39.1,59.1 41,58 46.2,55 48.1,53.9 47,52     44.6,47.8 46.1,46.9 48.7,45.4 46.5,43.4 34.5,32.4 30.8,28.9   " />
+	</g>
+</g>
+<polyline
+   id="polyline41"
+   points="33,34 45,45 41.6,47 45.1,53.1 39.9,56.1 36.4,50 33,52 33,34 "
+   class="st0" />
+</svg>
