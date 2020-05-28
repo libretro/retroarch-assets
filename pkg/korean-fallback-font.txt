@@ -1,0 +1,5 @@
+korean-fallback-font.ttf: Sunflower
+
+Sunflower is a Korean and Latin font that features partial geometric curves and
+rounded corners. These fonts are licensed under the Open Font License.
+
