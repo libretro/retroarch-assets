@@ -1,5 +1,7 @@
-korean-fallback-font.ttf: Sunflower
+korean-fallback-font.ttf: Spoqa Han Sans
 
-Sunflower is a Korean and Latin font that features partial geometric curves and
-rounded corners. These fonts are licensed under the Open Font License.
+Spoqa Han Sans is a custom font based on Noto Sans and Lato to fit multilingual UI
+
+Spoqa Han Sans is available for all users, including individuals and businesses,
+and can be freely used, modified and redistributed under an open font license.
 
