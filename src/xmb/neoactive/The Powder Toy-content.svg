@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg2" inkscape:export-filename="/home/kivutar/libretro-super/retroarch/media/assets/xmb/monochrome/png/history.png" inkscape:export-xdpi="360" inkscape:export-ydpi="360" inkscape:version="0.48.5 r10040" sodipodi:docname="history.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64"
+	 style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#999999;}
+</style>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" id="namedview4" inkscape:current-layer="svg2" inkscape:cx="66.482606" inkscape:cy="32.005268" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="836" inkscape:window-maximized="1" inkscape:window-width="1440" inkscape:window-x="0" inkscape:window-y="27" inkscape:zoom="7.375" objecttolerance="10" pagecolor="#808080" showgrid="true">
+	<inkscape:grid  empspacing="4" enabled="true" id="grid2985" snapvisiblegridlinesonly="true" type="xygrid" visible="true">
+		</inkscape:grid>
+</sodipodi:namedview>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="19.3883" y1="33.5881" x2="44.8151" y2="33.5881" gradientTransform="matrix(1 0 0 -1 0 65.2756)">
+	<stop  offset="0" style="stop-color:#E6E7E8"/>
+	<stop  offset="1" style="stop-color:#D1D3D4"/>
+</linearGradient>
+<path class="st0" d="M44.3,36l-11-11c-0.7-0.7-1.7-0.7-2.4,0l-11,11c-1.1,1.1-0.3,2.9,1.2,2.9h22.1C44.6,38.9,45.4,37.1,44.3,36z"/>
+<circle class="st1" cx="23.6" cy="34.8" r="1"/>
+<circle class="st1" cx="27.3" cy="31.2" r="1"/>
+<path class="st1" d="M43.3,37.8c-0.4,0.4-1,0.4-1.4,0L32,27.9l-1.7,1.6c-0.4,0.4-1,0.4-1.4,0s-0.4-1,0-1.4l2.3-2.3
+	c0.4-0.4,1-0.4,1.4,0l10.6,10.6C43.7,36.8,43.7,37.4,43.3,37.8z"/>
+</svg>

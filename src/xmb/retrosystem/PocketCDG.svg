@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg2" inkscape:export-filename="G:\Github\retroarch-assets\xmb\retrosystem\png\retroarch.png" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 256 256"
+	 style="enable-background:new 0 0 256 256;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{opacity:0.5;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:#F1C40F;}
+	.st4{fill:#34495E;}
+	.st5{fill:#C0392B;}
+	.st6{fill:#F39C12;}
+	.st7{fill:#7F8C8D;}
+	.st8{fill:#95A5A6;}
+</style>
+<rect class="st0" width="256" height="256"/>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" id="namedview26" inkscape:current-layer="svg2" inkscape:cx="132.94409" inkscape:cy="115.76251" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="1001" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="-9" inkscape:window-y="-9" inkscape:zoom="2.6074563" objecttolerance="10" pagecolor="#ffffff" showgrid="false">
+	</sodipodi:namedview>
+<g id="g20" transform="matrix(1.3333333,0,0,-1.3333333,0,341.33333)">
+	<g id="g22">
+	</g>
+	<g id="g34">
+		<g>
+			<g>
+				<g>
+					<g id="g32" class="st1">
+						<g id="g30" transform="translate(190.6084,236)">
+							<path id="path28" inkscape:connector-curvature="0" class="st2" d="M-47.7,5h-3.5h-87h-3.5l-1.7-3l-43.5-75l-1.7-3l1.7-3
+								l43.5-75l1.7-3h3.5h87h3.5l1.7,3l43.5,75l1.7,3l-1.7,3L-45.9,2L-47.7,5z"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<path id="path38" inkscape:connector-curvature="0" class="st3" d="M186,28H70L12,128l58,100h116l58-100L186,28z"/>
+<g>
+	<path class="st4" d="M187.5,116.4c-5.9,5.9-13,8.9-19.8,9.7l-19.3-4.9l-7.1-21.4C142,93,145.1,85.9,151,80
+		c11.5-11.5,25.7-16.5,39.3-3.1S199.2,104.4,187.5,116.4z"/>
+	
+		<rect x="166.6" y="69.3" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -18.0336 149.0126)" class="st5" width="8.5" height="53.9"/>
+	<polygon class="st6" points="78,85 85.5,69.7 93,85 109.8,87.4 97.5,99.4 100.3,116.1 85.3,108.4 70.2,116.1 73,99.4 60.5,87.4 	
+		"/>
+	<polygon class="st6" points="184.2,177.1 176.2,172.9 168.4,177.1 169.8,168.2 163.2,161.6 172.2,160.4 176.2,152.2 180.4,160.4 
+		189.1,161.6 182.7,168.2 	"/>
+	<path class="st4" d="M81.5,186.1c-6.6,0-7.3-6.6-11.5-6.6c-4.7,0-6.1,4.7-8.5,2.4c-2.8-3.1,3.1-7.5,8.5-7.5s6.8,6.6,11.5,6.6
+		s13.4-12.5,13.4-12.5c1.6,2.8,1.9,5.9,1.9,5.9S87.9,186.1,81.5,186.1z"/>
+	<path class="st4" d="M100.1,175l-9.2,7.1l-4.9-4.7l6.4-8.2C92.3,168.9,100.8,165.6,100.1,175z"/>
+	<path class="st7" d="M112.3,171.7c0,0-9.7,7.5-17.2,1.4s0.9-15.8,0.9-15.8l34.8-42.1l14.8,7.3l6.8,13.7L112.3,171.7z"/>
+	<polygon class="st8" points="139.9,104.6 141.3,99.4 167.7,125.8 162.5,127.2 156.1,132.8 152.6,136.1 130.9,115.2 134.5,111.4 	
+		"/>
+	<polygon class="st5" points="156.1,132.8 134.5,111.4 139.9,104.6 162.5,127.2 	"/>
+	<path class="st2" d="M133.8,125.8L99,160.4l30.8-38.1c0,0,1.6-2.6,4-0.5C136.1,123.9,133.8,125.8,133.8,125.8z"/>
+</g>
+</svg>

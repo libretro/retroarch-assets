@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg2" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 256 256"
+	 style="enable-background:new 0 0 256 256;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#333333;}
+	.st1{fill:#999999;}
+	.st2{fill:#B80000;}
+	.st3{fill:#262626;}
+	.st4{fill:#CCCCCC;}
+	.st5{fill:#B3B3B3;}
+	.st6{fill:#191919;}
+	.st7{fill:#3096CF;}
+	.st8{fill:#FFCC99;}
+	.st9{fill:#16A085;}
+	.st10{fill:#FFFF00;}
+	.st11{fill:none;stroke:#1A1A1A;stroke-width:2;}
+	.st12{fill:none;}
+</style>
+<path id="path40" class="st0" d="M172,244H84V144h88V244z"/>
+<g>
+	<g id="g36" transform="translate(176,216)">
+		<path id="path38" class="st1" d="M0-176h-96l8,32v36h80v-36L0-176z"/>
+	</g>
+	<g id="g42" transform="translate(88,184)">
+		<path id="path44" class="st2" d="M0-112l8,4h64l8-4v36H0V-112z"/>
+	</g>
+	<g>
+		<path id="path56" class="st3" d="M116,142c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S116,136.5,116,142"/>
+		<path id="path60" class="st3" d="M160,142c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S160,136.5,160,142"/>
+		<path id="path64" class="st4" d="M80,132l8-24h80l8,24H80z"/>
+		<path id="path68" class="st5" d="M172,144H84c-2.2,0-4-1.8-4-4v-8h96v8C176,142.2,174.2,144,172,144"/>
+		<path id="path72" class="st5" d="M152,112v16h16l-4-16H152z"/>
+		<path id="path76" class="st0" d="M160,124L160,124c-1.1,0-2-0.9-2-2v-8c0-1.1,0.9-2,2-2s2,0.9,2,2v8C162,123.1,161.1,124,160,124"
+			/>
+		<path id="path80" class="st6" d="M164,108c0,2.2-1.8,12-4,12s-4-9.8-4-12s1.8-4,4-4S164,105.8,164,108"/>
+		<path id="path84" class="st1" d="M100,138c0,1.1-0.9,2-2,2s-2-0.9-2-2s0.9-2,2-2S100,136.9,100,138"/>
+		<path id="path88" class="st1" d="M120,138c0,1.1-0.9,2-2,2s-2-0.9-2-2s0.9-2,2-2S120,136.9,120,138"/>
+		<path id="path92" class="st1" d="M140,138c0,1.1-0.9,2-2,2s-2-0.9-2-2s0.9-2,2-2S140,136.9,140,138"/>
+		<path id="path96" class="st1" d="M160,138c0,1.1-0.9,2-2,2s-2-0.9-2-2s0.9-2,2-2S160,136.9,160,138"/>
+		<path id="path100" class="st3" d="M84,244L84,244l8-36h72l8,36"/>
+		<path id="path102" class="st1" d="M160,240h-12v-24h12V240z"/>
+		<path id="path104" class="st1" d="M136,228h-16v-12h16V228z"/>
+		<path id="path108" class="st3" d="M116,188H96c-2.2,0-4-1.8-4-4v-20c0-2.2,1.8-4,4-4h20c2.2,0,4,1.8,4,4v20
+			C120,186.2,118.2,188,116,188"/>
+		<path id="path110" class="st2" d="M104,168h-4v-4h4V168z"/>
+		<path id="path112" class="st2" d="M112,168h-4v-4h4V168z"/>
+		<path id="path114" class="st6" d="M104,184h-4v-4h4V184z"/>
+		<path id="path116" class="st6" d="M112,184h-4v-4h4V184z"/>
+		<path id="path120" class="st0" d="M80,40l8,32v36h4v-4v-8V72v-0.5L91.9,71l-6.8-27h85.8l-6.8,27l-0.1,0.5V72v24v8v4h4V72l8-32H80z
+			"/>
+		<path id="path122" class="st0" d="M176,40H80V12h96V40z"/>
+		<path id="path124" class="st7" d="M172,40H84V16h88V40z"/>
+		<path id="path126" class="st0" d="M160,100H96V48h64V100z"/>
+		<path id="path128" class="st8" d="M160,88H96V76h64V88z"/>
+		<path id="path132" class="st7" d="M160,76h-40H96V52h64V76z"/>
+		<path id="path136" class="st5" d="M96,88l24-12h16l24,12v8H96V88z"/>
+		<path id="path138" class="st9" d="M108,76h-8v-8h8V76z"/>
+		<path id="path140" class="st9" d="M108,72h4v-4h-4V72z"/>
+		<path id="path142" class="st9" d="M156,76h-8v-8h8V76z"/>
+		<path id="path144" class="st2" d="M136,92h-16v-4h16V92z"/>
+		<path id="path148" class="st2" d="M124,84l-4,4h16l-4-4H124z"/>
+		<path id="path152" class="st6" d="M123.8,135l-2.9-11.7c1-0.6,1.9-1.4,2.5-2.5l11.7,2.9C133.2,129.1,129.1,133.2,123.8,135
+			 M101,123.8l11.7-2.9c0.6,1,1.4,1.9,2.5,2.5l-2.9,11.7C106.9,133.2,102.8,129.1,101,123.8 M118,100c7.9,0,14.6,5.1,17,12.2
+			l-11.7,2.9c-1-1.9-3-3.2-5.3-3.2s-4.3,1.3-5.3,3.2l-11.7-2.9C103.4,105.1,110.1,100,118,100 M118,96c-12.2,0-22,9.8-22,22
+			s9.8,22,22,22s22-9.9,22-22S130.2,96,118,96"/>
+		<path id="path156" class="st10" d="M122,118c0,2.2-1.8,4-4,4s-4-1.8-4-4s1.8-4,4-4S122,115.8,122,118"/>
+	</g>
+	<path class="st11" d="M176,40V12H80v28l8,32v36l-8,24v8c0,2.2,1.8,4,4,4v100h88V144c2.2,0,4-1.8,4-4v-8l-8-24V72L176,40z"/>
+	<rect class="st12" width="256" height="256"/>
+</g>
+</svg>
