@@ -1,0 +1,31 @@
+stages:
+  - package
+
+.package-base:
+  image: $CI_SERVER_HOST:5050/libretro-infrastructure/libretro-build-amd64-ubuntu:latest
+  stage: package
+  variables:
+    MEDIA_PATH: .media
+  script:
+    - mkdir -p ${MEDIA_PATH}/${CI_PROJECT_NAME}
+    - cp -R ./branding ${MEDIA_PATH}/${CI_PROJECT_NAME}
+    - cp ./COPYING ${MEDIA_PATH}/${CI_PROJECT_NAME}
+    - cp -R ./glui ${MEDIA_PATH}/${CI_PROJECT_NAME}
+    - cp -R ./menu_widgets ${MEDIA_PATH}/${CI_PROJECT_NAME}
+    - cp -R ./nxrgui ${MEDIA_PATH}/${CI_PROJECT_NAME}
+    - cp -R ./ozone ${MEDIA_PATH}/${CI_PROJECT_NAME}
+    - cp -R ./pkg ${MEDIA_PATH}/${CI_PROJECT_NAME}
+    - cp -R ./rgui ${MEDIA_PATH}/${CI_PROJECT_NAME}
+    - cp -R ./sounds ${MEDIA_PATH}/${CI_PROJECT_NAME}
+    - cp -R ./switch ${MEDIA_PATH}/${CI_PROJECT_NAME}
+    - cp -R ./wallpapers ${MEDIA_PATH}/${CI_PROJECT_NAME}
+    - cp -R ./xmb ${MEDIA_PATH}/${CI_PROJECT_NAME}
+    - /bin/bash src/xmb/convert_xmb_assets.sh xmb ${MEDIA_PATH}/${CI_PROJECT_NAME}/xmb_ctr 32x32! 400x240!
+    - /bin/bash src/xmb/convert_xmb_assets.sh xmb ${MEDIA_PATH}/${CI_PROJECT_NAME}/xmb_vita 64x64! 960x544!
+  artifacts:
+    paths:
+    - ${MEDIA_PATH}
+    expire_in: 1 day
+
+libretro-package-any:
+  extends: .package-base
