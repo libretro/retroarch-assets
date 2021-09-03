@@ -19,6 +19,7 @@ stages:
     - cp -R ./sounds ${MEDIA_PATH}/${CI_PROJECT_NAME}
     - cp -R ./switch ${MEDIA_PATH}/${CI_PROJECT_NAME}
     - cp -R ./wallpapers ${MEDIA_PATH}/${CI_PROJECT_NAME}
+    - cp -R ./ctr ${MEDIA_PATH}/${CI_PROJECT_NAME}
     - cp -R ./xmb ${MEDIA_PATH}/${CI_PROJECT_NAME}
     - /bin/bash src/xmb/convert_xmb_assets.sh xmb ${MEDIA_PATH}/${CI_PROJECT_NAME}/xmb_ctr 32x32! 400x240!
     - /bin/bash src/xmb/convert_xmb_assets.sh xmb ${MEDIA_PATH}/${CI_PROJECT_NAME}/xmb_vita 64x64! 960x544!
