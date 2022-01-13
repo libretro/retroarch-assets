@@ -1,11 +1,14 @@
 name: RetroArch Assets Bundle
 
-on:
-  # Trigger the workflow on push,
-  # but only for the master branch
-  push:
-    branches:
-      - master
+on: 
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Reason'     
+        required: true
+        default: 'Release'
+      tags:
+        description: 'Tags' 
   watch: # this is a hack that lets repo owners trigger a build by starring
     types: [started]
     if: github.actor == github.event.repository.owner.login
