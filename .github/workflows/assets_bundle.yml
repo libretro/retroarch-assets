@@ -1,0 +1,32 @@
+name: RetroArch Assets Bundle
+
+on: 
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Reason'     
+        required: true
+        default: 'Release'
+      tags:
+        description: 'Tags' 
+  watch: # this is a hack that lets repo owners trigger a build by starring
+    types: [started]
+    if: github.actor == github.event.repository.owner.login
+
+jobs:
+  Assets:
+    name: Bundle Assets for RetroArch
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - run: rm -rf branding wallpaper/* src .git configure Makefile COPYING
+    - run: 7z a -mx=9 assets.7z *
+    - name: Upload assets bundle
+      uses: svenstaro/upload-release-action@v2
+      with:
+        repo_token: ${{ secrets.GITHUB_TOKEN }}
+        file: assets.7z
+        tag: Latest
+        asset_name: assets.7z
+        overwrite: true
