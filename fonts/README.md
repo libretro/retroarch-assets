@@ -1,0 +1,6 @@
+# Font Colophon
+* Automatic and Systematic themes use the [Titilium Web Regular](https://fonts.google.com/specimen/Titillium+Web) typeface by the [Accademia di Belle Arti di Urbino](http://www.accademiadiurbino.it/) covered under the [Open Font License](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web).
+* Dot-Art, Monochrome and Ozone themes use the [M+ P Type-1](http://mplus-fonts.osdn.jp/design.html#mplus_p1) typefaces by the [M+ Fonts Project](http://mplus-fonts.osdn.jp/) covered under the [Free License](http://mplus-fonts.osdn.jp/about-en.html#license).
+ * FlatUI theme uses the [Open Sans](https://fonts.google.com/specimen/Open+Sans) typeface by the [Steve Matteson](https://twitter.com/@SteveMatteson1) covered under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+* Retroactive and Neoactive themes use the <a href="https://fonts.google.com/specimen/Metrophobic">Metrophobic</a> typeface by <a href="http://sansoxygen.com/">Vernon Adams</a> covered under the <a href="http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web">Open Font License</a>.
+* Retrosystem theme uses the [DejaVu Sans](https://dejavu-fonts.github.io/) under a free [License](https://dejavu-fonts.github.io/License.html)
