@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<g>
+	<g>
+		<polygon fill="none" points="13.97,23 13.88,59 50,59 50,23 		"/>
+	</g>
+	<path fill="#FFFFFF" d="M38,5H14c-1.65,0-3,1.35-3,3v48c0,1.65,1.35,3,3,3h36c1.65,0,3-1.35,3-3V20L38,5z M27.65,38.06l-6.43,3.03
+		l6.44,2.67v1.73l-8.58-3.78v-1.06l8.58-4.29C27.65,36.35,27.65,38.06,27.65,38.06z M30.57,47.42h-1.95l4.78-12.85h1.94L30.57,47.42
+		z M44.94,41.71l-8.58,3.78v-1.73l6.44-2.67l-6.44-3.03v-1.71l8.58,4.29V41.71z M38,23c-1.65,0-3-1.35-3-3V8l15,15H38z"/>
+</g>
+</svg>

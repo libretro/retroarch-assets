@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg2" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:cc="http://creativecommons.org/ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64"
+	 style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+</style>
+<path id="Game_Boy" class="st0" d="M46,5H18c-1,0-2,1-2,2v50c0,1,1,2,2,2h21c5.14,0,9-3.86,9-9V7C48,6,47,5,46,5z M19,9
+	c0-0.55,0.45-1,1-1h24c0.55,0,1,0.45,1,1v15c0,3.31-2.69,6-6,6H20c-0.55,0-1-0.45-1-1V9z M26,42c0,1,0,1-1,1h-1v1c0,1,0,1-1,1h-1
+	c-1,0-1,0-1-1v-1h-1c-1,0-1,0-1-1v-1c0-1,0-1,1-1h1v-1c0-1,0-1,1-1h1c1,0,1,0,1,1v1h1c1,0,1,0,1,1V42z M29.26,48.88l-2.59,1.68
+	c-0.19,0.12-0.43,0.06-0.54-0.14c-0.11-0.2-0.04-0.47,0.16-0.59l2.59-1.68c0.19-0.12,0.43-0.06,0.54,0.14S29.45,48.76,29.26,48.88z
+	 M35.18,48.88l-2.59,1.68c-0.19,0.12-0.44,0.06-0.54-0.14c-0.1-0.2-0.03-0.47,0.16-0.59l2.59-1.68c0.19-0.12,0.43-0.06,0.54,0.14
+	C35.44,48.49,35.37,48.76,35.18,48.88z M38,44c-1.1,0-2-0.9-2-2s0.9-2,2-2s2,0.9,2,2S39.1,44,38,44z M44,41c-1.1,0-2-0.9-2-2
+	s0.9-2,2-2s2,0.9,2,2S45.1,41,44,41z"/>
+<g>
+	<polygon class="st0" points="22.08,19.6 28.66,22.5 28.66,21.17 23.72,19.13 28.66,16.8 28.66,15.5 22.08,18.79 	"/>
+	<polygon class="st0" points="29.41,23.98 30.9,23.98 34.56,14.13 33.08,14.13 	"/>
+	<polygon class="st0" points="35.34,15.5 35.34,16.8 40.28,19.13 35.34,21.17 35.34,22.5 41.92,19.6 41.92,18.79 	"/>
+</g>
+</svg>
