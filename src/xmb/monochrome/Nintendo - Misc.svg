@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1"
+	 id="svg8" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64"
+	 enable-background="new 0 0 64 64" xml:space="preserve">
+<g>
+	<path fill="#FFFFFF" d="M48.25,19.04h-32.5C7.52,19.02,2,24.94,2,32.02s5.51,12.93,13.76,12.94h32.48
+		c8.25,0,13.76-5.85,13.76-12.94C62,24.94,56.48,19.02,48.25,19.04z M48.21,41.78H15.79C9.23,41.81,5.25,37.4,5.25,32.01
+		c0-5.4,4.01-9.76,10.54-9.78l32.43,0c6.53,0.01,10.54,4.38,10.54,9.78S54.77,41.8,48.21,41.78z"/>
+	<polygon fill="#FFFFFF" points="34.65,34.39 29.39,25.88 25.59,25.88 25.58,38.08 29.36,38.08 29.36,29.57 34.65,38.08 
+		38.42,38.08 38.42,25.88 34.64,25.88 	"/>
+</g>
+</svg>
