@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1"
+	 id="svg2" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" inkscape:export-ydpi="90" inkscape:export-xdpi="90" inkscape:export-filename="/home/kivutar/Bureau/lakka-menu/reload.png"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64"
+	 style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+</style>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" id="namedview4" inkscape:current-layer="svg2" inkscape:cx="59.204087" inkscape:cy="35.782472" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="1028" inkscape:window-maximized="0" inkscape:window-width="928" inkscape:window-x="2399" inkscape:window-y="52" inkscape:zoom="3.6875" objecttolerance="10" pagecolor="#808080" showgrid="false">
+	</sodipodi:namedview>
+<g>
+	<path class="st0" d="M32.22,5.25c-22.42,0-27,4.55-27,27s4.51,27,27,27c22.49,0,27-4.54,27-27C59.22,9.79,54.63,5.25,32.22,5.25z
+		 M49,49H15V15h13.08v0.19c0,2.16,1.75,3.9,3.9,3.9c2.16,0,3.9-1.75,3.9-3.9V15H49V49z"/>
+	<g>
+		<circle id="path128" class="st0" cx="37.28" cy="39.96" r="2.84"/>
+		<polygon class="st0" points="29.63,35.22 25.84,35.22 25.84,31.37 22.68,31.37 22.68,35.22 18.57,35.22 18.57,38.38 22.68,38.38 
+			22.68,42.43 25.84,42.43 25.84,38.38 29.63,38.38 		"/>
+		<circle id="path128-0" class="st0" cx="42.49" cy="33.77" r="2.84"/>
+	</g>
+</g>
+</svg>
