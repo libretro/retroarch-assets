@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 27.8.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
+<path style="opacity:0.5;fill:#FFFFFF;" d="M240,8H16H8v8v216v4c0,6.617,5.383,12,12,12h2c3.265,0,6.169-1.572,7.995-4h160.009
+	c1.826,2.428,4.73,4,7.995,4h30c6.617,0,12-5.383,12-12v-4v-8.686l1.657-1.657l4-4l2.343-2.343V212V16V8H240z"/>
+<polygon style="fill:#B3B3B3;" points="240,16 16,16 16,232 232,232 232,212 240,212 "/>
+<rect x="20" y="20" style="fill:#A6A6A6;" width="24" height="8"/>
+<circle style="fill:#808080;" cx="24" cy="26" r="2"/>
+<circle style="fill:#808080;" cx="32" cy="26" r="2"/>
+<rect x="212" y="20" transform="matrix(-1 4.490618e-11 -4.490618e-11 -1 448 48)" style="fill:#A6A6A6;" width="24" height="8"/>
+<circle style="fill:#808080;" cx="232" cy="26" r="2"/>
+<circle style="fill:#808080;" cx="224" cy="26" r="2"/>
+<polygon style="fill:#999999;" points="200,236 24,236 20,232 200,232 "/>
+<path style="fill:#A6A6A6;" d="M228,240h-30c-1.105,0-2-0.895-2-2v-6h36v4C232,238.209,230.209,240,228,240z"/>
+<path style="fill:#A6A6A6;" d="M22,240h-2c-2.209,0-4-1.791-4-4v-4h8v6C24,239.105,23.105,240,22,240z"/>
+<polygon style="fill:#A6A6A6;" points="236,216 232,216 232,212 240,212 "/>
+<path style="fill:#BFBFBF;" d="M219.821,172H36.179c-2.352,0-4.241-1.857-4.177-4.108l3.953-140C36.016,25.726,37.868,24,40.132,24
+	h175.736c2.264,0,4.116,1.726,4.177,3.892l3.953,140C224.062,170.143,222.173,172,219.821,172z"/>
+<rect x="40" y="24" style="fill:#A6A6A6;" width="4" height="72"/>
+<rect x="48" y="24" style="fill:#A6A6A6;" width="4" height="72"/>
+<rect x="56" y="24" style="fill:#A6A6A6;" width="4" height="72"/>
+<rect x="64" y="24" style="fill:#A6A6A6;" width="4" height="72"/>
+<rect x="72" y="24" style="fill:#A6A6A6;" width="4" height="72"/>
+<rect x="80" y="24" style="fill:#A6A6A6;" width="4" height="72"/>
+<rect x="88" y="24" style="fill:#A6A6A6;" width="4" height="72"/>
+<rect x="96" y="24" style="fill:#A6A6A6;" width="4" height="72"/>
+<rect x="104" y="24" style="fill:#A6A6A6;" width="4" height="72"/>
+<rect x="112" y="24" style="fill:#A6A6A6;" width="4" height="72"/>
+<rect x="120" y="24" style="fill:#A6A6A6;" width="4" height="72"/>
+<rect x="128" y="24" style="fill:#A6A6A6;" width="4" height="72"/>
+<rect x="136" y="24" style="fill:#A6A6A6;" width="4" height="72"/>
+<rect x="144" y="24" style="fill:#A6A6A6;" width="4" height="72"/>
+<rect x="152" y="24" style="fill:#A6A6A6;" width="4" height="72"/>
+<rect x="160" y="24" style="fill:#A6A6A6;" width="4" height="72"/>
+<rect x="168" y="24" style="fill:#A6A6A6;" width="4" height="72"/>
+<rect x="176" y="24" style="fill:#A6A6A6;" width="4" height="72"/>
+<rect x="184" y="24" style="fill:#A6A6A6;" width="4" height="72"/>
+<rect x="192" y="24" style="fill:#A6A6A6;" width="4" height="72"/>
+<rect x="200" y="24" style="fill:#A6A6A6;" width="4" height="72"/>
+<rect x="208" y="24" style="fill:#A6A6A6;" width="4" height="72"/>
+<path style="fill:#CCCCCC;" d="M226,220H30c-1.105,0-2-0.895-2-2v-52c0-1.105,0.895-2,2-2h196c1.105,0,2,0.895,2,2v52
+	C228,219.105,227.105,220,226,220z"/>
+</svg>
