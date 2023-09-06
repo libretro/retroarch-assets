@@ -1,133 +1,37 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   viewBox="0 0 330.66638 149.33293"
-   height="149.33293"
-   width="330.66638"
-   xml:space="preserve"
-   id="svg2"
-   version="1.1"><metadata
-     id="metadata8"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-     id="defs6"><clipPath
-       id="clipPath18"
-       clipPathUnits="userSpaceOnUse"><path
-         id="path16"
-         d="M 0,256 H 256 V 0 H 0 Z" /></clipPath><clipPath
-       id="clipPath26"
-       clipPathUnits="userSpaceOnUse"><path
-         id="path24"
-         d="M 4,184 H 252 V 72 H 4 Z" /></clipPath></defs><g
-     transform="matrix(1.3333333,0,0,-1.3333333,-5.3335999,245.33293)"
-     id="g10"><g
-       id="g12"><g
-         clip-path="url(#clipPath18)"
-         id="g14"><g
-           id="g20"><g
-             id="g22" /><g
-             id="g34"><g
-               style="opacity:0.5"
-               id="g32"
-               clip-path="url(#clipPath26)"><g
-                 id="g30"
-                 transform="translate(249.6572,173.6567)"><path
-                   id="path28"
-                   style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                   d="m 0,0 -8,8 -2.344,2.343 h -3.313 -216 -3.314 L -235.314,8 l -8,-8 -2.343,-2.343 v -3.314 -11 -2 -2 -2 -2 -2 -2 -2 -55 -3.313 l 2.343,-2.344 8,-8 2.343,-2.343 h 3.314 216 3.313 l 2.344,2.343 8,8 2.343,2.344 v 3.313 55 2 2 2 2 2 2 2 11 3.314 z" /></g></g></g></g></g></g><path
-       id="path36"
-       style="fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="M 236,88 H 20 v 80 h 216 z" /><path
-       id="path38"
-       style="fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 20,88 h -8 v 80 h 8 z" /><path
-       id="path40"
-       style="fill:#8c8c8c;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="M 236,80 H 20 v 8 h 216 z" /><path
-       id="path42"
-       style="fill:#d9d9d9;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="M 236,168 H 20 v 8 h 216 z" /><path
-       id="path44"
-       style="fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 244,88 h -8 v 80 h 8 z" /><g
-       transform="translate(12,168)"
-       id="g46"><path
-         id="path48"
-         style="fill:#bfbfbf;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="M 0,0 8,8 V 0 Z" /></g><g
-       transform="translate(12,88)"
-       id="g50"><path
-         id="path52"
-         style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="M 0,0 8,-8 V 0 Z" /></g><g
-       transform="translate(236,88)"
-       id="g54"><path
-         id="path56"
-         style="fill:#737373;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="M 0,0 H 8 L 0,-8 Z" /></g><g
-       transform="translate(236,176)"
-       id="g58"><path
-         id="path60"
-         style="fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="M 0,0 8,-8 H 0 Z" /></g><path
-       id="path62"
-       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="M 172,155 H 20 v 2 h 152 z" /><path
-       id="path64"
-       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="M 172,151 H 20 v 2 h 152 z" /><path
-       id="path66"
-       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="M 172,147 H 20 v 2 h 152 z" /><path
-       id="path68"
-       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="M 172,143 H 20 v 2 h 152 z" /><path
-       id="path70"
-       style="fill:#a6a6a6;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 20,155 h -8 v 2 h 8 z" /><path
-       id="path72"
-       style="fill:#a6a6a6;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 20,151 h -8 v 2 h 8 z" /><path
-       id="path74"
-       style="fill:#a6a6a6;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 20,147 h -8 v 2 h 8 z" /><path
-       id="path76"
-       style="fill:#a6a6a6;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 20,143 h -8 v 2 h 8 z" /><path
-       id="path78"
-       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 236,155 h -8 v 2 h 8 z" /><path
-       id="path80"
-       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 236,151 h -8 v 2 h 8 z" /><path
-       id="path82"
-       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 236,147 h -8 v 2 h 8 z" /><path
-       id="path84"
-       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 236,143 h -8 v 2 h 8 z" /><path
-       id="path86"
-       style="fill:#8c8c8c;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 244,155 h -8 v 2 h 8 z" /><path
-       id="path88"
-       style="fill:#8c8c8c;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 244,151 h -8 v 2 h 8 z" /><path
-       id="path90"
-       style="fill:#8c8c8c;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 244,147 h -8 v 2 h 8 z" /><path
-       id="path92"
-       style="fill:#8c8c8c;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 244,143 h -8 v 2 h 8 z" /><path
-       id="path94"
-       style="fill:#07080a;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 224,88 h -48 v 80 h 48 z" /><path
-       id="path96"
-       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 220,140 h -40 v 16 h 40 z" /><path
-       id="path98"
-       style="fill:#07080a;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 220,147 h -40 v 2 h 40 z" /></g></svg>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 27.8.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
+<polygon style="opacity:0.5;fill:#FFFFFF;" points="249.657,82.343 241.657,74.343 239.314,72 236,72 20,72 16.686,72 
+	14.343,74.343 6.343,82.343 4,84.686 4,88 4,99 4,101 4,103 4,105 4,107 4,109 4,111 4,113 4,168 4,171.314 6.343,173.657 
+	14.343,181.657 16.686,184 20,184 236,184 239.314,184 241.657,181.657 249.657,173.657 252,171.314 252,168 252,113 252,111 
+	252,109 252,107 252,105 252,103 252,101 252,99 252,88 252,84.686 "/>
+<rect x="20" y="88" style="fill:#D9D4BC;" width="216" height="80"/>
+<rect x="12" y="88" style="fill:#C4C0AA;" width="8" height="80"/>
+<rect x="20" y="168" style="fill:#C4C0AA;" width="216" height="8"/>
+<rect x="20" y="80" style="fill:#C4C0AA;" width="216" height="8"/>
+<rect x="236" y="88" style="fill:#C4C0AA;" width="8" height="80"/>
+<polygon style="fill:#A6A390;" points="12,88 20,80 20,88 "/>
+<polygon style="fill:#A6A390;" points="12,168 20,176 20,168 "/>
+<polygon style="fill:#A6A390;" points="236,168 244,168 236,176 "/>
+<polygon style="fill:#A6A390;" points="236,80 244,88 236,88 "/>
+<rect x="20" y="99" style="fill:#C4C0AA;" width="152" height="2"/>
+<rect x="20" y="103" style="fill:#C4C0AA;" width="152" height="2"/>
+<rect x="20" y="107" style="fill:#C4C0AA;" width="152" height="2"/>
+<rect x="20" y="111" style="fill:#C4C0AA;" width="152" height="2"/>
+<rect x="12" y="99" style="fill:#A6A390;" width="8" height="2"/>
+<rect x="12" y="103" style="fill:#A6A390;" width="8" height="2"/>
+<rect x="12" y="107" style="fill:#A6A390;" width="8" height="2"/>
+<rect x="12" y="111" style="fill:#A6A390;" width="8" height="2"/>
+<rect x="228" y="99" style="fill:#C4C0AA;" width="8" height="2"/>
+<rect x="228" y="103" style="fill:#C4C0AA;" width="8" height="2"/>
+<rect x="228" y="107" style="fill:#C4C0AA;" width="8" height="2"/>
+<rect x="228" y="111" style="fill:#C4C0AA;" width="8" height="2"/>
+<rect x="236" y="99" style="fill:#A6A390;" width="8" height="2"/>
+<rect x="236" y="103" style="fill:#A6A390;" width="8" height="2"/>
+<rect x="236" y="107" style="fill:#A6A390;" width="8" height="2"/>
+<rect x="236" y="111" style="fill:#A6A390;" width="8" height="2"/>
+<rect x="176" y="88" style="fill:#07080A;" width="48" height="80"/>
+<rect x="180" y="100" style="fill:#C4C0AA;" width="40" height="16"/>
+<rect x="180" y="107" style="fill:#07080A;" width="40" height="2"/>
+</svg>

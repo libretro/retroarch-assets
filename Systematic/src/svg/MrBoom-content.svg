@@ -1,113 +1,34 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   viewBox="0 0 333.99466 287.9996"
-   height="287.9996"
-   width="333.99466"
-   xml:space="preserve"
-   id="svg2"
-   version="1.1"><metadata
-     id="metadata8"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-     id="defs6"><clipPath
-       id="clipPath18"
-       clipPathUnits="userSpaceOnUse"><path
-         id="path16"
-         d="M 0,256 H 256 V 0 H 0 Z" /></clipPath><clipPath
-       id="clipPath26"
-       clipPathUnits="userSpaceOnUse"><path
-         id="path24"
-         d="M 2.75177,236 H 253.248 V 20 H 2.75177 Z" /></clipPath></defs><g
-     transform="matrix(1.3333333,0,0,-1.3333333,-3.6691999,314.66626)"
-     id="g10"><g
-       id="g12"><g
-         clip-path="url(#clipPath18)"
-         id="g14"><g
-           id="g20"><g
-             id="g22" /><g
-             id="g34"><g
-               style="opacity:0.5"
-               id="g32"
-               clip-path="url(#clipPath26)"><g
-                 id="g30"
-                 transform="translate(250.9199,132.0137)"><path
-                   id="path28"
-                   style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                   d="m 0,0 -58,100 -2.312,3.986 h -4.608 -116 -4.608 l -2.312,-3.986 -58,-100 -2.328,-4.014 2.328,-4.013 58,-100 2.312,-3.987 h 4.608 116 4.608 l 2.312,3.987 58,100 2.328,4.013 z" /></g></g></g></g></g></g><g
-       transform="translate(186,228)"
-       id="g36"><path
-         id="path38"
-         style="fill:#d4a600;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 0,0 h -116 l -58,-100 58,-100 H 0 l 58,100 z" /></g><g
-       transform="translate(128,28)"
-       id="g40"><path
-         id="path42"
-         style="fill:#eac500;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="M 0,0 -100,100 0,200 100,100 Z" /></g><g
-       transform="translate(184,160)"
-       id="g44"><path
-         id="path46"
-         style="fill:#191919;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 0,0 v 8 h -8 v 8 h -8 v 8 h -8 v 8 H -86.73 V 24 H -104 v -8 h -8 V 0 h -8 v -64 h 8 v -8 -8 h 8 v -8 h 16 v -8 h 64 v 8 h 16 v 8 h 8 v 8 h 8 v 8 64 z" /></g><g
-       transform="translate(168,120)"
-       id="g48"><path
-         id="path50"
-         style="fill:#0d113a;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 0,0 h -8 v 8 h -24 v 8 h -8 v 8 8 8 8 8 8 h -24 v -8 h -16 v -8 h -8 V 32 h -8 v -48 h 8 v -16 h 8 v -8 h 16 v -8 h 32 v 8 h 16 v 8 h 8 v 16 h 8 z" /></g><g
-       transform="translate(120,152)"
-       id="g52"><path
-         id="path54"
-         style="fill:#27286f;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 0,0 h -8 v 8 8 H -24 V 8 h -8 V 0 h -8 v -48 h 8 v -8 h 24 v 8 h 8 z" /></g><g
-       transform="translate(104,152)"
-       id="g56"><path
-         id="path58"
-         style="fill:#4c5ea6;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="M 0,0 V 8 H -8 V 0 h -8 v -40 h 8 v -8 h 8 8 v 8 16 24 z" /></g><g
-       transform="translate(168,152)"
-       id="g60"><path
-         id="path62"
-         style="fill:#6c6c55;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 0,0 v -8 h -8 -8 v 8 h 8 v 24 h -32 v -40 h 8 v -8 H 0 v 8 H 8 V 0 Z" /></g><path
-       id="path64"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 96,128 h 8 v 24 h -8 z" /><g
-       transform="translate(168,184)"
-       id="g66"><path
-         id="path68"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 0,0 v -8 h -8 v -8 h -8 v -16 h 8 v 8 h 8 v 8 h 8 v 8 h 8 V 0 H 8 Z" /></g><path
-       id="path70"
-       style="fill:#ec2024;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 176,184 h -8 v 8 h 8 z" /><path
-       id="path72"
-       style="fill:#ec2024;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 191.737,184 h -8 v 8 h 8 z" /><path
-       id="path74"
-       style="fill:#ec2024;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 192,168 h -8 v 8 h 8 z" /><path
-       id="path76"
-       style="fill:#8f8fa7;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 152,168 h -16 v 16 h 16 z" /><path
-       id="path78"
-       style="fill:#8f8fa7;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 144,160 h -16 v 16 h 16 z" /><path
-       id="path80"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 136,152 h -8 v 16 h 8 z" /><path
-       id="path82"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 144,168 h -8 v 8 h 8 z" /><path
-       id="path84"
-       style="fill:#191919;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 152,152 h -8 v 16 h 8 z" /><g
-       transform="translate(160,144)"
-       id="g86"><path
-         id="path88"
-         style="fill:#8f8fa7;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 0,0 h -8 -8 -8 v -8 h 8 v -8 h 8 v 8 h 8 z" /></g></g></svg>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 27.8.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
+<polygon style="opacity:0.5;fill:#FFFFFF;" points="250.92,123.986 192.92,23.986 190.608,20 186,20 70,20 65.392,20 63.08,23.986 
+	5.08,123.986 2.752,128 5.08,132.014 63.08,232.014 65.392,236 70,236 186,236 190.608,236 192.92,232.014 250.92,132.014 
+	253.248,128 "/>
+<polygon style="fill:#FDB913;" points="186,28 70,28 12,128 70,228 186,228 244,128 "/>
+<rect x="57.289" y="57.289" transform="matrix(0.7071 0.7071 -0.7071 0.7071 128 -53.0193)" style="fill:#FFCB05;" width="141.421" height="141.421"/>
+<polygon style="fill:#1A1A1A;" points="184,96 184,88 176,88 176,80 168,80 168,72 160,72 160,64 97.27,64 97.27,72 80,72 80,80 
+	72,80 72,96 64,96 64,160 72,160 72,168 72,176 80,176 80,184 96,184 96,192 160,192 160,184 176,184 176,176 184,176 184,168 
+	192,168 192,160 192,96 "/>
+<polygon style="fill:#0D113A;" points="168,136 160,136 160,128 136,128 136,120 128,120 128,112 128,104 128,96 128,88 128,80 
+	128,72 104,72 104,80 88,80 88,88 80,88 80,104 72,104 72,152 80,152 80,168 88,168 88,176 104,176 104,184 136,184 136,176 
+	152,176 152,168 160,168 160,152 168,152 "/>
+<polygon style="fill:#27286F;" points="120,104 112,104 112,96 112,88 96,88 96,96 88,96 88,104 80,104 80,152 88,152 88,160 
+	112,160 112,152 120,152 "/>
+<polygon style="fill:#4C5EA6;" points="104,104 104,96 96,96 96,104 88,104 88,144 96,144 96,152 104,152 112,152 112,144 112,128 
+	112,104 "/>
+<polygon style="fill:#6C6C55;" points="168,104 168,112 160,112 152,112 152,104 160,104 160,80 128,80 128,120 136,120 136,128 
+	168,128 168,120 176,120 176,104 "/>
+<rect x="96" y="104" style="fill:#FFFFFF;" width="8" height="24"/>
+<polygon style="fill:#FFFFFF;" points="168,72 168,80 160,80 160,88 152,88 152,104 160,104 160,96 168,96 168,88 176,88 176,80 
+	184,80 184,72 176,72 "/>
+<rect x="168" y="64" style="fill:#EC2024;" width="8" height="8"/>
+<rect x="183.737" y="64" style="fill:#EC2024;" width="8" height="8"/>
+<rect x="184" y="80" style="fill:#EC2024;" width="8" height="8"/>
+<rect x="136" y="72" style="fill:#8F8FA7;" width="16" height="16"/>
+<rect x="128" y="80" style="fill:#8F8FA7;" width="16" height="16"/>
+<rect x="128" y="88" style="fill:#FFFFFF;" width="8" height="16"/>
+<rect x="136" y="80" style="fill:#FFFFFF;" width="8" height="8"/>
+<rect x="144" y="88" style="fill:#1A1A1A;" width="8" height="16"/>
+<polygon style="fill:#8F8FA7;" points="160,112 152,112 144,112 136,112 136,120 144,120 144,128 152,128 152,120 160,120 "/>
+</svg>

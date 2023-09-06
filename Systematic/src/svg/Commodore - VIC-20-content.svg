@@ -1,79 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   viewBox="0 0 330.66665 186.66665"
-   height="186.66666"
-   width="330.66666"
-   xml:space="preserve"
-   id="svg2"
-   version="1.1"><metadata
-     id="metadata8"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-     id="defs6"><clipPath
-       id="clipPath18"
-       clipPathUnits="userSpaceOnUse"><path
-         id="path16"
-         d="M 0,256 H 256 V 0 H 0 Z" /></clipPath><clipPath
-       id="clipPath26"
-       clipPathUnits="userSpaceOnUse"><path
-         id="path24"
-         d="M 4,200 H 252 V 60 H 4 Z" /></clipPath><clipPath
-       id="clipPath46"
-       clipPathUnits="userSpaceOnUse"><path
-         id="path44"
-         d="M 20,188 H 236 V 80 H 20 Z" /></clipPath></defs><g
-     transform="matrix(1.3333333,0,0,-1.3333333,-5.3333332,266.66666)"
-     id="g10"><g
-       id="g12"><g
-         clip-path="url(#clipPath18)"
-         id="g14"><g
-           id="g20"><g
-             id="g22" /><g
-             id="g34"><g
-               style="opacity:0.5"
-               id="g32"
-               clip-path="url(#clipPath26)"><g
-                 id="g30"
-                 transform="translate(240,200)"><path
-                   id="path28"
-                   style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                   d="m 0,0 h -224 c -6.617,0 -12,-5.383 -12,-12 v -120 -8 h 8 232 8 v 8 120 C 12,-5.383 6.617,0 0,0" /></g></g></g></g><g
-           transform="translate(244,68)"
-           id="g36"><path
-             id="path38"
-             style="fill:#bfbfbf;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 0,0 h -232 v 120 c 0,2.209 1.791,4 4,4 H -4 c 2.209,0 4,-1.791 4,-4 z" /></g><g
-           id="g40"><g
-             id="g42" /><g
-             id="g52"><g
-               style="opacity:0.5"
-               id="g50"
-               clip-path="url(#clipPath46)"><path
-                 id="path48"
-                 style="fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                 d="M 236,80 H 20 v 108 h 216 z" /></g></g></g><g
-           transform="translate(228,88)"
-           id="g54"><path
-             id="path56"
-             style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 0,0 h -200 c -2.209,0 -4,1.791 -4,4 v 88 c 0,2.209 1.791,4 4,4 H 0 c 2.209,0 4,-1.791 4,-4 V 4 C 4,1.791 2.209,0 0,0" /></g><g
-           transform="translate(216,168)"
-           id="g58"><path
-             id="path60"
-             style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 0,0 h -176 c -4.411,0 -8,-3.589 -8,-8 v -56 c 0,-4.411 3.589,-8 8,-8 H 0 c 4.411,0 8,3.589 8,8 V -8 C 8,-3.589 4.411,0 0,0 m 0,-4 c 2.209,0 4,-1.791 4,-4 v -56 c 0,-2.209 -1.791,-4 -4,-4 h -176 c -2.209,0 -4,1.791 -4,4 v 56 c 0,2.209 1.791,4 4,4 H 0" /></g><g
-           transform="translate(236,80)"
-           id="g62"><path
-             id="path64"
-             style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 0,0 8,-12 v 120.764 c 0,1.486 -1.564,2.454 -2.895,1.789 L 0,108 Z" /></g><g
-           transform="translate(20,80)"
-           id="g66"><path
-             id="path68"
-             style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 0,0 -8,-12 v 120.764 c 0,1.486 1.564,2.454 2.895,1.789 L 0,108 Z" /></g></g></g></g></svg>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 27.8.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
+<path style="opacity:0.5;fill:#FFFFFF;" d="M240,56H16C9.383,56,4,61.383,4,68v120v8h8h232h8v-8V68C252,61.383,246.617,56,240,56
+	L240,56z"/>
+<path style="fill:#A6A390;" d="M244,188H12V68c0-2.209,1.791-4,4-4h224c2.209,0,4,1.791,4,4V188z"/>
+<rect x="20" y="68" style="fill:#D9D4BC;" width="216" height="108"/>
+<path style="fill:#F2F2F2;" d="M228,168H28c-2.209,0-4-1.791-4-4V76c0-2.209,1.791-4,4-4h200c2.209,0,4,1.791,4,4v88
+	C232,166.209,230.209,168,228,168z"/>
+<path style="fill:#808080;" d="M216,92c2.209,0,4,1.791,4,4v56c0,2.209-1.791,4-4,4H40c-2.209,0-4-1.791-4-4V96c0-2.209,1.791-4,4-4
+	H216 M216,88H40c-4.411,0-8,3.589-8,8v56c0,4.411,3.589,8,8,8h176c4.411,0,8-3.589,8-8V96C224,91.589,220.411,88,216,88L216,88z"/>
+<path style="fill:#C4C0AA;" d="M236,176l8,12V67.236c0-1.487-1.565-2.454-2.894-1.789L236,68V176z"/>
+<path style="fill:#C4C0AA;" d="M20,176l-8,12V67.236c0-1.487,1.565-2.454,2.894-1.789L20,68V176z"/>
+</svg>
