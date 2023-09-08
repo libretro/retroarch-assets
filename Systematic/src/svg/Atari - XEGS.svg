@@ -1,142 +1,31 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   viewBox="0 0 330.66665 213.33333"
-   height="213.33333"
-   width="330.66666"
-   xml:space="preserve"
-   id="svg2"
-   version="1.1"><metadata
-     id="metadata8"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-     id="defs6"><clipPath
-       id="clipPath18"
-       clipPathUnits="userSpaceOnUse"><path
-         id="path16"
-         d="M 0,256 H 256 V 0 H 0 Z" /></clipPath><clipPath
-       id="clipPath26"
-       clipPathUnits="userSpaceOnUse"><path
-         id="path24"
-         d="M 4,208 H 252 V 48 H 4 Z" /></clipPath><clipPath
-       id="clipPath58"
-       clipPathUnits="userSpaceOnUse"><path
-         id="path56"
-         d="M 0,256 H 256 V 0 H 0 Z" /></clipPath></defs><g
-     transform="matrix(1.3333333,0,0,-1.3333333,-5.3333332,277.33333)"
-     id="g10"><g
-       id="g12"><g
-         clip-path="url(#clipPath18)"
-         id="g14"><g
-           id="g20"><g
-             id="g22" /><g
-             id="g32"><g
-               style="opacity:0.5"
-               id="g30"
-               clip-path="url(#clipPath26)"><path
-                 id="path28"
-                 style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                 d="M 252,48 H 4 v 160 h 248 z" /></g></g></g></g></g><path
-       id="path34"
-       style="fill:#a6a6a6;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="M 244,56 H 12 v 144 h 232 z" /><g
-       transform="translate(92.1289,88)"
-       id="g36"><path
-         id="path38"
-         style="fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="M 0,0 -72.129,82.815 V 73.63 L -8,0 Z" /></g><g
-       transform="translate(20.9678,200)"
-       id="g40"><path
-         id="path42"
-         style="fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 0,0 81.032,-93.037 4,4.593 L 8,0 Z" /></g><g
-       transform="translate(104.9678,200)"
-       id="g44"><path
-         id="path46"
-         style="fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 0,0 h -8 l 43.032,-49.407 4,4.592 z" /></g><g
-       transform="translate(16,200)"
-       id="g48"><path
-         id="path50"
-         style="fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="M 0,0 V -116 L 100,0 Z" /></g><g
-       id="g52"><g
-         clip-path="url(#clipPath58)"
-         id="g54"><g
-           transform="translate(152,70)"
-           id="g60"><path
-             id="path62"
-             style="fill:#3096cf;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 0,0 c 0,-5.522 -4.478,-10 -10,-10 -5.522,0 -10,4.478 -10,10 0,5.522 4.478,10 10,10 C -4.478,10 0,5.522 0,0" /></g><g
-           transform="translate(64,102)"
-           id="g64"><path
-             id="path66"
-             style="fill:#9bc2dd;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 0,0 c 0,-5.522 -4.477,-10 -10,-10 -5.523,0 -10,4.478 -10,10 0,5.522 4.477,10 10,10 C -4.477,10 0,5.522 0,0" /></g><g
-           transform="translate(180,70)"
-           id="g68"><path
-             id="path70"
-             style="fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 0,0 c 0,-5.522 -4.478,-10 -10,-10 -5.522,0 -10,4.478 -10,10 0,5.522 4.478,10 10,10 C -4.478,10 0,5.522 0,0" /></g><g
-           transform="translate(208,70)"
-           id="g72"><path
-             id="path74"
-             style="fill:#ed4792;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 0,0 c 0,-5.522 -4.478,-10 -10,-10 -5.522,0 -10,4.478 -10,10 0,5.522 4.478,10 10,10 C -4.478,10 0,5.522 0,0" /></g><g
-           transform="translate(236,70)"
-           id="g76"><path
-             id="path78"
-             style="fill:#6700cc;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 0,0 c 0,-5.522 -4.478,-10 -10,-10 -5.522,0 -10,4.478 -10,10 0,5.522 4.478,10 10,10 C -4.478,10 0,5.522 0,0" /></g><g
-           transform="translate(104.8311,190.9717)"
-           id="g80"><path
-             id="path82"
-             style="fill:#010101;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 0,0 -32.854,-40.353 10.023,-11.507 34,39.036 z" /></g><path
-           id="path84"
-           style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           d="M 244,84 H 12 v 4 h 232 z" /><g
-           transform="translate(60,102)"
-           id="g86"><path
-             id="path88"
-             style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 0,0 c 0,-1.104 -0.896,-2 -2,-2 -1.104,0 -2,0.896 -2,2 0,1.104 0.896,2 2,2 1.104,0 2,-0.896 2,-2" /></g><g
-           transform="translate(108,200)"
-           id="g90"><path
-             id="path92"
-             style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="M 0,0 -92,-106.814 V -116 L 8,0 Z" /></g><g
-           transform="translate(16,121.1201)"
-           id="g94"><path
-             id="path96"
-             style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="M 0,0 68,78.88 H 60 L 0,9.218 Z" /></g><g
-           transform="translate(16,102.5596)"
-           id="g98"><path
-             id="path100"
-             style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="M 0,0 84,97.44 H 76 L 0,9.202 Z" /></g><g
-           transform="translate(16,139.6802)"
-           id="g102"><path
-             id="path104"
-             style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="M 0,0 52,60.32 H 44 L 0,9.234 Z" /></g><g
-           transform="translate(16,195.3599)"
-           id="g106"><path
-             id="path108"
-             style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="M 0,0 4,4.64 H 0 Z" /></g><g
-           transform="translate(16,158.2402)"
-           id="g110"><path
-             id="path112"
-             style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="M 0,0 36,41.76 H 28 L 0,9.251 Z" /></g><g
-           transform="translate(16,176.7998)"
-           id="g114"><path
-             id="path116"
-             style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="M 0,0 20,23.2 H 12 L 0,9.268 Z" /></g></g></g></g></svg>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 27.8.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
+<rect x="4" y="48" style="opacity:0.5;fill:#FFFFFF;" width="248" height="160"/>
+<rect x="12" y="56" style="fill:#D9D4BC;" width="232" height="144"/>
+<polygon style="fill:#C4C0AA;" points="92.129,168 20,85.185 20,94.37 84.129,168 "/>
+<g>
+	<polygon style="fill:#C4C0AA;" points="20.968,56 102,149.037 106,144.444 28.968,56 	"/>
+	<polygon style="fill:#C4C0AA;" points="104.968,56 96.968,56 140,105.407 144,100.815 	"/>
+</g>
+<polygon style="fill:#C4C0AA;" points="16,56 16,172 116,56 "/>
+<circle style="fill:#3096CF;" cx="142" cy="186" r="10"/>
+<circle style="fill:#9BC2DD;" cx="54" cy="154" r="10"/>
+<circle style="fill:#FFFF00;" cx="170" cy="186" r="10"/>
+<circle style="fill:#ED4792;" cx="198" cy="186" r="10"/>
+<circle style="fill:#6700CC;" cx="226" cy="186" r="10"/>
+<path style="fill:#808080;" d="M72,108"/>
+<polygon style="fill:#010101;" points="104.831,65.028 71.977,105.381 82,116.889 116,77.852 "/>
+<rect x="12" y="168" style="fill:#A6A390;" width="232" height="4"/>
+<circle style="fill:#808080;" cx="58" cy="154" r="2"/>
+<g>
+	<polygon style="fill:#A6A390;" points="108,56 16,162.815 16,172 116,56 	"/>
+	<polygon style="fill:#A6A390;" points="16,134.88 84,56 76,56 16,125.662 	"/>
+	<polygon style="fill:#A6A390;" points="16,153.44 100,56 92,56 16,144.238 	"/>
+	<polygon style="fill:#A6A390;" points="16,116.32 68,56 60,56 16,107.085 	"/>
+	<polygon style="fill:#A6A390;" points="16,60.64 20,56 16,56 	"/>
+	<polygon style="fill:#A6A390;" points="16,97.76 52,56 44,56 16,88.509 	"/>
+	<polygon style="fill:#A6A390;" points="16,79.2 36,56 28,56 16,69.932 	"/>
+</g>
+</svg>

@@ -4,7 +4,7 @@
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
 <path style="opacity:0.5;fill:#FFFFFF;" d="M196,4H60c-6.617,0-12,5.383-12,12v224c0,6.617,5.383,12,12,12h116
 	c17.645,0,32-14.355,32-32V16C208,9.383,202.617,4,196,4L196,4z"/>
-<path style="fill:#EAC500;" d="M176,244H60c-2.209,0-4-1.791-4-4V16c0-2.209,1.791-4,4-4h136c2.209,0,4,1.791,4,4v204
+<path style="fill:#FFCB05;" d="M176,244H60c-2.209,0-4-1.791-4-4V16c0-2.209,1.791-4,4-4h136c2.209,0,4,1.791,4,4v204
 	C200,233.255,189.255,244,176,244z"/>
 <path style="fill:#404040;" d="M172,132H72c-2.209,0-4-1.791-4-4V32c0-2.209,1.791-4,4-4h112c2.209,0,4,1.791,4,4v84
 	C188,124.837,180.837,132,172,132z"/>
@@ -16,48 +16,48 @@
 <circle style="fill:#4D4D4D;" cx="153" cy="171" r="9"/>
 <circle style="fill:#4D4D4D;" cx="179" cy="163" r="9"/>
 <circle cx="173" cy="207" r="1"/>
-<circle style="fill:#D4A600;" cx="185" cy="207" r="1"/>
+<circle style="fill:#F99D1C;" cx="185" cy="207" r="1"/>
 <circle cx="189" cy="207" r="1"/>
 <circle cx="181" cy="207" r="1"/>
-<circle style="fill:#D4A600;" cx="177" cy="207" r="1"/>
-<circle style="fill:#D4A600;" cx="173" cy="211" r="1"/>
+<circle style="fill:#F99D1C;" cx="177" cy="207" r="1"/>
+<circle style="fill:#F99D1C;" cx="173" cy="211" r="1"/>
 <circle cx="169" cy="211" r="1"/>
 <circle cx="185" cy="211" r="1"/>
-<circle style="fill:#D4A600;" cx="189" cy="211" r="1"/>
-<circle style="fill:#D4A600;" cx="181" cy="211" r="1"/>
+<circle style="fill:#F99D1C;" cx="189" cy="211" r="1"/>
+<circle style="fill:#F99D1C;" cx="181" cy="211" r="1"/>
 <circle cx="177" cy="211" r="1"/>
 <circle cx="173" cy="215" r="1"/>
-<circle style="fill:#D4A600;" cx="169" cy="215" r="1"/>
+<circle style="fill:#F99D1C;" cx="169" cy="215" r="1"/>
 <circle cx="165" cy="215" r="1"/>
-<circle style="fill:#D4A600;" cx="185" cy="215" r="1"/>
+<circle style="fill:#F99D1C;" cx="185" cy="215" r="1"/>
 <circle cx="189" cy="215" r="1"/>
 <circle cx="181" cy="215" r="1"/>
-<circle style="fill:#D4A600;" cx="177" cy="215" r="1"/>
-<circle style="fill:#D4A600;" cx="173" cy="219" r="1"/>
+<circle style="fill:#F99D1C;" cx="177" cy="215" r="1"/>
+<circle style="fill:#F99D1C;" cx="173" cy="219" r="1"/>
 <circle cx="169" cy="219" r="1"/>
-<circle style="fill:#D4A600;" cx="165" cy="219" r="1"/>
+<circle style="fill:#F99D1C;" cx="165" cy="219" r="1"/>
 <circle cx="185" cy="219" r="1"/>
-<circle style="fill:#D4A600;" cx="189" cy="219" r="1"/>
-<circle style="fill:#D4A600;" cx="181" cy="219" r="1"/>
+<circle style="fill:#F99D1C;" cx="189" cy="219" r="1"/>
+<circle style="fill:#F99D1C;" cx="181" cy="219" r="1"/>
 <circle cx="177" cy="219" r="1"/>
 <circle cx="173" cy="223" r="1"/>
-<circle style="fill:#D4A600;" cx="169" cy="223" r="1"/>
+<circle style="fill:#F99D1C;" cx="169" cy="223" r="1"/>
 <circle cx="165" cy="223" r="1"/>
-<circle style="fill:#D4A600;" cx="185" cy="223" r="1"/>
+<circle style="fill:#F99D1C;" cx="185" cy="223" r="1"/>
 <circle cx="189" cy="223" r="1"/>
 <circle cx="181" cy="223" r="1"/>
-<circle style="fill:#D4A600;" cx="177" cy="223" r="1"/>
-<circle style="fill:#D4A600;" cx="173" cy="227" r="1"/>
+<circle style="fill:#F99D1C;" cx="177" cy="223" r="1"/>
+<circle style="fill:#F99D1C;" cx="173" cy="227" r="1"/>
 <circle cx="169" cy="227" r="1"/>
-<circle style="fill:#D4A600;" cx="165" cy="227" r="1"/>
+<circle style="fill:#F99D1C;" cx="165" cy="227" r="1"/>
 <circle cx="185" cy="227" r="1"/>
-<circle style="fill:#D4A600;" cx="181" cy="227" r="1"/>
+<circle style="fill:#F99D1C;" cx="181" cy="227" r="1"/>
 <circle cx="177" cy="227" r="1"/>
 <circle cx="173" cy="231" r="1"/>
-<circle style="fill:#D4A600;" cx="169" cy="231" r="1"/>
+<circle style="fill:#F99D1C;" cx="169" cy="231" r="1"/>
 <circle cx="165" cy="231" r="1"/>
 <circle cx="181" cy="231" r="1"/>
-<circle style="fill:#D4A600;" cx="177" cy="231" r="1"/>
+<circle style="fill:#F99D1C;" cx="177" cy="231" r="1"/>
 <path style="fill:#4D4D4D;" d="M102,160H92v-10c0-1.105-0.895-2-2-2h-8c-1.105,0-2,0.895-2,2v10H70c-1.105,0-2,0.895-2,2v8
 	c0,1.105,0.895,2,2,2h10v10c0,1.105,0.895,2,2,2h8c1.105,0,2-0.895,2-2v-10h10c1.105,0,2-0.895,2-2v-8
 	C104,160.895,103.105,160,102,160z"/>
