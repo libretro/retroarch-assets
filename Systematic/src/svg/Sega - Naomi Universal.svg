@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 28.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
+<path style="opacity:0.5;fill:#FFFFFF;enable-background:new    ;" d="M184,116.067V100V28V12c0-4.418-3.582-8-8-8h-2h-2
+	c-1.822,0-3.502,0.609-4.848,1.635C157.838,4.607,143.671,4,128,4S98.162,4.607,88.848,5.635C87.502,4.609,85.822,4,84,4h-2h-2
+	c-4.418,0-8,3.582-8,8v16v72v16.066c-2.628,3.567-4,7.635-4,11.934c0.01,3.267,1.13,7.49,4,10.797V240c0,4.418,3.582,8,8,8h2
+	c2.027,0,3.878-0.754,5.288-1.997l7.242-2.414C97.797,242.5,100,239.443,100,236h56c0,3.443,2.203,6.501,5.47,7.589l7.242,2.414
+	c1.41,1.243,3.261,1.997,5.288,1.997h2c4.418,0,8-3.582,8-8V138.798c2.87-3.305,3.99-7.523,4-10.772
+	C188,123.707,186.628,119.634,184,116.067z M100,168v-24h56v24H100z"/>
+<rect x="88" y="188" style="fill:#CCCCCC;" width="80" height="40"/>
+<polygon style="fill:#999999;" points="168,184 88,184 96,176 160,176 "/>
+<rect x="88" y="184" style="fill:#B3B3B3;" width="80" height="8"/>
+<polygon style="fill:#BFBFBF;" points="92,236 80,240 80,132 92,136 "/>
+<polygon style="fill:#BFBFBF;" points="164,236 176,240 176,132 164,136 "/>
+<rect x="80" y="100" style="fill:#D9D9D9;" width="96" height="20"/>
+<polygon style="fill:#D9D9D9;" points="172,28 84,28 88,20 168,20 "/>
+<polygon style="fill:#BFBFBF;" points="168,20 172,116 176,120 176,28 "/>
+<polygon style="fill:#BFBFBF;" points="88,20 84,116 80,120 80,28 "/>
+<rect x="80" y="12" style="fill:#859398;" width="2" height="228"/>
+<rect x="174" y="12" style="fill:#859398;" width="2" height="228"/>
+<path style="fill:#CCCCCC;" d="M172,12v2.401C164.595,12.988,147.686,12,128,12s-36.595,0.988-44,2.401V12h-4v16l4-4l4-4h80l4,4l4,4
+	V12H172z"/>
+<path style="fill:#BEBEBE;" d="M76,128c0,0,0,8,8,8s80,0,88,0s8-8,8-8H76z"/>
+<path style="fill:#E6E6E6;" d="M170.911,116H128H85.089c-0.775,0-1.53,0.222-2.18,0.645C80.721,118.069,76,121.854,76,128
+	c0,0,0,4,12,4s40,0,40,0s28,0,40,0s12-4,12-4c0-6.146-4.721-9.931-6.91-11.355C172.44,116.222,171.686,116,170.911,116L170.911,116z
+	"/>
+<rect x="88" y="16" style="fill:#B80000;" width="80" height="4"/>
+<polygon style="fill:#7B0000;" points="84,20 88,16 88,20 84,24 "/>
+<polygon style="fill:#7B0000;" points="168,16 172,20 172,24 168,20 "/>
+<rect x="84" y="28" style="fill:#666666;" width="88" height="76"/>
+<path style="fill:#4D4D4D;" d="M160,92H96c-2.209,0-4-1.791-4-4V44c0-2.209,1.791-4,4-4h64c2.209,0,4,1.791,4,4v44
+	C164,90.209,162.209,92,160,92z"/>
+<polygon style="fill:#4D4D4D;" points="112,116 88,116 88,108 112,110 "/>
+<polygon style="fill:#4D4D4D;" points="144,116 168,116 168,108 144,110 "/>
+<rect x="116" y="111" style="fill:#CCCCCC;" width="24" height="4"/>
+<path style="fill:#FDB913;" d="M170.911,118c0.389,0,0.766,0.111,1.088,0.321c1.778,1.157,5.878,4.372,5.998,9.45
+	C177.76,128.127,176.115,130,168,130h-40H88c-8.115,0-9.76-1.873-9.997-2.229c0.12-5.078,4.22-8.293,5.998-9.45
+	c0.323-0.21,0.699-0.321,1.088-0.321H128H170.911"/>
+<ellipse style="fill:#404040;" cx="99" cy="126" rx="3" ry="1"/>
+<path style="fill:#4D4D4D;" d="M99,126L99,126c-0.552,0-1-0.448-1-1v-5h2v5C100,125.552,99.552,126,99,126z"/>
+<circle style="fill:#B62971;" cx="99" cy="120" r="2"/>
+<ellipse style="fill:#00FF00;" cx="106" cy="127" rx="2" ry="1"/>
+<ellipse style="fill:#3096CF;" cx="109" cy="124" rx="2" ry="1"/>
+<ellipse style="fill:#FFFF00;" cx="126" cy="125" rx="2" ry="1"/>
+<ellipse style="fill:#FFFF00;" cx="134" cy="125" rx="2" ry="1"/>
+<ellipse style="fill:#B62971;" cx="114" cy="123" rx="2" ry="1"/>
+<ellipse style="fill:#404040;" cx="151" cy="126" rx="3" ry="1"/>
+<path style="fill:#4D4D4D;" d="M151,126L151,126c-0.552,0-1-0.448-1-1v-5h2v5C152,125.552,151.552,126,151,126z"/>
+<circle style="fill:#00FF00;" cx="151" cy="120" r="2"/>
+<ellipse style="fill:#00FF00;" cx="158" cy="127" rx="2" ry="1"/>
+<ellipse style="fill:#3096CF;" cx="161" cy="124" rx="2" ry="1"/>
+<ellipse style="fill:#B62971;" cx="166" cy="123" rx="2" ry="1"/>
+<path style="fill:#B3B3B3;" d="M136,196v28H96v-28H136 M138,194h-2H96h-2v2v28v2h2h40h2v-2v-28V194L138,194z"/>
+<path style="fill:#B3B3B3;" d="M156.422,196c1.976,0,3.578,1.602,3.578,3.578v20.845c0,1.976-1.602,3.578-3.578,3.578h-8.845
+	c-1.976,0-3.578-1.602-3.578-3.578v-20.845c0-1.976,1.602-3.578,3.578-3.578H156.422 M156.422,194.211h-8.845
+	c-2.959,0-5.367,2.407-5.367,5.367v20.845c0,2.959,2.407,5.367,5.367,5.367h8.845c2.959,0,5.367-2.407,5.367-5.367v-20.845
+	C161.789,196.619,159.381,194.211,156.422,194.211L156.422,194.211z"/>
+<circle style="fill:#999999;" cx="150" cy="210" r="2"/>
+<circle style="fill:#999999;" cx="116" cy="202" r="2"/>
+</svg>
