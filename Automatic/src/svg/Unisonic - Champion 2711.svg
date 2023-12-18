@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 28.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
+<g>
+	<path style="fill:#FFFFFF;" d="M12,60v132h232V60H12z M40,188H16V64h24V188z M212,188H44V64h168V188z M240,188h-24V64h24V188z"/>
+	<path style="fill:#FFFFFF;" d="M32,108h4v-4v-8v-4v-8v-4h-4h-8h-4v4v8v4v8v4h4H32z M24,84h8v8h-8V84z M32,96v8h-8v-8H32z"/>
+	<path style="fill:#FFFFFF;" d="M32,132h4v-4v-8v-4h-4h-8h-4v4v8v4h4H32z M24,120h8v8h-8V120z"/>
+	<path style="fill:#FFFFFF;" d="M232,108h4v-4v-8v-4v-8v-4h-4h-8h-4v4v8v4v8v4h4H232z M224,84h8v8h-8V84z M232,96v8h-8v-8H232z"/>
+	<path style="fill:#FFFFFF;" d="M232,132h4v-4v-8v-4h-4h-8h-4v4v8v4h4H232z M224,120h8v8h-8V120z"/>
+	<path style="fill:#FFFFFF;" d="M60,184h136c4.418,0,8-3.582,8-8V76c0-4.418-3.582-8-8-8H60c-4.418,0-8,3.582-8,8v100
+		C52,180.418,55.582,184,60,184z M56,76c0-2.206,1.794-4,4-4h136c2.206,0,4,1.794,4,4v100c0,2.206-1.794,4-4,4H60
+		c-2.206,0-4-1.794-4-4V76z"/>
+	<path style="fill:#FFFFFF;" d="M64,115.778V116v56c0,2.206,1.794,4,4,4h120c2.206,0,4-1.794,4-4v-56v-0.222l0.024-0.22
+		l3.971-35.742C195.899,77.696,194.144,76,192,76H64c-2.144,0-3.899,1.696-3.996,3.816l3.971,35.742L64,115.778z M191.951,80
+		l-3.902,35.116l-0.024,0.22l-0.024,0.22v0.222V116v56H68v-56v-0.222v-0.222l-0.024-0.22l-0.024-0.22L64.049,80H191.951z"/>
+	<path style="fill:#FFFFFF;" d="M73.965,103.93h108.07c3.251,0,5.896-2.645,5.896-5.896v-8.07c0-3.251-2.645-5.896-5.896-5.896
+		H73.965c-3.251,0-5.896,2.645-5.896,5.896v8.07C68.07,101.286,70.714,103.93,73.965,103.93z M72,89.965
+		C72,88.88,72.88,88,73.965,88h108.07c1.085,0,1.965,0.88,1.965,1.965v8.07c0,1.085-0.88,1.965-1.965,1.965H73.965
+		C72.88,100,72,99.12,72,98.035V89.965z"/>
+	<path style="fill:#FFFFFF;" d="M96,108h-4v4v12v4h4h64h4v-4v-12v-4h-4H96z M160,124H96v-12h64V124z"/>
+	<path style="fill:#FFFFFF;" d="M140,132h-4h-32h-4v4v20v4h4h32h4h12h4v-4v-20v-4h-4H140z M136,156h-32v-20h32V156z M152,156h-12
+		v-20h12V156z"/>
+</g>
+</svg>
