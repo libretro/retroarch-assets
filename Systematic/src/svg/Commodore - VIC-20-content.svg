@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 27.8.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
-<path style="opacity:0.5;fill:#FFFFFF;" d="M240,56H16C9.383,56,4,61.383,4,68v120v8h8h232h8v-8V68C252,61.383,246.617,56,240,56
-	L240,56z"/>
-<path style="fill:#A6A390;" d="M244,188H12V68c0-2.209,1.791-4,4-4h224c2.209,0,4,1.791,4,4V188z"/>
-<rect x="20" y="68" style="fill:#D9D4BC;" width="216" height="108"/>
-<path style="fill:#F2F2F2;" d="M228,168H28c-2.209,0-4-1.791-4-4V76c0-2.209,1.791-4,4-4h200c2.209,0,4,1.791,4,4v88
-	C232,166.209,230.209,168,228,168z"/>
-<path style="fill:#808080;" d="M216,92c2.209,0,4,1.791,4,4v56c0,2.209-1.791,4-4,4H40c-2.209,0-4-1.791-4-4V96c0-2.209,1.791-4,4-4
-	H216 M216,88H40c-4.411,0-8,3.589-8,8v56c0,4.411,3.589,8,8,8h176c4.411,0,8-3.589,8-8V96C224,91.589,220.411,88,216,88L216,88z"/>
-<path style="fill:#C4C0AA;" d="M236,176l8,12V67.236c0-1.487-1.565-2.454-2.894-1.789L236,68V176z"/>
-<path style="fill:#C4C0AA;" d="M20,176l-8,12V67.236c0-1.487,1.565-2.454,2.894-1.789L20,68V176z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 256 256"><path d="M240 56H16C9.383 56 4 61.383 4 68v128h248V68c0-6.617-5.383-12-12-12" style="opacity:.5;fill:#fff"/><path d="M244 188H12V68a4 4 0 0 1 4-4h224a4 4 0 0 1 4 4z" style="fill:#a6a390"/><path d="M20 68h216v108H20z" style="fill:#d9d4bc"/><path d="M228 168H28a4 4 0 0 1-4-4V76a4 4 0 0 1 4-4h200a4 4 0 0 1 4 4v88a4 4 0 0 1-4 4" style="fill:#f2f2f2"/><path d="M216 92a4 4 0 0 1 4 4v56a4 4 0 0 1-4 4H40a4 4 0 0 1-4-4V96a4 4 0 0 1 4-4zm0-4H40c-4.411 0-8 3.589-8 8v56c0 4.411 3.589 8 8 8h176c4.411 0 8-3.589 8-8V96c0-4.411-3.589-8-8-8" style="fill:gray"/><path d="m236 176 8 12V67.236c0-1.487-1.565-2.454-2.894-1.789L236 68zm-216 0-8 12V67.236c0-1.487 1.565-2.454 2.894-1.789L20 68z" style="fill:#c4c0aa"/></svg>
