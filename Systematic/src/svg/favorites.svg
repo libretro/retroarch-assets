@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 27.8.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
-<g>
-	<path style="opacity:0.5;fill:#FFFFFF;" d="M190.608,20H186H70h-4.608l-2.312,3.986l-58,100L2.752,128l2.328,4.014l58,100
-		L65.392,236H70h116h4.608l2.312-3.986l58-100l2.328-4.014l-2.328-4.014l-58-100L190.608,20L190.608,20z"/>
-	<polygon points="186,28 70,28 12,128 70,228 186,228 244,128 	"/>
-</g>
-<polygon style="fill:#D9AF63;" points="128,32 152,100 224,100 164,148 188,216 128,172 68,216 92,148 32,100 104,100 "/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 256 256"><path d="M190.608 20H65.392l-2.312 3.986-58 100L2.752 128l2.328 4.014 58 100L65.392 236h125.216l2.312-3.986 58-100 2.328-4.014-2.328-4.014-58-100z" style="opacity:.5;fill:#fff"/><path d="M186 28H70L12 128l58 100h116l58-100z"/><path d="m128 32 24 68h72l-60 48 24 68-60-44-60 44 24-68-60-48h72z" style="fill:#d9af63"/></svg>
