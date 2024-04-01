@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 convert_xmb_assets()
 {
 	SRC_DIR="$1"
