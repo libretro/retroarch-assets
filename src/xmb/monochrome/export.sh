@@ -1,5 +1,19 @@
 #!/usr/bin/env bash
 
+exitFlag=0
+checkCommand() {
+	if ! command -v "${1}" >/dev/null; then
+		echo "${1} not installed!"
+		exitFlag=1
+	fi
+}
+checkCommand 'inkscape'
+checkCommand 'magick'
+checkCommand 'optipng'
+if [[ ${exitFlag} -eq 1 ]]; then
+	exit 1
+fi
+
 for src in *.svg; do
 	echo $src;
 	export dest=$(echo $src | sed "s/.svg/.png/")
