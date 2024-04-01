@@ -8,7 +8,7 @@ checkCommand() {
 	fi
 }
 checkCommand 'convert'
-checkCommand 'optipng'
+checkCommand 'oxipng'
 if [[ ${exitFlag} -eq 1 ]]; then
 	exit 1
 fi
@@ -65,7 +65,7 @@ convert_xmb_assets()
 					else
 						convert -background 'rgb(255,255,255)' -alpha Background "$SRC_FILE" -resize $SCALE_FACTOR "$DST_FILE"
 					fi
-					optipng -quiet -o7 -strip all "$DST_FILE"
+					oxipng --quiet --zopfli --opt max --strip all "$DST_FILE"
 
 				fi
 			done

@@ -9,7 +9,7 @@ checkCommand() {
 }
 checkCommand 'inkscape'
 checkCommand 'magick'
-checkCommand 'optipng'
+checkCommand 'oxipng'
 if [[ ${exitFlag} -eq 1 ]]; then
 	exit 1
 fi
@@ -41,7 +41,7 @@ do
    mkdir -p ../../../ozone/png/icons
    inkscape -z -C -w $size -h $size -f "$src" -e "../../../ozone/png/icons/$dest"
    magick mogrify -background 'rgb(255,255,255)' -alpha Background "../../../ozone/png/icons/$dest"
-   optipng -o7 -strip all "../../../ozone/png/icons/$dest"
+   oxipng --quiet --zopfli --opt max --strip all "../../../ozone/png/icons/$dest"
 done
 
 # Override some icons (different size and color)
@@ -50,14 +50,14 @@ export dest=$(echo $src | sed "s/.svg/.png/")
 mkdir -p ../../../ozone/png/icons
 inkscape -z -C -w 92 -h 92 -f "$src" -e "../../../ozone/png/icons/$dest"
 magick mogrify -background 'rgb(255,255,255)' -alpha Background "../../../ozone/png/icons/$dest"
-optipng -o7 -strip all "../../../ozone/png/icons/$dest"
+oxipng --quiet --zopfli --opt max --strip all "../../../ozone/png/icons/$dest"
 
 for src in battery-*.svg; do
    export dest=$(echo $src | sed "s/.svg/.png/")
    mkdir -p ../../../ozone/png/icons
    inkscape -z -C -w 92 -h 92 -f "$src" -e "../../../ozone/png/icons/$dest"
    magick mogrify -background 'rgb(255,255,255)' -alpha Background "../../../ozone/png/icons/$dest"
-   optipng -o7 -strip all "../../../ozone/png/icons/$dest"
+   oxipng --quiet --zopfli --opt max --strip all "../../../ozone/png/icons/$dest"
 done
 
 src="dialog-slice.svg"
@@ -65,21 +65,21 @@ export dest=$(echo $src | sed "s/.svg/.png/")
 mkdir -p ../../../ozone/png/icons
 inkscape -z -C -w 256 -h 256 -f "$src" -e "../../../ozone/png/icons/$dest"
 magick mogrify -background 'rgb(255,255,255)' -alpha Background "../../../ozone/png/icons/$dest"
-optipng -o7 -strip all "../../../ozone/png/icons/$dest"
+oxipng --quiet --zopfli --opt max --strip all "../../../ozone/png/icons/$dest"
 
 src="key-hover.svg"
 export dest=$(echo $src | sed "s/.svg/.png/")
 mkdir -p ../../../ozone/png/icons
 inkscape -z -C -w 256 -h 256 -f "$src" -e "../../../ozone/png/icons/$dest"
 magick mogrify -background 'rgb(255,255,255)' -alpha Background "../../../ozone/png/icons/$dest"
-optipng -o7 -strip all "../../../ozone/png/icons/$dest"
+oxipng --quiet --zopfli --opt max --strip all "../../../ozone/png/icons/$dest"
 
 src="key.svg"
 export dest=$(echo $src | sed "s/.svg/.png/")
 mkdir -p ../../../ozone/png/icons
 inkscape -z -C -w 256 -h 256 -f "$src" -e "../../../ozone/png/icons/$dest"
 magick mogrify -background 'rgb(255,255,255)' -alpha Background "../../../ozone/png/icons/$dest"
-optipng -o7 -strip all "../../../ozone/png/icons/$dest"
+oxipng --quiet --zopfli --opt max --strip all "../../../ozone/png/icons/$dest"
 
 # Export auxiliary sidebar icons
 SIDEBAR_SRC[0]="add.svg"            # add.png
@@ -162,7 +162,7 @@ do
    fi
 
    magick mogrify -background 'rgb(255,255,255)' -alpha Background "../../../ozone/png/sidebar/$dest"
-   optipng -o7 -strip all "../../../ozone/png/sidebar/$dest"
+   oxipng --quiet --zopfli --opt max --strip all "../../../ozone/png/sidebar/$dest"
 
 done
 
@@ -174,7 +174,7 @@ dest="netplay.png"
 magick convert "$src" xc:"#ffffff" -channel RGB -clut "../../../ozone/png/sidebar/$dest"
 magick mogrify -resize 64x64 "../../../ozone/png/sidebar/$dest"
 magick mogrify -background 'rgb(255,255,255)' -alpha Background "../../../ozone/png/sidebar/$dest"
-optipng -o7 -strip all "../../../ozone/png/sidebar/$dest"
+oxipng --quiet --zopfli --opt max --strip all "../../../ozone/png/sidebar/$dest"
 
 # Export main RetroArch icon
 src="menu_quickmenu.svg"
@@ -186,4 +186,4 @@ border_size=11
 inkscape -z -C -w $size -h $size -f "$src" -e "../../../ozone/png/$dest"
 magick mogrify -shave $border_size "../../../ozone/png/$dest"
 magick mogrify -background 'rgb(255,255,255)' -alpha Background "../../../ozone/png/$dest"
-optipng -o7 -strip all "../../../ozone/png/$dest"
+oxipng --quiet --zopfli --opt max --strip all "../../../ozone/png/$dest"
