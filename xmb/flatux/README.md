@@ -6,7 +6,7 @@ About FlatUX
 
 FlatUX is a theme that is intended to replace the FlatUI and Retroactive themes.  FlatUI is one of the pioneering themes that was created for the Libretro XMB and was designed to be an alternative to the default Monochrome theme.  Retroactive is a theme that set out to colorize the Monochrome theme.  
 
-For years, FlatUI had an incomplete set of icons with a call to contributors to complete the set. In 2022, [baxysquare] (https://github.com/baxysquare/) decided to merge FlatUI and Retroactive into a single theme in order to complete both theme projects in a satisfactory manner. The RetroActive icons had their borders removed and were recolored with the expanded FlatUI color palette to become the FlatUX theme. 
+For years, FlatUI had an incomplete set of icons with a call to contributors to complete the set. In 2022, [baxysquare](https://github.com/baxysquare/) decided to merge FlatUI and Retroactive into a single theme in order to complete both theme projects in a satisfactory manner. The RetroActive icons had their borders removed and were recolored with the expanded FlatUI color palette to become the FlatUX theme. 
 
 Source files for development of this theme can be found at https://github.com/baxysquare/baxy-retroarch-themes
 
