@@ -1,4 +1,4 @@
-The retroarch-assets repository is the home of the user interface elements used to generate the various User Experience (UX) environments. The UX environments are referred as "menu drivers" and you can switch between environments on most platforms at any time.
+The retroarch-assets repository is the home of the user interface elements used to generate the various User Experience (UX) environments. The UX environments are referred to as "menu drivers" and you can switch between environments on most platforms at any time.
 
 - Ozone is the default UX. It offers easy use thanks to its simple menu-driven interface structure.
 - GLUI is a UX for touch devices. It works great on phones and tablets.
