@@ -11,7 +11,6 @@ stages:
     - cp -R ./branding ${MEDIA_PATH}/${CI_PROJECT_NAME}
     - cp ./COPYING ${MEDIA_PATH}/${CI_PROJECT_NAME}
     - cp -R ./glui ${MEDIA_PATH}/${CI_PROJECT_NAME}
-    - cp -R ./menu_widgets ${MEDIA_PATH}/${CI_PROJECT_NAME}
     - cp -R ./nxrgui ${MEDIA_PATH}/${CI_PROJECT_NAME}
     - cp -R ./ozone ${MEDIA_PATH}/${CI_PROJECT_NAME}
     - cp -R ./pkg ${MEDIA_PATH}/${CI_PROJECT_NAME}
