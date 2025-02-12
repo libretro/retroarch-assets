@@ -9,6 +9,8 @@ Systematic follows most of the guidelines set by the RetroActive theme.  System 
 
 You will find that multiple variations of many systems have been created to represent region, color or model differences.  However, the XMB is only capable of displaying the default system icon.  If you wish to switch a system icon in the system, rename the default icon and give the replacement icon the original default name.  For example, if you want to represent the Atari 2600 with a 4-switch, Jr. or Vader icon, rename the desired icon <i>Atari - 2600.png</i>.
 
+Source files for this theme can be found on the [baxy-retroarch-themes] (https://github.com/baxysquare/baxy-retroarch-themes) repository.
+
 Guidelines
 ----------
 
