@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.0"
+   width="512.000000pt"
+   height="512.000000pt"
+   viewBox="0 0 512.000000 512.000000"
+   preserveAspectRatio="xMidYMid meet"
+   id="svg8"
+   sodipodi:docname="DICE - Arcade.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     showgrid="false"
+     inkscape:zoom="0.84228516"
+     inkscape:cx="340.73971"
+     inkscape:cy="341.33333"
+     inkscape:window-width="1366"
+     inkscape:window-height="768"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <metadata
+     id="metadata1">
+Created by potrace 1.16, written by Peter Selinger 2001-2019
+</metadata>
+  <g
+     transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)"
+     fill="#000000"
+     stroke="none"
+     id="g8"
+     style="fill:#ffffff">
+    <path
+       d="M1440 4800 l0 -160 -160 0 -160 0 0 -160 0 -160 -160 0 -160 0 0 -160 0 -160 -160 0 -160 0 0 -160 0 -160 -160 0 -160 0 0 -1600 0 -1600 160 0 160 0 0 -160 0 -160 1600 0 1600 0 0 160 0 160 160 0 160 0 0 160 0 160 160 0 160 0 0 160 0 160 160 0 160 0 0 160 0 160 160 0 160 0 0 1600 0 1600 -160 0 -160 0 0 160 0 160 -1600 0 -1600 0 0 -160z m2880 -320 l0 -160 160 0 160 0 0 -1440 0 -1440 -160 0 -160 0 0 -160 0 -160 -160 0 -160 0 0 -160 0 -160 -160 0 -160 0 0 1440 0 1440 -1440 0 -1440 0 0 160 0 160 160 0 160 0 0 160 0 160 160 0 160 0 0 160 0 160 1440 0 1440 0 0 -160z m-960 -2560 l0 -1440 -1440 0 -1440 0 0 1440 0 1440 1440 0 1440 0 0 -1440z"
+       id="path1"
+       style="fill:#ffffff" />
+    <path
+       d="M2400 4160 l0 -160 160 0 160 0 0 160 0 160 -160 0 -160 0 0 -160z"
+       id="path2"
+       style="fill:#ffffff" />
+    <path
+       d="M4000 4160 l0 -160 -160 0 -160 0 0 -160 0 -160 160 0 160 0 0 160 0 160 160 0 160 0 0 160 0 160 -160 0 -160 0 0 -160z"
+       id="path3"
+       style="fill:#ffffff" />
+    <path
+       d="M4000 3200 l0 -160 160 0 160 0 0 160 0 160 -160 0 -160 0 0 -160z"
+       id="path4"
+       style="fill:#ffffff" />
+    <path
+       d="M4000 1920 l0 -160 160 0 160 0 0 160 0 160 -160 0 -160 0 0 -160z"
+       id="path5"
+       style="fill:#ffffff" />
+    <path
+       d="M800 2400 l0 -640 160 0 160 0 0 640 0 640 -160 0 -160 0 0 -640z"
+       id="path6"
+       style="fill:#ffffff" />
+    <path
+       d="M1760 1920 l0 -160 160 0 160 0 0 160 0 160 -160 0 -160 0 0 -160z"
+       id="path7"
+       style="fill:#ffffff" />
+    <path
+       d="M2720 1440 l0 -640 160 0 160 0 0 640 0 640 -160 0 -160 0 0 -640z"
+       id="path8"
+       style="fill:#ffffff" />
+  </g>
+</svg>
