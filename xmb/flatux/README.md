@@ -8,7 +8,7 @@ FlatUX is a theme that is intended to replace the FlatUI and Retroactive themes.
 
 For years, FlatUI had an incomplete set of icons with a call to contributors to complete the set. In 2022, [baxysquare](https://github.com/baxysquare/) decided to merge FlatUI and Retroactive into a single theme in order to complete both theme projects in a satisfactory manner. The RetroActive icons had their borders removed and were recolored with the expanded FlatUI color palette to become the FlatUX theme. 
 
-Source files for development of this theme can be found at https://github.com/baxysquare/baxy-retroarch-themes
+Source files for this theme can be found on the [baxy-retroarch-themes] (https://github.com/baxysquare/baxy-retroarch-themes) repository.
 
 Guidelines
 ----------

@@ -5,6 +5,8 @@ About Automatic
 -----------------
 Automatic is a theme that is inspired by the outline artwork on Nintendo's Super Famicom box and Apple's line drawings of 1984-2014 Mac models that were featured on the 30 Years of Mac site.  Automatic builds on the work of the Systematic theme by using an outlined top-down system icon and media icons such as cartridges or discs. User interface icons use an outlined square to underscore the simplicity of the design.
 
+Source files for this theme can be found on the [baxy-retroarch-themes] (https://github.com/baxysquare/baxy-retroarch-themes) repository.
+
 
 Guidelines
 ----------
