@@ -19,4 +19,4 @@
 
 cd -- "$(cd -- "$(dirname -- "$0")" && pwd -P)"
 
-inkscape -z -e "$1/png/$2.png" -w 256 -h 256 "../src/xmb/$1/$2.svg"
+inkscape -z -o "$1/png/$2.png" -w 256 -h 256 "../src/xmb/$1/$2.svg"

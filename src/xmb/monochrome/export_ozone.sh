@@ -23,23 +23,25 @@ do
 
    export dest=`echo $src | sed "s/.svg/.png/"`
    mkdir -p ../../../ozone/png/icons
-   inkscape -z -C -w $size -h $size -f "$src" -e "../../../ozone/png/icons/$dest"
+   inkscape -z -C -w $size -h $size "$src" -o "../../../ozone/png/icons/$dest"
    magick mogrify -background 'rgb(255,255,255)' -alpha Background "../../../ozone/png/icons/$dest"
    optipng -o7 -strip all "../../../ozone/png/icons/$dest"
 done
+
+exit
 
 # Override some icons (different size and color)
 src="clock.svg"
 export dest=`echo $src | sed "s/.svg/.png/"`
 mkdir -p ../../../ozone/png/icons
-inkscape -z -C -w 92 -h 92 -f "$src" -e "../../../ozone/png/icons/$dest"
+inkscape -z -C -w 92 -h 92 "$src" -o "../../../ozone/png/icons/$dest"
 magick mogrify -background 'rgb(255,255,255)' -alpha Background "../../../ozone/png/icons/$dest"
 optipng -o7 -strip all "../../../ozone/png/icons/$dest"
 
 for src in battery-*.svg; do
    export dest=`echo $src | sed "s/.svg/.png/"`
    mkdir -p ../../../ozone/png/icons
-   inkscape -z -C -w 92 -h 92 -f "$src" -e "../../../ozone/png/icons/$dest"
+   inkscape -z -C -w 92 -h 92 "$src" -o "../../../ozone/png/icons/$dest"
    magick mogrify -background 'rgb(255,255,255)' -alpha Background "../../../ozone/png/icons/$dest"
    optipng -o7 -strip all "../../../ozone/png/icons/$dest"
 done
@@ -47,21 +49,21 @@ done
 src="dialog-slice.svg"
 export dest=`echo $src | sed "s/.svg/.png/"`
 mkdir -p ../../../ozone/png/icons
-inkscape -z -C -w 256 -h 256 -f "$src" -e "../../../ozone/png/icons/$dest"
+inkscape -z -C -w 256 -h 256 "$src" -o "../../../ozone/png/icons/$dest"
 magick mogrify -background 'rgb(255,255,255)' -alpha Background "../../../ozone/png/icons/$dest"
 optipng -o7 -strip all "../../../ozone/png/icons/$dest"
 
 src="key-hover.svg"
 export dest=`echo $src | sed "s/.svg/.png/"`
 mkdir -p ../../../ozone/png/icons
-inkscape -z -C -w 256 -h 256 -f "$src" -e "../../../ozone/png/icons/$dest"
+inkscape -z -C -w 256 -h 256 "$src" -o "../../../ozone/png/icons/$dest"
 magick mogrify -background 'rgb(255,255,255)' -alpha Background "../../../ozone/png/icons/$dest"
 optipng -o7 -strip all "../../../ozone/png/icons/$dest"
 
 src="key.svg"
 export dest=`echo $src | sed "s/.svg/.png/"`
 mkdir -p ../../../ozone/png/icons
-inkscape -z -C -w 256 -h 256 -f "$src" -e "../../../ozone/png/icons/$dest"
+inkscape -z -C -w 256 -h 256 "$src" -o "../../../ozone/png/icons/$dest"
 magick mogrify -background 'rgb(255,255,255)' -alpha Background "../../../ozone/png/icons/$dest"
 optipng -o7 -strip all "../../../ozone/png/icons/$dest"
 
@@ -123,7 +125,7 @@ do
    size=${SIDEBAR_DST_SIZE[INDEX]}
    border_size=${SIDEBAR_DST_BORDER[INDEX]}
 
-   inkscape -z -C -w $size -h $size -f "$src" -e "../../../ozone/png/sidebar/$dest"
+   inkscape -z -C -w $size -h $size "$src" -o "../../../ozone/png/sidebar/$dest"
 
    # flatui icons are coloured - change to monochrome
    if [[ $src_dir == "../flatui/" ]]
@@ -167,7 +169,7 @@ dest="retroarch.png"
 size=118
 border_size=11
 
-inkscape -z -C -w $size -h $size -f "$src" -e "../../../ozone/png/$dest"
+inkscape -z -C -w $size -h $size "$src" -o "../../../ozone/png/$dest"
 magick mogrify -shave $border_size "../../../ozone/png/$dest"
 magick mogrify -background 'rgb(255,255,255)' -alpha Background "../../../ozone/png/$dest"
 optipng -o7 -strip all "../../../ozone/png/$dest"
