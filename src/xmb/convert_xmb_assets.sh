@@ -1,3 +1,18 @@
+#!/usr/bin/env bash
+
+exitFlag=0
+checkCommand() {
+	if ! command -v "${1}" >/dev/null; then
+		echo "${1} not installed!"
+		exitFlag=1
+	fi
+}
+checkCommand 'convert'
+checkCommand 'oxipng'
+if [[ ${exitFlag} -eq 1 ]]; then
+	exit 1
+fi
+
 convert_xmb_assets()
 {
 	SRC_DIR="$1"
@@ -50,7 +65,7 @@ convert_xmb_assets()
 					else
 						convert -background 'rgb(255,255,255)' -alpha Background "$SRC_FILE" -resize $SCALE_FACTOR "$DST_FILE"
 					fi
-					optipng -quiet -o7 -strip all "$DST_FILE"
+					oxipng --quiet --zopfli --opt max --strip all "$DST_FILE"
 
 				fi
 			done
