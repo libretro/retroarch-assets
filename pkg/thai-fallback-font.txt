@@ -1,0 +1,26 @@
+thai-fallback-font.ttf: Waree
+
+Waree is a Thai font from the Thai Linux Working Group (TLWG). Its Latin
+glyphs come from Bitstream Vera, the same source fallback-font.ttf
+(DejaVu Sans) derives from, so Latin text keeps a familiar shape when the
+menu switches to Thai.
+
+Version 001.002.
+
+Licensing, per the font's own name table:
+
+  Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.
+  TLWG changes are in public domain.
+
+The Bitstream Vera permission notice grants the right to use, copy,
+merge, publish, distribute and sell the font software, provided the
+copyright and permission notices are kept with it and the font is not
+distributed under the name "Bitstream Vera" alone. The full text ships
+inside the font's licence name record.
+
+This font is mainly for Thai language support. It carries Latin, digits
+and punctuation as well as Thai, which the menu needs: entries mix
+translated strings with core names, file paths and untranslated labels,
+so a Thai-only font would render everything else as missing glyphs.
+Noto Sans Thai, the obvious first choice, is Thai-only for this reason
+and is not suitable on its own.
